@@ -68,8 +68,9 @@ def _text_fee(data: dict[str, Any]) -> str:
 
 
 def _text_instructors(data: dict[str, Any]) -> str:
+    course_name = data.get("course_name", "")
     instructors = data.get("instructors") or []
-    parts = [f"Instructors: {len(instructors)} instructors."]
+    parts = [f"{course_name}. Instructors: {len(instructors)} instructors."] if course_name else [f"Instructors: {len(instructors)} instructors."]
     for i in instructors:
         parts.append(f"{i.get('name', '')}: {i.get('role', '')}.")
     return " ".join(parts)

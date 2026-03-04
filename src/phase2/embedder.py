@@ -3,12 +3,17 @@ Embedding using sentence-transformers. Used for indexing and query encoding.
 """
 from __future__ import annotations
 
-from typing import List, Union
+from typing import Dict, List, Union
+
+# Reuse the same embedder per model_name so the heavy model loads only once per process.
+_embedder_cache: Dict[str, "_Embedder"] = {}
 
 
 def get_embedder(model_name: str = "sentence-transformers/all-MiniLM-L6-v2"):
-    """Return an embedder instance (lazy load model on first encode)."""
-    return _Embedder(model_name)
+    """Return a cached embedder instance (lazy load model on first encode, then reuse)."""
+    if model_name not in _embedder_cache:
+        _embedder_cache[model_name] = _Embedder(model_name)
+    return _embedder_cache[model_name]
 
 
 class _Embedder:

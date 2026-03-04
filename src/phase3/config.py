@@ -43,7 +43,7 @@ class Phase3Config:
         self,
         groq_api_key: Optional[str] = None,
         groq_model: Optional[str] = None,
-        retrieval_top_k: int = 8,
+        retrieval_top_k: int = 5,
     ) -> None:
         self.groq_api_key = groq_api_key or get_groq_api_key()
         self.groq_model = groq_model or get_groq_model()

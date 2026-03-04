@@ -50,10 +50,17 @@ def _metadata_for_chroma(meta: dict) -> dict:
     return out
 
 
+# Reuse the same collection per (path, name) to avoid reopening the DB on every request.
+_collection_cache: dict[tuple[str, str], Any] = {}
+
+
 def load_collection(persist_path: Path, collection_name: str = "nextleap_courses"):
-    """Return Chroma collection for querying."""
-    client = chromadb.PersistentClient(path=str(persist_path), settings=Settings(anonymized_telemetry=False))
-    return client.get_collection(name=collection_name)
+    """Return Chroma collection for querying (cached by path and collection name)."""
+    key = (str(persist_path), collection_name)
+    if key not in _collection_cache:
+        client = chromadb.PersistentClient(path=str(persist_path), settings=Settings(anonymized_telemetry=False))
+        _collection_cache[key] = client.get_collection(name=collection_name)
+    return _collection_cache[key]
 
 
 def query_collection(

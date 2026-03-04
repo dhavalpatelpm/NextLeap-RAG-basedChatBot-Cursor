@@ -44,13 +44,30 @@ def _sync_canonical_to_course_details(repo_root: Optional[Path] = None) -> None:
 
 
 def _write_last_refresh(config: Phase5Config) -> None:
-    """Write current UTC timestamp to data/.last_refresh."""
+    """Write current UTC timestamp to data/.last_refresh and data/structured/courses.json."""
     config.repo_root = config.repo_root or Path(__file__).resolve().parent.parent.parent
     data_dir = config.repo_root / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
+    ts = datetime.now(timezone.utc).isoformat()
     path = config.last_refresh_path
-    path.write_text(datetime.now(timezone.utc).isoformat(), encoding="utf-8")
+    path.write_text(ts, encoding="utf-8")
     logger.info("Wrote last_refresh: %s", path)
+
+    # Write data/structured/courses.json for frontend display (last_updated date)
+    structured_dir = data_dir / "structured"
+    structured_dir.mkdir(parents=True, exist_ok=True)
+    from src.phase1.config import COURSE_URLS, COHORT_NAMES, get_course_url
+    courses = []
+    for key in COURSE_URLS.keys():
+        courses.append({
+            "key": key,
+            "name": COHORT_NAMES.get(key, key.replace("_", " ").title()),
+            "url": get_course_url(key),
+        })
+    payload = {"last_updated": ts, "courses": courses}
+    courses_path = structured_dir / "courses.json"
+    courses_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    logger.info("Wrote courses.json: %s", courses_path)
 
 
 def run_refresh(
@@ -101,8 +118,17 @@ def run_refresh(
 
 
 def get_last_refresh_iso(config: Optional[Phase5Config] = None) -> Optional[str]:
-    """Return last refresh timestamp (ISO string) or None if never run."""
+    """Return last refresh timestamp (ISO string) or None if never run.
+    Prefers data/structured/courses.json when present, else data/.last_refresh."""
     cfg = config or Phase5Config()
+    root = cfg.repo_root or Path(__file__).resolve().parent.parent.parent
+    courses_path = root / "data" / "structured" / "courses.json"
+    if courses_path.exists():
+        try:
+            data = json.loads(courses_path.read_text(encoding="utf-8"))
+            return (data.get("last_updated") or "").strip() or None
+        except Exception:
+            pass
     path = cfg.last_refresh_path
     if not path.exists():
         return None

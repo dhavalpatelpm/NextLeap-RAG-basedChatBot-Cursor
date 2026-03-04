@@ -10,7 +10,12 @@ Rules:
 3. Do not invent or infer information that is not in the context.
 4. When the context has relevant information, give a clear, concise answer and mention the course name when relevant.
 5. If the user asks about a specific course, use only the context for that course.
-6. You can include the source URL from the context so the user can visit the course page for more details."""
+6. You can include the source URL from the context so the user can visit the course page for more details.
+7. When listing items (e.g. instructors, courses, tools), put each item on its own line with clear numbering:
+   1. First item
+   2. Second item
+   3. Third item
+   and so on. Use a blank line between each numbered item for readability."""
 
 
 def build_context_block(chunks: list[dict]) -> str:

@@ -26,10 +26,14 @@ def retrieve(
     k = top_k if top_k is not None else cfg.top_k
     if not cfg.vector_store_path or not cfg.vector_store_path.exists():
         return []
+    try:
+        collection = load_collection(cfg.vector_store_path, cfg.collection_name)
+    except Exception:
+        # Collection not built yet (e.g. run scripts/run_phase2.py first)
+        return []
     embedder = get_embedder(cfg.embed_model_name)
     query_embedding = embedder.encode(query)
     if isinstance(query_embedding[0], list):
         query_embedding = query_embedding[0]
-    collection = load_collection(cfg.vector_store_path, cfg.collection_name)
     where = {"cohort_id": cohort_id} if cohort_id else None
     return query_collection(collection, query_embedding, top_k=k, where=where)

@@ -109,11 +109,16 @@ python scripts/run_phase5_refresh.py
 python scripts/run_phase5_refresh.py --no-scrape
 ```
 
-**Optional: run refresh on a schedule (e.g. every 24h):**
+**GitHub Actions (10 AM daily):**
+
+A workflow runs the refresh at **10:00 UTC** every day: `.github/workflows/scheduled-refresh.yml`. It also commits updated `data/course_details/` and `data/.last_refresh` back to the repo. To change the time (e.g. 10 AM IST), edit the `cron` in the workflow (10 AM IST = `30 4 * * *` in UTC).
+
+**Local scheduler (optional):**
 
 ```bash
 pip install apscheduler   # or use requirements.txt
 python scripts/run_phase5_scheduler.py --interval 24
+python scripts/run_phase5_scheduler.py --interval 24 --run-now   # run immediately, then every 24h
 ```
 
 **Cron example (daily at 2 AM):**  

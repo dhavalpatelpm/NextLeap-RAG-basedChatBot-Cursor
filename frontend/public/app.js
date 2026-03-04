@@ -157,4 +157,30 @@
       }
     });
   });
+
+  function formatLastUpdated(iso) {
+    if (!iso) return null;
+    try {
+      var d = new Date(iso);
+      return d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+    } catch (e) {
+      return null;
+    }
+  }
+
+  fetch(API_BASE + '/api/status')
+    .then(function (res) { return res.ok ? res.json() : null; })
+    .then(function (data) {
+      var el = document.getElementById('last-updated');
+      if (!el) return;
+      var iso = data && data.data_last_refreshed_at;
+      var formatted = formatLastUpdated(iso);
+      if (formatted) {
+        var label = el.querySelector('.last-updated-label');
+        var dateEl = el.querySelector('.last-updated-date');
+        if (label) label.textContent = 'Data last updated';
+        if (dateEl) dateEl.textContent = formatted;
+      }
+    })
+    .catch(function () {});
 })();

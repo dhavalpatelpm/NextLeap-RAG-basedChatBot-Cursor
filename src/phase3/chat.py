@@ -80,7 +80,7 @@ def chat(
             {"role": "user", "content": user_content},
         ],
         temperature=0.2,
-        max_tokens=1024,
+        max_tokens=512,
     )
     answer = (response.choices[0].message.content or "").strip()
     sources = _chunks_to_sources(chunks)
