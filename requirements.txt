@@ -1,0 +1,22 @@
+# Phase 1 - Data ingestion
+playwright>=1.40.0
+pydantic>=2.5.0
+
+# Phase 2 - RAG pipeline (numpy<2 required by sentence-transformers/torch on many systems)
+numpy<2
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+
+# Phase 3 - Chatbot (Groq)
+groq>=0.4.0
+python-dotenv>=1.0.0
+
+# Phase 4 - Backend
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Phase 5 - Scheduler (optional)
+apscheduler>=3.10.0
+
+# Testing
+pytest>=7.0.0

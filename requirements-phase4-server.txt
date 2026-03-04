@@ -1,0 +1,4 @@
+# Minimal deps to start Phase 4 server (UI + /health)
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0

@@ -1,0 +1,149 @@
+{
+  "source_url": "https://nextleap.app/course/product-management-course",
+  "cohort_id": "product_manager_fellowship",
+  "course_name": "Product Manager Fellowship",
+  "slug": "product-management",
+  "provider": "NextLeap",
+  "category": "Product Management",
+  "type": "Online Fellowship Program",
+  "duration": "16 weeks",
+  "duration_weeks": 16,
+  "total_live_hours": "100+ hours",
+  "live_classes": "100+ hours",
+  "weekly_hours_min": 12,
+  "weekly_hours_max": 14,
+  "weekly_commitment": "12-14 hours per week",
+  "format": "Live online classes",
+  "fellowship_timeline": "4 months",
+  "timeline": "4 months",
+  "mentorship": "Mentorship with experienced Product Managers",
+  "placement_support": "1 year placement support",
+  "placement_support_years": "1 year",
+  "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies",
+  "cohort": "Cohort 48",
+  "cohort_info": {"cohort_number": "48", "starts_on": "Apr 4", "name": "Cohort 48", "start_date": "Apr 4"},
+  "fee": {
+    "current_price": "₹34,999",
+    "original_price": "₹49,999",
+    "emi_from": "₹1,577/month",
+    "price_increase_info": "Price increase from 8 Mar 11:59 PM",
+    "discounts": ["30% discount"]
+  },
+  "course_fee": "₹34,999",
+  "emi_options": "₹1,577/month",
+  "platform": {
+    "name": "NextLeap",
+    "company": "Elemento Learning Technologies Pvt. Ltd.",
+    "description": "NextLeap is a workforce skilling platform helping early career professionals transition into technology roles through cohort-based fellowship programs.",
+    "founded": 2021,
+    "learners": "15000+",
+    "countries": 26,
+    "companies_represented": "1000+",
+    "awards": ["GSV Cup Elite 200 (2022)", "HolonIQ South Asia EdTech Top 100 (2022)"]
+  },
+  "career_outcomes": {
+    "successful_transitions": "1500+",
+    "average_pm_salary": "₹14–18 LPA",
+    "highest_salary": "₹31 LPA",
+    "job_titles": ["Associate Product Manager", "Product Manager", "Growth Product Manager", "Product Analyst"]
+  },
+  "cohort_demographics": {
+    "college_students": "15%",
+    "working_professionals": "85%",
+    "median_experience": "3 years"
+  },
+  "average_salary": "14-18 Lakhs",
+  "highest_salary": "31 Lakhs",
+  "salary_outcomes": {
+    "average_ctc": "12-14 LPA",
+    "highest_salary": "31 LPA",
+    "note": "Average PM salary 14-18 LPA; highest at NextLeap 31 LPA. 1500+ successful transitions."
+  },
+  "class_type": ["Instructor-led live classes", "Mentor sessions", "Case hours", "Build sessions"],
+  "learning_style": ["Case based learning", "Hands-on projects", "Live mentorship", "Real world product case studies"],
+  "learning_structure": {
+    "methods": ["Live sessions", "Weekly projects", "Mentor feedback", "Peer learning"],
+    "daily_activity": "Self-paced product challenge"
+  },
+  "instructors": [
+    {"name": "Arindam Mukherjee", "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"},
+    {"name": "Karthik Singh", "role": "Product Designer 2 at Microsoft"},
+    {"name": "Ishaan Tiwari", "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"},
+    {"name": "Shailesh Sharma", "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"},
+    {"name": "Prashant Bhaskar", "role": "Product Manager at Uber"},
+    {"name": "Saksham Arora", "role": "Software Engineer 2 at Intuit"}
+  ],
+  "curriculum_topics": [
+    "Mapping business outcomes to product outcomes",
+    "Systems thinking",
+    "Problem framing",
+    "User segmentation",
+    "User research",
+    "Product discovery",
+    "Product design",
+    "Product metrics",
+    "PRD writing",
+    "Product strategy",
+    "SQL for product analytics",
+    "AI product development",
+    "Prompt engineering",
+    "LLM applications",
+    "AI product evaluation"
+  ],
+  "weekly_curriculum": [
+    {"week": 1, "topic": "Mapping Business Outcomes to Product Outcomes", "concepts": ["Systems thinking", "Business models", "KPI trees", "Actors actions entities"], "case_studies": ["Swiggy", "YouTube"]},
+    {"week": 2, "topic": "Product Discovery & User Research", "concepts": ["Impact mapping", "Opportunity sizing", "User segmentation", "User research techniques", "Journey mapping", "Personas"], "case_studies": ["Amazon", "BeReal"]},
+    {"week": 3, "topic": "Problem Framing & Ideation", "concepts": ["Problem framing canvas", "Product risk analysis", "Outcome opportunity solution tree", "User flows", "Wireframing"], "case_studies": ["Flipkart", "TripAdvisor"]},
+    {"week": 4, "topic": "UX Foundations & AI Prototyping", "concepts": ["UX laws", "Information architecture", "AI assisted prototyping", "Spec driven development"], "case_studies": ["Zomato", "WhatsApp Business"]},
+    {"week": 5, "topic": "Growth & Metrics", "concepts": ["Loops and funnels", "Product market fit", "North star metrics", "AAARR metrics", "Guardrail metrics"], "case_studies": ["MakeMyTrip", "JioHotstar"]},
+    {"week": 6, "topic": "Tech Foundations", "concepts": ["Client server architecture", "APIs", "Webhooks", "SDKs", "System design", "AI system architecture"], "case_studies": ["LinkedIn", "Tinder"]},
+    {"week": 7, "topic": "LLMs & Prompt Engineering", "concepts": ["How LLMs work", "Prompt types", "Chain of thought prompting", "System prompts", "Prompt debugging"]},
+    {"week": 8, "topic": "RAGs, Fine Tuning & AI Automations", "concepts": ["Embeddings", "Vector databases", "Chunking", "Retrieval pipelines", "AI workflow orchestration"]},
+    {"week": 9, "topic": "AI Agents & Protocols", "concepts": ["ReAct agents", "Planner executor architecture", "Agent memory", "Model Context Protocol"]},
+    {"week": 10, "topic": "AI Output Evaluation", "concepts": ["Failure modes", "Bias detection", "Evaluation metrics", "Golden datasets", "LLM-as-judge limitations"]},
+    {"week": 11, "topic": "Interview Preparation", "concepts": ["Clarifying questions", "Guesstimates", "Root cause analysis"]},
+    {"week": 12, "topic": "Interview Preparation", "concepts": ["Product design questions", "Metrics questions", "A/B testing"]},
+    {"week": 13, "topic": "Advanced Interview Preparation", "concepts": ["Product strategy", "Pricing and GTM", "AI product sense"]},
+    {"week": "14-16", "topic": "Graduation Project", "concepts": ["Work on final product project", "Submit graduation project"]}
+  ],
+  "ai_learning_modules": ["LLMs and prompt engineering", "Retrieval Augmented Generation (RAG)", "AI agent systems", "AI model evaluation", "Building AI powered products"],
+  "ai_learning_hours": "20+ hours",
+  "technical_skills": ["SQL", "Product analytics", "Product experimentation", "AI tools", "Product documentation", "Product metrics analysis"],
+  "tools": ["Whimsical", "Figma", "SQL", "OpenAI", "Amplitude", "JIRA", "Microsoft Clarity", "Loveable AI", "n8n", "bolt.new", "Hotjar", "Google Analytics", "Microsoft Excel", "Cursor", "GitHub", "Make"],
+  "tools_covered": ["Whimsical", "Figma", "SQL", "OpenAI", "Amplitude", "JIRA", "Microsoft Clarity", "Loveable AI", "n8n", "bolt.new"],
+  "learning_activities": ["Weekly case hours", "Hands-on assignments", "Product teardown exercises", "PRD writing", "Portfolio projects", "AI product building", "Mentor feedback sessions"],
+  "projects": ["Product teardown analysis", "User research case study", "Product requirement document", "Product analytics case study", "AI product prototype"],
+  "who_is_this_for": ["Early career professionals", "Working professionals switching into product management", "Students interested in PM careers", "Professionals from non-tech backgrounds entering tech"],
+  "target_roles": ["Associate Product Manager", "Product Manager", "Growth Product Manager", "Product Analyst"],
+  "career_support": ["Resume preparation", "Portfolio building", "Mock interviews", "Interview preparation classes", "Hiring partner opportunities", "Career mentorship"],
+  "career_services": {
+    "placement_support_duration": "1 year",
+    "services": ["Mock interviews", "Resume reviews", "Interview with hiring partners"]
+  },
+  "interview_prep_classes": "3 weeks",
+  "hiring_network": {"hiring_partners": "20+ opportunities per month", "companies": ["Startups", "Tech companies", "Product-driven companies"]},
+  "certification": {
+    "type": "Verifiable Certificate of Accomplishment",
+    "usage": ["LinkedIn", "Resume"]
+  },
+  "graduation_requirement": ["Complete course assignments", "Submit graduation project", "Score minimum required marks"],
+  "top_fellow_criteria": "70%+ score in final project",
+  "community_learning": ["Monthly AI hackathons", "Community workshops", "Peer learning", "Industry mentor guidance"],
+  "ai_learning_tools": ["AI interviewer for mock interviews", "AI resume builder", "AI learning co-pilot", "SQL playground with AI assistant"],
+  "unique_features": ["100+ hours live classes", "Case-based product thinking", "AI product development training", "SQL for PM analytics", "Real-world case studies", "AI interview practice tools"],
+  "bonus_content": {
+    "topics": ["Effective communication", "Writing PRDs", "Product proposals", "Product roadmaps", "Collaboration tools"],
+    "sql_playground": {"practice_questions": "100+", "features": ["Learn query formats", "Practice editor"]}
+  },
+  "schedule": {
+    "saturday": ["Live class 10:30 AM - 12:30 PM", "Live class 2:00 PM - 4:00 PM"],
+    "sunday": ["Mentor session 10:30 AM - 12:30 PM", "Case hours 2:00 PM - 4:00 PM"],
+    "thursday": ["9:00 PM - 10:30 PM Community workshop"],
+    "daily": ["Self-paced product challenge"]
+  },
+  "scholarship": {
+    "name": "Learn in Public Challenge",
+    "description": "Post 10 product teardowns on LinkedIn to win 10% of the fellowship fee back."
+  },
+  "source": "reference"
+}

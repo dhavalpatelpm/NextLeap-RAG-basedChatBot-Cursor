@@ -1,0 +1,156 @@
+{
+  "source_url": "https://nextleap.app/course/generative-ai-course",
+  "cohort_id": "genai_bootcamp",
+  "course_name": "Applied Generative AI Bootcamp",
+  "slug": "genai-bootcamp",
+  "provider": "NextLeap",
+  "category": "Generative AI",
+  "type": "Online Bootcamp",
+  "duration": "10 weeks",
+  "duration_weeks": 10,
+  "total_live_hours": "60+ hours",
+  "total_learning_hours": "60+ hours",
+  "live_classes_hours": "60+ hours",
+  "weekly_hours_min": 8,
+  "weekly_hours_max": 10,
+  "weekly_commitment": "8-10 hours",
+  "projects_count": "10+ projects",
+  "format": "Live online cohort",
+  "fellowship_timeline": "10 weeks",
+  "start_date": "Mar 14",
+  "cohort": "Cohort 3",
+  "cohort_info": {"cohort_number": "3", "starts_on": "Mar 14"},
+  "goal": "Help learners master generative AI tools and build real-world AI applications",
+  "description": "A 10-week online bootcamp to master generative AI tools, prompt engineering, RAG pipelines, AI workflows, agents and evaluation frameworks.",
+  "price_increase_info": "Price increase from 7 Mar 11:59 PM",
+  "fee": {
+    "current_price": "₹32,999",
+    "original_price": "₹39,999",
+    "emi_from": "₹1,421/month",
+    "discounts": ["17% discount"]
+  },
+  "course_fee": "₹32,999",
+  "emi_options": "₹1,421/month",
+  "instructors": [
+    {"name": "Arindam Mukherjee", "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"},
+    {"name": "Karthik Singh", "role": "Product Designer 2 at Microsoft"},
+    {"name": "Ishaan Tiwari", "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"},
+    {"name": "Shailesh Sharma", "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"},
+    {"name": "Prashant Bhaskar", "role": "Product Manager at Uber"},
+    {"name": "Saksham Arora", "role": "Software Engineer 2 at Intuit"}
+  ],
+  "platform": {
+    "name": "NextLeap",
+    "description": "NextLeap is a workforce skilling platform focused on helping early career professionals transition into technology roles through cohort-based fellowship and bootcamp programs.",
+    "founded": 2021,
+    "learners": "15000+",
+    "countries": 26,
+    "companies_represented": "1000+",
+    "awards": ["HolonIQ South Asia EdTech Top 100", "GSV Cup Elite 200"]
+  },
+  "learning_objectives": [
+    "Understand AI system architecture",
+    "Build prompt engineering workflows",
+    "Develop RAG-based AI systems",
+    "Design AI agents",
+    "Evaluate AI outputs",
+    "Create voice AI applications",
+    "Build full-stack AI prototypes",
+    "Design AI product strategies"
+  ],
+  "curriculum_topics": [
+    "AI System Design",
+    "LLMs & Prompt Engineering",
+    "RAG & Workflow Automation",
+    "AI Agents & Protocols",
+    "AI Output Evaluation",
+    "Voice Agents",
+    "Advanced AI Prototyping",
+    "AI Product Strategy",
+    "Capstone Project & Demo Day"
+  ],
+  "weekly_curriculum": [
+    {"week": 1, "topic": "AI System Design", "concepts": ["APIs", "Webhooks", "SDKs", "System design principles", "AI system architecture", "Probabilistic vs deterministic systems"], "tools": ["CursorAI", "FastAPI"]},
+    {"week": 2, "topic": "LLMs & Prompt Engineering", "concepts": ["How LLMs work", "Prompt types", "Chain-of-thought prompting", "System and role prompts", "Prompt debugging"], "tools": ["OpenAI", "HuggingFace"]},
+    {"week": 3, "topic": "RAG & Workflow Automation", "concepts": ["Embeddings", "Vector databases", "Chunking strategies", "Retrieval pipelines", "Workflow automation"], "tools": ["LangChain", "n8n"]},
+    {"week": 4, "topic": "AI Agents & Protocols", "concepts": ["ReAct agents", "Planner-executor models", "Tool selection policies", "Agent memory", "Model Context Protocol"], "tools": ["Crew.ai", "LangGraph"]},
+    {"week": 5, "topic": "AI Output Evaluation", "concepts": ["AI failure modes", "Bias detection", "Evaluation metrics", "Golden datasets", "LLM-as-judge limitations"], "tools": ["promptfoo", "TruLens"]},
+    {"week": 6, "topic": "Voice Agents", "concepts": ["Voice UX", "Speech-to-text pipelines", "LLM-to-text-to-speech loops", "Latency optimization", "Speech-to-speech models"], "tools": ["Deepgram", "ElevenLabs"]},
+    {"week": 7, "topic": "Advanced AI Prototyping", "concepts": ["Vibe coding", "Full stack AI prototyping", "Latency tracking", "Cost monitoring"], "tools": ["Loveable AI", "Figma"]},
+    {"week": 8, "topic": "AI Product Strategy", "concepts": ["AI use case discovery", "AI product tradeoffs", "AI growth metrics", "AI distribution loops"], "tools": ["OpenAI"]},
+    {"week": "9-10", "topic": "Capstone Project & Demo Day", "concepts": ["AI automation", "Agent design", "RAG pipelines", "AI evaluation"]}
+  ],
+  "curriculum_by_week": [
+    {"week": "1", "topics": ["AI System Design", "APIs", "Webhooks", "SDKs", "System design principles", "AI system architecture"], "tools": ["CursorAI", "FastAPI"]},
+    {"week": "2", "topics": ["LLMs & Prompt Engineering", "How LLMs work", "Prompt types", "Chain-of-thought prompting", "Prompt debugging"], "tools": ["OpenAI", "HuggingFace"]},
+    {"week": "3", "topics": ["RAG & Workflow Automation", "Embeddings", "Vector databases", "Chunking strategies", "Workflow automation"], "tools": ["LangChain", "n8n"]},
+    {"week": "4", "topics": ["AI Agents & Protocols", "ReAct agents", "Planner-executor", "Model Context Protocol"], "tools": ["Crew.ai", "LangGraph"]},
+    {"week": "5", "topics": ["AI Output Evaluation", "Failure modes", "Evaluation metrics", "LLM-as-judge limitations"], "tools": ["promptfoo", "TruLens"]},
+    {"week": "6", "topics": ["Voice Agents", "Voice UX", "STT/LLM/TTS loops", "Speech-to-speech models"], "tools": ["Deepgram", "ElevenLabs"]},
+    {"week": "7", "topics": ["Advanced AI Prototyping", "Vibe coding", "Full stack AI prototyping"], "tools": ["Loveable AI", "Figma"]},
+    {"week": "8", "topics": ["AI Product Strategy", "AI use case discovery", "AI growth metrics"], "tools": ["OpenAI"]},
+    {"week": "9-10", "topics": ["Capstone Project & Demo Day", "AI automation", "Agent design", "RAG pipelines"], "tools": []}
+  ],
+  "bonus_content": {
+    "topics": ["AI image generation", "AI video generation", "Generative Adversarial Networks", "Diffusion models"],
+    "tools": ["Gemini", "RunwayML"]
+  },
+  "program_timeline": [
+    {"week": "1", "event": "Live Session : Kick-off Call", "date": "15 Mar", "time": "10:30 AM-12:00 PM"},
+    {"week": "2", "event": "APIs, Webhooks & SDKs", "date": "21 Mar", "time": "10:29 AM-12:29 PM"},
+    {"week": "2", "event": "AI System Design", "date": "21 Mar", "time": "2:00 PM-4:00 PM"},
+    {"week": "3", "event": "Live Session: How LLMs work", "date": "28 Mar", "time": "10:30 AM-12:30 PM"},
+    {"week": "3", "event": "Live Session: Prompt Engineering", "date": "28 Mar", "time": "2:00 PM-4:00 PM"},
+    {"week": "4", "event": "Live Session: RAGs & Fine Tuning", "date": "4 Apr", "time": "10:30 AM-12:30 PM"},
+    {"week": "5", "event": "Live Session: AI Agents", "date": "11 Apr", "time": "10:30 AM-12:30 PM"},
+    {"week": "6", "event": "Live Session: AI Evals", "date": "18 Apr", "time": "10:30 AM-12:30 PM"},
+    {"week": "7", "event": "Live Session: AI Voice Agents", "date": "25 Apr", "time": "10:30 AM-12:30 PM"},
+    {"week": "8", "event": "Live Session: Advanced AI Prototyping", "date": "2 May", "time": "10:30 AM-12:30 PM"},
+    {"week": "9", "event": "Live Session: AI Product Strategy", "date": "9 May", "time": "10:30 AM-12:30 PM"}
+  ],
+  "tools": ["OpenAI", "ClaudeAI", "HuggingFace", "LangChain", "n8n", "CrewAI", "LangGraph", "Promptfoo", "TruLens", "Deepgram", "ElevenLabs", "Loveable AI", "bolt.new", "Emergent", "Figma", "MidJourney", "Google Gemini", "RunwayML", "Cursor", "FastAPI"],
+  "tools_learned": ["OpenAI", "ClaudeAI", "HuggingFace", "LangChain", "n8n", "CrewAI", "LangGraph", "Promptfoo", "TruLens", "Deepgram", "ElevenLabs", "Loveable AI", "bolt.new", "Emergent", "Figma", "MidJourney", "Google Gemini", "RunwayML", "Cursor", "FastAPI"],
+  "tools_covered": ["OpenAI", "ClaudeAI", "HuggingFace", "LangChain", "n8n", "CrewAI", "LangGraph", "Promptfoo", "TruLens", "Deepgram", "ElevenLabs", "Loveable AI", "bolt.new", "Emergent", "Figma", "MidJourney", "Google Gemini", "RunwayML", "Cursor", "FastAPI"],
+  "learning_activities": ["Live coding sessions", "Hands-on assignments", "AI workflow design exercises", "Prompt engineering challenges", "AI agent development labs"],
+  "projects": ["Private Docs Q&A Bot", "AI Review Summarizer", "Agent with MCP tools", "Voice support assistant", "AI assisted prototype", "AI data insight reporter"],
+  "portfolio_goal": "Build real generative AI applications for portfolio",
+  "learning_outcomes": ["Understand how large language models work", "Design prompts for AI systems", "Build RAG-based AI applications", "Create AI agents for automated workflows", "Deploy real-world generative AI tools"],
+  "who_is_this_for": ["Working professionals", "Product managers", "Marketers", "Designers", "Analysts", "Career switchers", "Early stage founders"],
+  "target_audience": ["Working professionals", "Product managers", "Marketers", "Designers", "Analysts", "Career switchers", "Early stage founders"],
+  "experience_level": "Beginner to intermediate",
+  "prerequisites": ["Basic programming knowledge (preferred)", "Interest in AI tools and automation"],
+  "target_roles": ["AI Engineer", "Generative AI Developer", "AI Product Manager", "AI Automation Specialist", "AI Solutions Engineer"],
+  "mentorship": ["Live instructor sessions", "Mentor feedback", "Community discussions"],
+  "schedule": {
+    "saturday": ["Live class 10:30 AM - 12:30 PM", "Live class 2:00 PM - 4:00 PM"],
+    "sunday": ["Build session 10:30 AM - 12:30 PM", "Build session 2:00 PM - 4:00 PM"],
+    "wednesday": ["Mentor session 8:00 PM - 10:00 PM"]
+  },
+  "live_class_schedule": [
+    {"day": "saturday", "time": "10:30 AM - 12:30 PM & 2:00 PM - 4:00 PM", "description": "Live class"},
+    {"day": "sunday", "time": "10:30 AM - 12:30 PM & 2:00 PM - 4:00 PM", "description": "Build session"},
+    {"day": "wednesday", "time": "8:00 PM - 10:00 PM", "description": "Mentor session"}
+  ],
+  "career_support": {
+    "alumni_job_board": true,
+    "resume_reviews": true,
+    "portfolio_feedback": true,
+    "ai_mock_interviewer": true
+  },
+  "alumni_support": ["Alumni Job Board", "Resume & Portfolio Reviews", "AI Mock Interviewer"],
+  "certification": {
+    "type": "Verifiable Certificate of Accomplishment",
+    "usage": ["LinkedIn profile", "Resume"]
+  },
+  "graduation_requirement": ["Complete assignments", "Submit final AI project"],
+  "graduation_requirements": ["Complete assignments", "Submit final AI project"],
+  "community": {
+    "size": "15000+ learners",
+    "alumni_companies_examples": ["Meesho", "WeWork", "Spinny", "CoinSwitch", "Gupshup", "CodeChef"]
+  },
+  "unique_features": ["Hands-on GenAI application development", "Focus on RAG pipelines and AI agents", "Modern LLM tools and frameworks", "Project-driven learning", "60+ Hours Live Classes", "10 weeks", "10+ Projects"],
+  "reviews_summary": {"has_reviews_section": true},
+  "faqs": ["Do I need coding experience?", "Are classes live or recorded?", "What if I miss a live class?", "How much time is required weekly?", "Which tools will be taught?", "Will I build real-world projects?", "Do you provide career support?", "Will the certificate be LinkedIn verifiable?"],
+  "chatbot_intents": ["What is the Applied Generative AI Bootcamp?", "Course duration", "What tools are taught?", "Projects included", "Eligibility", "Learning outcomes", "Instructors", "Live class schedule", "Program timeline", "Price and discount", "Cohort and start date"],
+  "source": "reference"
+}

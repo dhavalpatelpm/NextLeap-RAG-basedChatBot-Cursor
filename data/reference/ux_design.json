@@ -1,0 +1,132 @@
+{
+  "source_url": "https://nextleap.app/course/ui-ux-design-course",
+  "cohort_id": "ui_ux_designer_fellowship",
+  "course_name": "UI/UX Designer Fellowship",
+  "slug": "ux-design",
+  "provider": "NextLeap",
+  "category": "Product Design / UI/UX",
+  "type": "Online Fellowship Program",
+  "duration": "16 weeks",
+  "duration_weeks": 16,
+  "total_live_hours": "100+ hours",
+  "total_live_classes": "100+ hours",
+  "live_classes": "100+ hours",
+  "weekly_hours_min": 12,
+  "weekly_hours_max": 14,
+  "weekly_commitment": "12-14 hours/week",
+  "format": "Live online classes",
+  "fellowship_timeline": "4 months",
+  "timeline": "4 months",
+  "mentorship": "Mentorship with experienced designers",
+  "placement_support": "1 year placement support",
+  "placement_support_years": "1 year",
+  "cohort": "Cohort 27",
+  "cohort_info": {"cohort_number": "27", "starts_on": "Apr 4", "name": "Cohort 27", "start_date": "Apr 4"},
+  "fee": {
+    "current_price": "₹34,999",
+    "original_price": "₹49,999",
+    "emi_from": "₹1,577/month",
+    "price_increase_info": "Price increase from 8 Mar 11:59 PM",
+    "discounts": ["30% discount"]
+  },
+  "course_fee": "₹34,999",
+  "emi_options": "₹1,577/month",
+  "platform": {
+    "name": "NextLeap",
+    "company": "Elemento Learning Technologies Pvt. Ltd.",
+    "description": "NextLeap is a workforce skilling platform helping early career professionals transition into technology roles through cohort-based fellowship programs.",
+    "founded": 2021,
+    "learners": "15000+",
+    "countries": 26,
+    "companies_represented": "1000+",
+    "awards": ["GSV Cup Elite 200 (2022)", "HolonIQ South Asia EdTech Top 100 (2022)"]
+  },
+  "career_outcomes": {
+    "successful_transitions": "1500+",
+    "job_titles": ["UI Designer", "UX Designer", "Product Designer"],
+    "average_salary": "₹8–12 LPA",
+    "highest_salary": "₹31 LPA"
+  },
+  "cohort_demographics": {
+    "college_students": "20%",
+    "working_professionals": "80%",
+    "average_work_experience": "3 years"
+  },
+  "average_salary": "8-12 LPA",
+  "highest_salary": "31 LPA",
+  "learning_style": ["Case-based learning", "Hands-on assignments", "Live mentorship", "Real-world design projects"],
+  "learning_model": ["Case-based learning", "Hands-on assignments", "Live mentorship", "Real-world design projects"],
+  "learning_structure": {
+    "methods": ["Live sessions", "Weekly projects", "Mentor feedback", "Peer learning"],
+    "special_features": ["AI learning co-pilot", "AI interview simulator"]
+  },
+  "goal": "Help learners transition into UI/UX or product design careers",
+  "curriculum_topics": [
+    "Business thinking in design",
+    "Product discovery & user research",
+    "Problem framing & ideation",
+    "UX foundations & AI prototyping",
+    "Visual design",
+    "Design systems",
+    "Android Material Design",
+    "iOS HIG",
+    "Agentic UX & AI design",
+    "Portfolio building"
+  ],
+  "weekly_curriculum": [
+    {"week": 1, "topic": "Business Thinking in Design", "concepts": ["Systems thinking", "Understanding business models", "Structured thinking with KPI trees", "Actors actions entities"], "case_studies": ["Swiggy", "YouTube"]},
+    {"week": 2, "topic": "Product Discovery & User Research", "concepts": ["Impact mapping", "Opportunity sizing", "User segmentation", "User research techniques", "Journey mapping", "Personas"], "case_studies": ["Amazon", "BeReal"]},
+    {"week": 3, "topic": "Problem Framing & Ideation", "concepts": ["Problem framing canvas", "Product risk analysis", "Outcome opportunity solution tree", "User flows", "Wireframing"], "case_studies": ["Flipkart", "TripAdvisor"]},
+    {"week": 4, "topic": "UX Foundations & AI Prototyping", "concepts": ["UX laws", "Information architecture", "AI assisted prototyping", "Spec driven development"], "practice": ["Figma Hours - Layers and Objects"]},
+    {"week": 5, "topic": "Intro to Visual Design", "concepts": ["Gestalt principles", "Scale and hierarchy", "Balance and contrast", "Visual design elements"], "practice": ["Figma Hours - Typography and Text Styling"]},
+    {"week": 6, "topic": "Visual Design Language", "concepts": ["Moodboarding", "Colour theory", "Typography", "Grids and layouts"], "practice": ["Figma Hours - Colours gradients styling"]},
+    {"week": 7, "topic": "Design Systems", "concepts": ["Inclusive design", "Accessibility", "Atomic design", "Design system tools"], "practice": ["Component libraries"]},
+    {"week": 8, "topic": "Android Material Design", "concepts": ["Material components", "Toolbar", "Navigation view", "RecyclerView and CardView"]},
+    {"week": 9, "topic": "iOS HIG Deepdive", "concepts": ["Navigation layouts", "User controls", "Inputs selection", "Feedback status"], "practice": ["Prototyping"]},
+    {"week": 10, "topic": "Agentic UX & AI Design", "concepts": ["Conversation design", "UI patterns for AI products", "AI image generation"], "practice": ["Advanced prototyping"]},
+    {"week": 11, "topic": "Building UX Portfolio", "concepts": ["Portfolio structure", "UX case study", "Presenting portfolio"]},
+    {"week": 12, "topic": "Portfolio Presentation", "concepts": ["Portfolio review", "Mentor feedback"]},
+    {"week": "13-16", "topic": "Graduation Project", "concepts": ["Continue building portfolio", "Complete graduation project", "Submit project"]}
+  ],
+  "tools": ["Whimsical", "Figma", "Adobe After Effects", "ProtoPie", "LottieFiles", "JIRA", "Microsoft Clarity", "Loveable AI", "bolt.new"],
+  "tools_covered": ["Whimsical", "Figma", "Adobe After Effects", "ProtoPie", "LottieFiles", "JIRA", "Microsoft Clarity", "Loveable AI", "bolt.new"],
+  "learning_activities": ["Fortnightly design assignments", "User research exercises", "Wireframe creation", "Design specification documentation", "Product screen redesign challenges", "Portfolio presentations", "AI hackathons"],
+  "projects": ["Real-world design projects", "UX research case study", "Wireframe and prototype design", "Design system implementation", "Final graduation project"],
+  "portfolio_work": ["Real-world design projects", "UX research case study", "Wireframe and prototype design", "Design system implementation", "Final graduation project"],
+  "portfolio_goal": "Build a strong UI/UX design portfolio",
+  "who_is_this_for": ["Early career professionals", "Working professionals transitioning into design", "Students interested in UI/UX design", "Graphic designers moving into product design"],
+  "experience_level": "Beginner to early-career",
+  "prior_design_experience_required": false,
+  "target_roles": ["UI Designer", "UX Designer", "Product Designer", "UX Researcher", "Interaction Designer"],
+  "instructors": [
+    {"name": "Arindam Mukherjee", "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"},
+    {"name": "Karthik Singh", "role": "Product Designer 2 at Microsoft"},
+    {"name": "Ishaan Tiwari", "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"},
+    {"name": "Shailesh Sharma", "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"},
+    {"name": "Prashant Bhaskar", "role": "Product Manager at Uber"},
+    {"name": "Saksham Arora", "role": "Software Engineer 2 at Intuit"}
+  ],
+  "schedule": {
+    "saturday": ["Live class 10:30 AM - 12:30 PM", "Live class 2:00 PM - 4:00 PM"],
+    "sunday": ["Mentor session 10:30 AM - 12:30 PM", "Figma hours 2:00 PM - 4:00 PM"],
+    "wednesday": ["Figma challenge 8:00 PM - 10:00 PM"]
+  },
+  "community_features": ["AI hackathons", "Design challenges", "Peer collaboration", "Mentor reviews"],
+  "community_learning": ["AI hackathons", "Design challenges", "Peer collaboration", "Mentor reviews"],
+  "student_outcomes": {"career_transitions": "300+ learners", "roles_secured": ["UX Designer", "Product Designer", "Senior UX Designer"]},
+  "career_services": {
+    "placement_support_duration": "1 year",
+    "services": ["Mock interviews", "Resume reviews", "Interview with hiring partners"]
+  },
+  "certification": {
+    "type": "Verifiable Certificate of Accomplishment",
+    "usage": ["LinkedIn", "Resume"]
+  },
+  "graduation_requirement": ["Completion of assignments", "Graduation project submission", "Mentor evaluation"],
+  "graduation_requirements": ["Completion of assignments", "Graduation project submission", "Mentor evaluation"],
+  "bonus_content": ["Motion design principles", "Animation principles", "Micro-interactions", "Material design deep dive"],
+  "unique_features": ["100+ hours of live classes", "Hands-on product design projects", "AI-powered design training", "Portfolio mentorship", "Industry expert instructors"],
+  "faq_topics": ["Eligibility for fellowship", "Live session recordings", "Graduation project requirements", "Career services eligibility", "Refund policy", "Company hiring partners"],
+  "chatbot_intents": ["What is the UI/UX Designer Fellowship?", "Course duration", "Course fee", "What tools are taught?", "Portfolio projects in course", "Who are the instructors?", "Weekly schedule", "Eligibility for the course"],
+  "source": "reference"
+}

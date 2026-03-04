@@ -1,0 +1,31 @@
+{
+  "platform_name": "NextLeap",
+  "type": "Career Transition & Tech Fellowship Platform",
+  "category": "EdTech / Workforce Upskilling",
+  "target_audience": [
+    "Early career professionals",
+    "Working professionals switching careers",
+    "Students preparing for tech roles"
+  ],
+  "mission": "Bridge the gap between traditional education and real-world job skills",
+  "learning_format": "Live online fellowship programs with mentorship and projects",
+  "focus_roles": ["Product Manager", "UI/UX Designer", "Data Analyst", "Business Analyst", "Software Engineer"],
+  "platform_features": [
+    "Live instructor-led classes",
+    "Hands-on real-world projects",
+    "Weekly mentorship sessions",
+    "Case-based learning",
+    "Interview preparation",
+    "Resume and LinkedIn optimization",
+    "Placement support",
+    "AI-powered practice tools",
+    "Community learning environment"
+  ],
+  "ai_features": [
+    "AI Interviewer for mock interviews",
+    "AI resume builder",
+    "AI learning co-pilot",
+    "AI coding / SQL playground",
+    "LLM and prompt engineering training"
+  ]
+}

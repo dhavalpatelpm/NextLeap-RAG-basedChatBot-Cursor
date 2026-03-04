@@ -1,0 +1,36 @@
+{
+  "description": "Index of all NextLeap courses. Use source_url when returning answers so the user knows where the information comes from.",
+  "courses": {
+    "product_management": {
+      "course_name": "Product Manager Fellowship",
+      "source_url": "https://nextleap.app/course/product-management-course",
+      "path": "product_management/course.json",
+      "slug": "product-management"
+    },
+    "ux_design": {
+      "course_name": "UI/UX Designer Fellowship",
+      "source_url": "https://nextleap.app/course/ui-ux-design-course",
+      "path": "ux_design/course.json",
+      "slug": "ux-design"
+    },
+    "data_analytics": {
+      "course_name": "Data Analyst Fellowship",
+      "source_url": "https://nextleap.app/course/data-analyst-course",
+      "path": "data_analytics/course.json",
+      "slug": "data-analytics"
+    },
+    "business_analytics": {
+      "course_name": "Business Analyst Fellowship",
+      "source_url": "https://nextleap.app/course/business-analyst-course",
+      "path": "business_analytics/course.json",
+      "slug": "business-analytics"
+    },
+    "genai_bootcamp": {
+      "course_name": "Applied Generative AI Bootcamp",
+      "source_url": "https://nextleap.app/course/generative-ai-course",
+      "path": "genai_bootcamp/course.json",
+      "slug": "genai-bootcamp"
+    }
+  },
+  "usage_note": "For every user question, retrieve from the relevant course folder and include the source_url in the response so the user can visit the course page."
+}
