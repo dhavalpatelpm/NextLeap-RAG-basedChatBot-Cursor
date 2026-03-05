@@ -7,15 +7,16 @@
   "type": "Online Fellowship",
   "duration": "16 weeks",
   "duration_weeks": 16,
-  "total_live_hours": "100+ hours",
+  "total_live_hours": "14 hours",
   "weekly_hours_min": 12,
   "weekly_hours_max": 14,
   "format": "Live cohort-based classes",
   "fellowship_timeline": "4 months",
   "mentorship": "Mentorship with experienced analysts",
   "class_type": [],
-  "placement_support": "1 year placement support",
+  "placement_support": "1 year",
   "placement_support_years": "1 year",
+  "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies\nMock Interviews\nResume Reviews\nInterview with Hiring Partners\nYour Future Job Title\nData\nAnalyst\nBusiness\nAnalyst\nProduct\nAnalyst\nMarketing\nAnalyst\nAverage Analyst Salary\n8-10 Lakhs\nHighest Salary at NextLeap\n31 Lakhs\nSuccess Stories\nVansh Agrawal\nIIT Kharagpur\nZomato\nProduct Analyst\nI got an offer from zomato for PA role, the learning at Nextleap helped me a lot",
   "career_support": [
     "Resume preparation",
     "Mock interviews",
@@ -25,16 +26,14 @@
   ],
   "cohort_info": {
     "cohort_number": "19",
-    "starts_on": "Apr 4"
+    "starts_on": "Apr 3"
   },
   "fee": {
-    "current_price": "₹34,999",
-    "original_price": "₹49,999",
-    "emi_from": "₹1,577/month",
-    "price_increase_info": "Price increase from 8 Mar 11:59 PM",
-    "discounts": [
-      "30% discount"
-    ]
+    "current_price": "₹34999",
+    "original_price": "₹49999",
+    "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 8",
+    "discounts": []
   },
   "live_class_schedule": [],
   "schedule": {
@@ -52,33 +51,29 @@
   },
   "instructors": [
     {
-      "name": "Arindam Mukherjee",
-      "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"
+      "name": "Ex-Data Analyst",
+      "role": "Hopscotch"
     },
     {
-      "name": "Karthik Singh",
-      "role": "Product Designer 2 at Microsoft"
+      "name": "Principal",
+      "role": "Analytics"
     },
     {
-      "name": "Ishaan Tiwari",
-      "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"
+      "name": "Senior Manager",
+      "role": "Zomato"
     },
     {
-      "name": "Shailesh Sharma",
-      "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"
-    },
-    {
-      "name": "Prashant Bhaskar",
-      "role": "Product Manager at Uber"
-    },
-    {
-      "name": "Saksham Arora",
-      "role": "Software Engineer 2 at Intuit"
+      "name": "Senior Data and Business Analyst @ Zomato",
+      "role": "Ex- Uber"
     }
   ],
   "learn_from_instructors": [],
-  "average_salary": "8-10 LPA",
-  "highest_salary": "31 LPA",
+  "salary_outcomes": {
+    "average_ctc": "8-10 Lakhs",
+    "highest_salary": "31 Lakhs"
+  },
+  "average_salary": "8-10 Lakhs",
+  "highest_salary": "31 Lakhs",
   "curriculum_topics": [
     "Data and structured thinking",
     "Introduction to data analytics",
@@ -151,25 +146,298 @@
   ],
   "community_learning": [],
   "ai_learning_tools": [],
-  "curriculum_by_week": [],
+  "curriculum_by_week": [
+    {
+      "week": "0",
+      "topics": [
+        "Data and Structured Thinking",
+        "Systems thinking",
+        "Understanding Business Models",
+        "Structured thinking with KPI trees",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        "Introduction to Data Analytics",
+        "Understanding Types of Data",
+        "Metrics & types of analysis",
+        "Steps in exploratory data analysis",
+        "Introduction to data visualisation",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Data Preparation using Excel",
+        "Basic Functions & Shortcuts",
+        "Data Formatting Techniques",
+        "Data Cleaning Techniques",
+        "Data Protection & Error Validation",
+        "Case Studies on",
+        "See Full Curriculum",
+        "Download detailed curriculum",
+        "Live Class Schedule",
+        "Every Saturday",
+        "2 Live Classes",
+        "10:30 AM - 12:30 PM &",
+        "2:00 PM - 4:00 PM IST",
+        "Every Sunday",
+        "Mentor Session & Case Hours"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        "Kick Off Call",
+        "4 Apr | 10:30 AM-12:00 PM",
+        "Mapping Business Outcomes to Actionable Outcomes",
+        "5 Apr | 5:00 AM-7:00 AM",
+        "Mapping Outcomes to Opportunities",
+        "5 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Introduction to Data Analytics - I",
+        "11 Apr | 5:00 AM-7:00 AM",
+        "Introduction to Data Analytics - II",
+        "11 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs : Milestone 1 Guidance + Meet your Mentor",
+        "12 Apr | 5:00 AM-7:00 AM",
+        "Case Hours: EDA",
+        "12 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Data Preparation using Excel - I",
+        "18 Apr | 5:00 AM-7:00 AM",
+        "Data Preparation using Excel - II",
+        "18 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Feedback",
+        "19 Apr | 5:00 AM-7:00 AM",
+        "Excel Case Hours - 1",
+        "19 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        "Lookup Functions in Excel",
+        "25 Apr | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis using Excel",
+        "25 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Guidance",
+        "26 Apr | 5:00 AM-7:00 AM",
+        "Excel Case Hours - 2",
+        "26 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        "Data Visualisation using Excel - I",
+        "2 May | 5:00 AM-7:00 AM",
+        "Data Visualisation using Excel - II",
+        "2 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Guidance",
+        "3 May | 5:00 AM-7:00 AM",
+        "Case Hours: Cohort & Funnel Analysis",
+        "3 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        "Data Analysis using SQL - I",
+        "9 May | 5:00 AM-7:00 AM",
+        "Data Analysis using SQL - II",
+        "9 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Feedback",
+        "10 May | 5:00 AM-7:00 AM",
+        "SQL Case Hours - 1",
+        "10 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        "Advanced Data Analysis using SQL - I",
+        "16 May | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis using SQL - II",
+        "16 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Guidance",
+        "17 May | 5:00 AM-7:00 AM",
+        "SQL Case Hours - 2",
+        "17 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        "Data Manipulation with SQL - I",
+        "23 May | 5:00 AM-7:00 AM",
+        "Data Manipulation with SQL - II",
+        "23 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Guidance",
+        "24 May | 5:00 AM-7:00 AM",
+        "SQL Case Hours - 3",
+        "24 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        "Introduction to Data Visualisation - I",
+        "30 May | 5:00 AM-7:00 AM",
+        "Introduction to Data Visualisation - II",
+        "30 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Feedback",
+        "31 May | 5:00 AM-7:00 AM",
+        "Tableau Case Hours",
+        "31 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        "Data Preparation & Exploration with Tableau - I",
+        "6 Jun | 5:00 AM-7:00 AM",
+        "Data Preparation & Exploration with Tableau - II",
+        "6 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Guidance",
+        "7 Jun | 5:00 AM-7:00 AM",
+        "Tableau Case Hours",
+        "7 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        "Essentials of Python for Data Analysis - I",
+        "13 Jun | 5:00 AM-7:00 AM",
+        "Essentials of Python for Data Analysis - II",
+        "13 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Feedback",
+        "14 Jun | 5:00 AM-7:00 AM",
+        "Python Case Hours - 1",
+        "14 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        "Data Analysis using Python - I",
+        "20 Jun | 5:00 AM-7:00 AM",
+        "Data Analysis using Python - II",
+        "20 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 5 Guidance",
+        "21 Jun | 5:00 AM-7:00 AM",
+        "Python Case Hours - 2",
+        "21 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        "Advanced Data Analysis using Python - I",
+        "27 Jun | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis using Python - II",
+        "27 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 5 Guidance",
+        "28 Jun | 5:00 AM-7:00 AM",
+        "Python Case Hours - 3",
+        "28 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "14",
+      "topics": [
+        "Data Visualisation using Python - I",
+        "4 Jul | 5:00 AM-7:00 AM",
+        "Data Visualisation using Python - II",
+        "4 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 5 Feedback",
+        "5 Jul | 5:00 AM-7:00 AM",
+        "Python Case Hours - 4",
+        "5 Jul | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "15",
+      "topics": [
+        "LLMs: How they Work",
+        "11 Jul | 5:00 AM-7:00 AM",
+        "Prompt Engineering",
+        "11 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "12 Jul | 5:00 AM-7:00 AM",
+        "Case Hours: Database Automation",
+        "12 Jul | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "16",
+      "topics": [
+        "RAGs & Fine Tuning",
+        "18 Jul | 5:00 AM-7:00 AM",
+        "AI Workflows",
+        "18 Jul | 8:30 AM-10:30 AM",
+        "Case Hours: AI Workflows",
+        "19 Jul | 8:30 AM-10:30 AM",
+        "Frequently Asked Questions",
+        "What is the NextLeap Data Analyst Fellowship?",
+        "Who is eligible to apply for the NextLeap Data Analyst Fellowship?",
+        "Who is this Fellowship for?",
+        "What are the prerequisites for applying?",
+        "I'm a pre-final year student. Am I eligible to apply?",
+        "Is there any prior coding experience required?",
+        "Is work experience also a criterion to get selected for interviews?",
+        "Are there any costs associated with the NextLeap Data Analyst Fellowship?"
+      ],
+      "tools": []
+    }
+  ],
   "program_timeline": [],
   "tools_learned": [
+    "Tableau",
     "Excel",
     "SQL",
-    "Tableau",
     "Python",
-    "NumPy",
     "Pandas",
-    "Matplotlib",
-    "Seaborn",
-    "Jupyter",
-    "GitHub"
+    "NumPy"
   ],
   "weekly_commitment": "12-14 hours/week",
   "reviews_summary": {},
-  "alumni_support": [],
+  "alumni_support": [
+    "Resume",
+    "mock interviews"
+  ],
   "source": "merged",
-  "last_updated": "2026-03-04T13:27:27.807954Z",
+  "last_updated": "2026-03-05T11:52:25.580907Z",
   "source_url": "https://nextleap.app/course/data-analyst-course",
   "mode": "Live sessions on Zoom",
   "timeline": "4 months",

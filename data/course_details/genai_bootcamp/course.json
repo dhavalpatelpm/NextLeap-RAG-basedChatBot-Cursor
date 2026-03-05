@@ -7,7 +7,7 @@
   "type": "Online Bootcamp",
   "duration": "10 weeks",
   "duration_weeks": 10,
-  "total_live_hours": "60+ hours",
+  "total_live_hours": "60++ hours",
   "weekly_hours_min": 8,
   "weekly_hours_max": 10,
   "format": "Live online cohort",
@@ -17,15 +17,14 @@
   "career_support": [],
   "cohort_info": {
     "cohort_number": "3",
-    "starts_on": "Mar 14"
+    "starts_on": "Mar 13"
   },
   "fee": {
-    "current_price": "₹32,999",
-    "original_price": "₹39,999",
-    "emi_from": "₹1,421/month",
-    "discounts": [
-      "17% discount"
-    ]
+    "current_price": "₹32999",
+    "original_price": "₹39999",
+    "emi_from": "₹1421/month",
+    "price_increase_info": "Price increase from 7",
+    "discounts": []
   },
   "live_class_schedule": [],
   "schedule": {
@@ -43,28 +42,8 @@
   },
   "instructors": [
     {
-      "name": "Arindam Mukherjee",
-      "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"
-    },
-    {
-      "name": "Karthik Singh",
-      "role": "Product Designer 2 at Microsoft"
-    },
-    {
-      "name": "Ishaan Tiwari",
-      "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"
-    },
-    {
-      "name": "Shailesh Sharma",
-      "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"
-    },
-    {
-      "name": "Prashant Bhaskar",
-      "role": "Product Manager at Uber"
-    },
-    {
-      "name": "Saksham Arora",
-      "role": "Software Engineer 2 at Intuit"
+      "name": "Previously @ Flipkart",
+      "role": "TripAdvisor"
     }
   ],
   "learn_from_instructors": [],
@@ -156,114 +135,171 @@
       "week": "1",
       "topics": [
         "AI System Design",
-        "APIs",
-        "Webhooks",
-        "SDKs",
-        "System design principles",
-        "AI system architecture"
+        "APIs, Webhooks, SDKs",
+        "System Design Principles",
+        "AI system architecture",
+        "Probabilistic vs deterministic design"
       ],
-      "tools": [
-        "CursorAI",
-        "FastAPI"
-      ]
+      "tools": []
     },
     {
       "week": "2",
       "topics": [
         "LLMs & Prompt Engineering",
         "How LLMs work",
-        "Prompt types",
-        "Chain-of-thought prompting",
-        "Prompt debugging"
+        "Prompt types & CoT",
+        "System/role style guides",
+        "Debugging prompt failures"
       ],
-      "tools": [
-        "OpenAI",
-        "HuggingFace"
-      ]
+      "tools": []
     },
     {
       "week": "3",
       "topics": [
-        "RAG & Workflow Automation",
-        "Embeddings",
-        "Vector databases",
-        "Chunking strategies",
-        "Workflow automation"
+        "RAGs & AI Workflow Automation",
+        "Embeddings & vector databases",
+        "Chunking & retrieval",
+        "Workflow triggers & JSON",
+        "Orchestrating LLM steps"
       ],
-      "tools": [
-        "LangChain",
-        "n8n"
-      ]
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        "Live Session : Kick-off Call",
+        "15 Mar | 5:00 AM-6:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "APIs, Webhooks & SDKs",
+        "21 Mar | 4:59 AM-6:59 AM",
+        "AI System Design",
+        "21 Mar | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Version Control, Github & Cursor setup",
+        "25 Mar | 2:30 PM-4:30 PM",
+        "Live Session: How LLMs work",
+        "28 Mar | 5:00 AM-7:00 AM",
+        "Live Session: Prompt Engineering",
+        "28 Mar | 8:30 AM-10:30 AM",
+        "Build Hour: Building with APIs",
+        "29 Mar | 5:00 AM-7:00 AM",
+        "Build Hour: Building with APIs",
+        "29 Mar | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
     },
     {
       "week": "4",
       "topics": [
-        "AI Agents & Protocols",
-        "ReAct agents",
-        "Planner-executor",
-        "Model Context Protocol"
+        "Build Office Hours: Learning to Deploy",
+        "1 Apr | 2:30 PM-4:30 PM",
+        "Live Session: RAGs & Fine Tuning",
+        "4 Apr | 5:00 AM-7:00 AM",
+        "Live Session: AI Workflow Automations",
+        "4 Apr | 8:30 AM-10:30 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "5 Apr | 5:00 AM-7:00 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "5 Apr | 8:30 AM-10:30 AM"
       ],
-      "tools": [
-        "Crew.ai",
-        "LangGraph"
-      ]
+      "tools": []
     },
     {
       "week": "5",
       "topics": [
-        "AI Output Evaluation",
-        "Failure modes",
-        "Evaluation metrics",
-        "LLM-as-judge limitations"
+        "Build Office Hours: RAGs",
+        "8 Apr | 2:30 PM-4:30 PM",
+        "Demo Day 1",
+        "9 Apr | 2:30 PM-4:30 PM",
+        "Live Session: AI Agents",
+        "11 Apr | 5:00 AM-7:00 AM",
+        "Live Session: Agent Protocols & MCP",
+        "11 Apr | 8:30 AM-10:30 AM",
+        "Build Hours: Building AI automations",
+        "12 Apr | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI automations",
+        "12 Apr | 8:30 AM-10:30 AM"
       ],
-      "tools": [
-        "promptfoo",
-        "TruLens"
-      ]
+      "tools": []
     },
     {
       "week": "6",
       "topics": [
-        "Voice Agents",
-        "Voice UX",
-        "STT/LLM/TTS loops",
-        "Speech-to-speech models"
+        "Build Office Hours: AI automations",
+        "15 Apr | 2:30 PM-4:30 PM",
+        "Live Session: AI Evals",
+        "18 Apr | 5:00 AM-7:00 AM",
+        "Live Session: How to Test AI Products",
+        "18 Apr | 8:30 AM-10:30 AM",
+        "Build Hours: Building Agents with MCP Integrations",
+        "19 Apr | 5:01 AM-7:00 AM",
+        "Build Hours: Building Agents with MCP Integrations",
+        "19 Apr | 8:30 AM-10:30 AM"
       ],
-      "tools": [
-        "Deepgram",
-        "ElevenLabs"
-      ]
+      "tools": []
     },
     {
       "week": "7",
       "topics": [
-        "Advanced AI Prototyping",
-        "Vibe coding",
-        "Full stack AI prototyping"
+        "Build Office Hours: MCP Integrations",
+        "22 Apr | 2:30 PM-4:30 PM",
+        "Demo Day 2",
+        "23 Apr | 2:30 PM-4:30 PM",
+        "Live Session : AI Voice Agents",
+        "25 Apr | 5:00 AM-7:00 AM",
+        "Live Session : AI Voice Agents",
+        "25 Apr | 8:30 AM-10:30 AM",
+        "Build Hours: Building Voice Agents",
+        "26 Apr | 5:00 AM-7:00 AM",
+        "Build Hours: Building Voice Agents",
+        "26 Apr | 8:30 AM-10:30 AM"
       ],
-      "tools": [
-        "Loveable AI",
-        "Figma"
-      ]
+      "tools": []
     },
     {
       "week": "8",
       "topics": [
-        "AI Product Strategy",
-        "AI use case discovery",
-        "AI growth metrics"
+        "Build Office Hours: Voice Agents",
+        "29 Apr | 2:30 PM-4:30 PM",
+        "Live Session: Advanced AI Prototyping",
+        "2 May | 5:00 AM-7:00 AM",
+        "Live Session: Designing with AI Tools",
+        "2 May | 8:30 AM-10:30 AM",
+        "Build Hours: Building AI prototypes - frontend",
+        "3 May | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI prototypes - backend & databases",
+        "3 May | 8:30 AM-10:30 AM"
       ],
-      "tools": [
-        "OpenAI"
-      ]
+      "tools": []
     },
     {
-      "week": "9-10",
+      "week": "9",
       "topics": [
-        "Capstone Project & Demo Day",
-        "AI automation",
-        "Agent design",
-        "RAG pipelines"
+        "Build Office Hours: Full stack AI prototypes",
+        "6 May | 2:30 PM-4:30 PM",
+        "Demo Day 3",
+        "7 May | 2:30 PM-4:30 PM",
+        "Live Session: AI Product Strategy",
+        "9 May | 5:00 AM-7:00 AM",
+        "Live Session: AI Product Strategy",
+        "9 May | 8:30 AM-10:30 AM",
+        "Build Hours: Capstone Project Guidance",
+        "10 May | 5:00 AM-7:00 AM",
+        "Build Hours: Capstone Project Guidance",
+        "10 May | 8:30 AM-10:30 AM",
+        "Frequently Asked Questions",
+        "Do I need a technical or coding background to join?",
+        "What experience level is ideal for this bootcamp?"
       ],
       "tools": []
     }
@@ -337,39 +373,46 @@
     }
   ],
   "tools_learned": [
+    "Cursor",
+    "FastAPI",
     "OpenAI",
-    "ClaudeAI",
     "HuggingFace",
     "LangChain",
     "n8n",
-    "CrewAI",
+    "Crew.ai",
     "LangGraph",
-    "Promptfoo",
+    "promptfoo",
     "TruLens",
     "Deepgram",
     "ElevenLabs",
     "Loveable AI",
+    "Figma",
+    "Gemini",
+    "RunwayML",
     "bolt.new",
     "Emergent",
-    "Figma",
     "MidJourney",
     "Google Gemini",
-    "RunwayML",
-    "Cursor",
-    "FastAPI"
+    "ClaudeAI",
+    "Excel",
+    "SQL",
+    "Python"
   ],
-  "projects_count": "10+ projects",
-  "weekly_commitment": "8-10 hours",
+  "projects_count": "10++ Projects",
+  "weekly_commitment": "8-10 hours/week",
   "reviews_summary": {
     "has_reviews_section": true
   },
   "alumni_support": [
     "Alumni Job Board",
-    "Resume & Portfolio Reviews",
-    "AI Mock Interviewer"
+    "Resume",
+    "Portfolio Reviews",
+    "AI Interviewer",
+    "mock interviews",
+    "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-03-04T13:27:27.820625Z",
+  "last_updated": "2026-03-05T11:52:25.584136Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",

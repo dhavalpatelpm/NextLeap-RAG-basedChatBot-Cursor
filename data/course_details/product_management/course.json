@@ -7,7 +7,7 @@
   "type": "Online Fellowship Program",
   "duration": "16 weeks",
   "duration_weeks": 16,
-  "total_live_hours": "100+ hours",
+  "total_live_hours": "100++ hours",
   "weekly_hours_min": 12,
   "weekly_hours_max": 14,
   "format": "Live online classes",
@@ -19,9 +19,9 @@
     "Case hours",
     "Build sessions"
   ],
-  "placement_support": "1 year placement support",
+  "placement_support": "1 year",
   "placement_support_years": "1 year",
-  "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies",
+  "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies\nMock Interviews\nResume Reviews\nInterview with Hiring Partners\nYour Future Job Title\nAssociate\nProduct Manager\nProduct\nManager\nGrowth\nProduct Manager\nProduct\nAnalyst\nAverage PM Salary\n14-18 Lakhs\nHighest Salary at NextLeap\n31 Lakhs\n1500+ Success Stories\nAnalyst\nDeveloper\nNon-tech\nFresher\nExisting PMs\nSri Vamsi Relangi\nEXL\nAnalytics Consultant\nFRND\nAssociate Product Manager\nI am grateful for the opportunity to learn directly from industry experts like Arindam Mukherjee, Anirban Das, and others, who have provided me with valuable insights",
   "interview_prep_classes": "3 weeks",
   "career_support": [
     "Resume preparation",
@@ -33,16 +33,14 @@
   ],
   "cohort_info": {
     "cohort_number": "48",
-    "starts_on": "Apr 4"
+    "starts_on": "Apr 3"
   },
   "fee": {
-    "current_price": "₹34,999",
-    "original_price": "₹49,999",
-    "emi_from": "₹1,577/month",
-    "price_increase_info": "Price increase from 8 Mar 11:59 PM",
-    "discounts": [
-      "30% discount"
-    ]
+    "current_price": "₹34999",
+    "original_price": "₹49999",
+    "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 8",
+    "discounts": []
   },
   "live_class_schedule": [],
   "schedule": {
@@ -63,35 +61,18 @@
   },
   "instructors": [
     {
-      "name": "Arindam Mukherjee",
-      "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"
+      "name": "Previously @ Flipkart",
+      "role": "TripAdvisor"
     },
     {
-      "name": "Karthik Singh",
-      "role": "Product Designer 2 at Microsoft"
-    },
-    {
-      "name": "Ishaan Tiwari",
-      "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"
-    },
-    {
-      "name": "Shailesh Sharma",
-      "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"
-    },
-    {
-      "name": "Prashant Bhaskar",
-      "role": "Product Manager at Uber"
-    },
-    {
-      "name": "Saksham Arora",
-      "role": "Software Engineer 2 at Intuit"
+      "name": "Product Manager",
+      "role": "Airbase"
     }
   ],
   "learn_from_instructors": [],
   "salary_outcomes": {
-    "average_ctc": "12-14 LPA",
-    "highest_salary": "31 LPA",
-    "note": "Average PM salary 14-18 LPA; highest at NextLeap 31 LPA. 1500+ successful transitions."
+    "average_ctc": "14-18 Lakhs",
+    "highest_salary": "31 Lakhs"
   },
   "average_salary": "14-18 Lakhs",
   "highest_salary": "31 Lakhs",
@@ -215,31 +196,520 @@
     "AI learning co-pilot",
     "SQL playground with AI assistant"
   ],
-  "curriculum_by_week": [],
+  "curriculum_by_week": [
+    {
+      "week": "1",
+      "topics": [
+        "Mapping Business Outcomes to Product Outcomes",
+        "Systems thinking",
+        "Understanding Business Models",
+        "Structured thinking with KPI trees",
+        "Actors, Actions & Entities",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Product Discovery & User Research",
+        "Impact Mapping & Opportunity sizing",
+        "User Segmentation",
+        "User Research Techniques",
+        "Journey Mapping & Personas",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Problem Framing & Ideation",
+        "Problem Framing Canvas",
+        "Ideation & Product Risks",
+        "Outcome-Opportunity-Solution tree",
+        "User Flows & Wireframing",
+        "Case Studies on",
+        "See Full Curriculum",
+        "Download detailed curriculum",
+        "Get the AI Advantage",
+        "Pick up AI Skills",
+        "12 Hours of live classes that help you understand key concepts",
+        "AI Assisted Learning",
+        "Master the skills with our AI Learning Co-pilot",
+        "AI Interview Simulator",
+        "Practice your interviewing skills with our AI interviewer"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        "Kick off call",
+        "4 Apr | 10:30 AM-12:00 PM",
+        "Meet your Mentor",
+        "5 Apr | 5:00 AM-6:00 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Systems Thinking",
+        "11 Apr | 5:00 AM-7:00 AM",
+        "Mapping Business Outcomes to Product Outcomes",
+        "11 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Guidance",
+        "12 Apr | 5:00 AM-7:00 AM",
+        "Case Hours: KPI Trees",
+        "12 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Mapping Outcomes to Opportunities",
+        "18 Apr | 5:00 AM-7:00 AM",
+        "Deriving Insights from User Research",
+        "18 Apr | 8:30 AM-10:30 AM",
+        "Mentor Lab - Milestone 1 Feedback",
+        "19 Apr | 5:00 AM-7:00 AM",
+        "Case hours - Segmentation",
+        "19 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        "Problem Framing & Ideation",
+        "25 Apr | 5:00 AM-7:00 AM",
+        "Wireframing",
+        "25 Apr | 8:30 AM-10:30 AM",
+        "Mentor Lab - Milestone 2 Guidance",
+        "26 Apr | 5:00 AM-7:00 AM",
+        "Case Hours: Vibe coding a MVP",
+        "26 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        "UX Design Foundations",
+        "2 May | 5:00 AM-7:00 AM",
+        "AI Assisted Prototyping",
+        "2 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Feedback",
+        "3 May | 5:00 AM-7:00 AM",
+        "SQL Hours",
+        "3 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        "Metrics and Data Analysis - Part 1",
+        "9 May | 5:00 AM-7:00 AM",
+        "Metrics and Data Analysis - Part 2",
+        "9 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Guidance",
+        "10 May | 5:00 AM-7:00 AM",
+        "SQL Hours",
+        "10 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        "APIs, Webhooks & SDKs",
+        "16 May | 5:00 AM-7:00 AM",
+        "AI System Design",
+        "16 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Feedback",
+        "17 May | 5:00 AM-7:00 AM",
+        "SQL Hours",
+        "17 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        "Version Control, Github & Cursor setup",
+        "20 May | 2:30 PM-4:30 PM",
+        "LLMs: How they Work",
+        "23 May | 8:00 AM-10:00 AM",
+        "Prompt Engineering",
+        "23 May | 11:00 AM-1:00 PM",
+        "Build Hours: Building with APIs",
+        "24 May | 5:00 AM-7:00 AM",
+        "Build Hours: Building with APIs",
+        "24 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        "Build Hours",
+        "27 May | 2:30 PM-4:30 PM",
+        "RAGs & Fine Tuning",
+        "30 May | 8:00 AM-10:00 AM",
+        "AI Workflow Automations",
+        "30 May | 11:00 AM-1:00 PM",
+        "Build Hours: RAG Chatbot",
+        "31 May | 5:00 AM-7:00 AM",
+        "Build Hours: RAG Chatbot",
+        "31 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        "Build Hours",
+        "3 Jun | 2:30 PM-4:30 PM",
+        "AI Agents",
+        "6 Jun | 5:00 AM-7:00 AM",
+        "Agent Protocols",
+        "6 Jun | 8:30 AM-10:30 AM",
+        "Build Hours: AI Automations",
+        "7 Jun | 5:00 AM-7:00 AM",
+        "Build Hours: AI Automations",
+        "7 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        "Build Hours",
+        "10 Jun | 2:30 PM-4:30 PM",
+        "AI Evals",
+        "13 Jun | 5:00 AM-7:00 AM",
+        "How to Test AI Products",
+        "13 Jun | 8:30 AM-10:30 AM",
+        "Build Hours: AI Agents",
+        "14 Jun | 5:00 AM-7:00 AM",
+        "Build Hours: AI Agents",
+        "14 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        "Build Hours",
+        "17 Jun | 2:30 PM-4:30 PM",
+        "Interview Preparation - Guesstimates",
+        "20 Jun | 5:00 AM-7:00 AM",
+        "Interview Preparation - RCAs",
+        "20 Jun | 8:30 AM-10:30 AM",
+        "Mock Interviews - RCAs",
+        "21 Jun | 5:00 AM-7:00 AM",
+        "Mock Interviews - Guesstimates",
+        "21 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        "Interview Preparation - AI Product Sense",
+        "27 Jun | 5:00 AM-7:00 AM",
+        "Interview Preparation - Metrics",
+        "27 Jun | 8:30 AM-10:30 AM",
+        "Mock Interviews - Metrics",
+        "28 Jun | 5:00 AM-7:00 AM",
+        "Mock Interviews - Metrics",
+        "28 Jun | 5:00 AM-7:00 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "14",
+      "topics": [
+        "Interview Preparation - Product Strategy",
+        "4 Jul | 5:00 AM-7:00 AM",
+        "Interview Preparation - Product Design",
+        "4 Jul | 8:30 AM-10:30 AM",
+        "Mock Interviews - Product Strategy",
+        "5 Jul | 5:00 AM-7:00 AM",
+        "Mock Interviews - Product Design",
+        "5 Jul | 8:30 AM-10:30 AM",
+        "Frequently Asked Questions",
+        "What is the NextLeap Product Manager Fellowship?",
+        "Who is eligible to apply for the NextLeap Product Manager Fellowship?",
+        "Are there any costs associated with the NextLeap Product Manager Fellowship?",
+        "What if I miss a live session?",
+        "What are the benefits of being a Fellow in the NextLeap Product Manager Fellowship program?",
+        "I'm a pre-final year student. Am I eligible to apply?"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        ": Mapping Business Outcomes to Product Outcomes",
+        "Systems Thinking : understanding actors, flows, bottlenecks",
+        "Systems Thinking Tools: behaviour over time graphs, causal diagrams, iceberg model",
+        "First principles thinking: actor, action, entity diagrams",
+        "Understanding different types of Business Models",
+        "Building KPI Trees for structured problem solving",
+        "Hands-on Learning:",
+        "Case on Swiggy Customer Support: Building a KPI Tree to map business outcomes to product outcomes"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        ": Product Discovery & User Research",
+        "Impact Mapping to map product outcomes to opportunities",
+        "User segmentation methodologies",
+        "Opportunity sizing",
+        "User Research Methodologies",
+        "Identifying unmet needs and Jobs to be Done framework",
+        "Journey Mapping & their relevance",
+        "Building User Personas",
+        "Affinity Mapping to derive insights from user research",
+        "How to use AI tools for user research",
+        "Hands-on Learning:"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        ": Problem Framing & Ideation",
+        "Hypotheses building",
+        "Problem Framing canvas",
+        "Mindmapping solutions",
+        "Understanding Benefits and constraints for each actor",
+        "Understanding product risks",
+        "Crafting User Stories",
+        "Understanding Human Motivations to build solutions",
+        "Prioritising between solutions",
+        "Understanding how to build user flows and wireframes",
+        "Hands-on Learning:",
+        "Case on building a new feature for Spotify: Build an AI assisted prototype using vibe coding tools"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        ": UX Design & AI Prototyping",
+        "Learn about UX Laws",
+        "How to think about Information architecture in UX Design",
+        "How to design prototypes on Figma",
+        "Learn AI assisted prototyping with vibe coding tools",
+        "Spec driven development with vibe coding tools",
+        "Data model driven development with vibe coding tools",
+        "Hands-on Learning:",
+        "SQL: Learn how to write a data query with SQL"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        ": Product Growth & Metrics",
+        "Different stages of the growth cycle",
+        "Minimum viable product (MVP) and Minimum Viable Test (MVT)",
+        "4 Fits of Product Market Fit",
+        "Loops, Funnels and Networks",
+        "Product Led Growth Strategies",
+        "Understanding Acquisition, Activation, Retention, Engagement, Revenue, Referral",
+        "Go to market (GTM) strategies in the AI age",
+        "How to define metrics",
+        "Customer Metrics and Business Metrics",
+        "Key Performance Indicators (KPIs) and North Star Metrics",
+        "Building a Metrics Tree",
+        "Guardrail Metrics or Key Failure Indicators (KFIs)",
+        "Data Analysis techniques: funnel and cohort analysis",
+        "Data tracking and instrumentation: events, variables and more"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        ": Tech 101 & System Design",
+        "How the Internet works",
+        "Client-Server models",
+        "Different types of databases",
+        "APIs and their types: REST, SOAP, GraphQL",
+        "Synchronous and asynchronous APIs",
+        "High Level System Diagrams",
+        "AI system architectures",
+        "Cost vs quality trade-offs in AI products",
+        "Understand Version control",
+        "Set up GitHub",
+        "Set up Cursor",
+        "Hands-on Learning:",
+        "SQL: Writing complex queries using aggregate functions & window functions",
+        "AI Tools: GitHub and Cursor setup"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        ": LLMs & Prompt Engineering",
+        "Basics of Machine Learning",
+        "Supervised vs unsupervised learning",
+        "Understanding Large Language Models (LLMs) and how they work",
+        "Difference between top LLMs",
+        "Anatomy of a Prompt",
+        "Prompt Engineering techniques",
+        "Context engineering and prompt decay",
+        "System prompts, temperature settings and more",
+        "Hands-on Learning:",
+        "AI Tools: Build a basic chatbot by integrating with LLM APIs and system prompts"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        ": RAGs, Fine Tuning & AI Automations",
+        "Embeddings & vector databases",
+        "Chunking & retrieval techniques",
+        "Workflow triggers & JSON",
+        "Orchestrating LLM steps",
+        "Chaining architecture",
+        "Adding reasoning and memory",
+        "Building AI workflows",
+        "How to fine tune models to add context",
+        "Hands-on Learning:",
+        "AI Tools: Build a RAG enabled chatbot for a mutual fund house"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        ": AI Agents & Protocols",
+        "What are AI workflows",
+        "Difference between AI workflows and AI agents",
+        "Agent frameworks",
+        "Long term and short term memory",
+        "Agentic AI protocols: MCP vs A2A",
+        "Multi-agent systems",
+        "Agent performance",
+        "Hands-on Learning:",
+        "AI Tools: Building an AI workflow automation to analyse competitor ads data"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        ": AI Output Evaluation",
+        "Failure modes & bias",
+        "Eval rubrics & metrics",
+        "Golden sets & A/B tests",
+        "LLM-as-judge limits",
+        "Hands-on Learning:",
+        "AI Tools: Building an AI agent for a mutual fund house."
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        ": Interview Prep: Guesstimates & RCAs",
+        "Types of Interviews",
+        "How to classify interview questions",
+        "Learn how to ask Clarifying questions during interviews",
+        "Understand how to approach Guesstimates questions",
+        "Master strategies to answer Root Cause Analysis (RCAs) questions",
+        "Interview Rubric for Guesstimates & RCAs",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        ": Interview Prep: Product Design & Metrics",
+        "Learn how to answer Product Design questions",
+        "Understand how to answer Metrics Interview questions",
+        "Master strategies to answer A/B Testing questions",
+        "Interview Rubric for Product Design Questions",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        ": Interview Prep: Strategy & AI Product Sense",
+        "Learn how to answer Product strategy questions",
+        "Master how to answer Pricing & GTM questions",
+        "Understand what are AI Product sense questions and how to answer them",
+        "Interview Rubric for AI Product Sense questions",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors"
+      ],
+      "tools": []
+    },
+    {
+      "week": "14",
+      "topics": [
+        "-16: Graduation Project",
+        "Continue to build portfolio",
+        "Work on graduation project",
+        "Submit graduation project",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors",
+        "Master the Tools to become a successful Product Manager",
+        "Microsoft Clarity & Hotjar: For User Research",
+        "Whimsical: For Mindmaps & KPI Trees",
+        "Figma: For Wireframing & Design",
+        "JIRA: For product roadmapping and execution",
+        "Google Analytics: For product analytics",
+        "Microsoft Excel & SQL: For data analysis",
+        "Open AI & Claude : For prompt engineering",
+        "N8n & Make: For AI workflows"
+      ],
+      "tools": []
+    }
+  ],
   "program_timeline": [],
   "tools_learned": [
-    "Whimsical",
-    "Figma",
-    "SQL",
-    "OpenAI",
-    "Amplitude",
-    "JIRA",
-    "Microsoft Clarity",
-    "Loveable AI",
-    "n8n",
-    "bolt.new",
-    "Hotjar",
-    "Google Analytics",
-    "Microsoft Excel",
     "Cursor",
-    "GitHub",
-    "Make"
+    "OpenAI",
+    "n8n",
+    "Loveable AI",
+    "Figma",
+    "Gemini",
+    "bolt.new",
+    "JIRA",
+    "Excel",
+    "SQL",
+    "Python",
+    "Whimsical",
+    "Hotjar",
+    "Microsoft Clarity",
+    "Google Analytics"
   ],
-  "weekly_commitment": "12-14 hours per week",
+  "weekly_commitment": "12-14 hours/week",
   "reviews_summary": {},
-  "alumni_support": [],
+  "alumni_support": [
+    "Resume",
+    "AI Interviewer",
+    "mock interviews"
+  ],
   "source": "merged",
-  "last_updated": "2026-03-04T13:27:27.797271Z",
+  "last_updated": "2026-03-05T11:52:25.577871Z",
   "source_url": "https://nextleap.app/course/product-management-course",
   "live_classes": "100+ hours",
   "timeline": "4 months",

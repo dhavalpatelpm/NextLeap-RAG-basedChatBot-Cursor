@@ -7,15 +7,16 @@
   "type": "Online Fellowship",
   "duration": "18 weeks",
   "duration_weeks": 18,
-  "total_live_hours": "150+ hours",
+  "total_live_hours": "150++ hours",
   "weekly_hours_min": 12,
   "weekly_hours_max": 14,
   "format": "Live cohort-based classes",
-  "fellowship_timeline": "4.5 months",
+  "fellowship_timeline": "5 months",
   "mentorship": "Mentorship with experienced analysts",
   "class_type": [],
-  "placement_support": "1 year placement support",
+  "placement_support": "1 year",
   "placement_support_years": "1 year",
+  "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies\nMock Interviews\nResume Reviews\nInterview with Hiring Partners\nYour Future Job Title\nBusiness\nAnalyst\nPricing\nAnalyst\nGTM\nAnalyst\nRevOps\nAnalyst\nSupply\nChain Analyst\nAverage Analyst Salary\n8-10 Lakhs\nHighest Salary at NextLeap\n31 Lakhs\nSuccess Stories\nVansh Agrawal\nIIT Kharagpur\nZomato\nProduct Analyst\nI got an offer from zomato for PA role, the learning at Nextleap helped me a lot",
   "career_support": [
     "Mock interviews",
     "Resume reviews",
@@ -25,13 +26,11 @@
     "starts_on": "Apr 4"
   },
   "fee": {
-    "current_price": "₹34,999",
-    "original_price": "₹49,999",
-    "emi_from": "₹1,577/month",
-    "price_increase_info": "Price increase from 8 Mar 11:59 PM",
-    "discounts": [
-      "30% discount"
-    ]
+    "current_price": "₹34999",
+    "original_price": "₹49999",
+    "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 8",
+    "discounts": []
   },
   "live_class_schedule": [],
   "schedule": {
@@ -49,33 +48,29 @@
   },
   "instructors": [
     {
-      "name": "Arindam Mukherjee",
-      "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"
+      "name": "Previously @ Flipkart",
+      "role": "TripAdvisor"
     },
     {
-      "name": "Karthik Singh",
-      "role": "Product Designer 2 at Microsoft"
+      "name": "Principal",
+      "role": "Analytics"
     },
     {
-      "name": "Ishaan Tiwari",
-      "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"
+      "name": "Senior Data and Business Analyst @ Zomato",
+      "role": "Ex- Uber"
     },
     {
-      "name": "Shailesh Sharma",
-      "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"
-    },
-    {
-      "name": "Prashant Bhaskar",
-      "role": "Product Manager at Uber"
-    },
-    {
-      "name": "Saksham Arora",
-      "role": "Software Engineer 2 at Intuit"
+      "name": "Senior Manager",
+      "role": "Zomato"
     }
   ],
   "learn_from_instructors": [],
-  "average_salary": "8-10 LPA",
-  "highest_salary": "31 LPA",
+  "salary_outcomes": {
+    "average_ctc": "8-10 Lakhs",
+    "highest_salary": "31 Lakhs"
+  },
+  "average_salary": "8-10 Lakhs",
+  "highest_salary": "31 Lakhs",
   "curriculum_topics": [
     "Business models & KPIs",
     "Market sizing & user research",
@@ -148,23 +143,529 @@
   ],
   "community_learning": [],
   "ai_learning_tools": [],
-  "curriculum_by_week": [],
+  "curriculum_by_week": [
+    {
+      "week": "1",
+      "topics": [
+        "Business Models & KPIs",
+        "Systems thinking",
+        "Understanding Business Models",
+        "Structured thinking with KPI trees",
+        "Actors, Actions & Entities",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Market Sizing & User Research",
+        "Impact Mapping & Opportunity sizing",
+        "User Segmentation",
+        "User Research Techniques",
+        "Journey Mapping & Personas",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Problem Framing & Requirements Gathering",
+        "Problem Framing Canvas",
+        "Ideation & Product Risks",
+        "Outcome-Opportunity-Solution tree",
+        "Business Requirements Document (BRD)",
+        "Case Studies on",
+        "See Full Curriculum",
+        "Download detailed curriculum",
+        "Get the AI Advantage",
+        "Pick up AI Skills",
+        "12 Hours of live classes that help you understand key concepts",
+        "AI Assisted Learning",
+        "Master the skills with our AI Learning Co-pilot",
+        "AI Interview Simulator",
+        "Practice your interviewing skills with our AI interviewer"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        "Kick Off Call",
+        "4 Apr | 5:30 AM-7:00 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Systems Thinking",
+        "11 Apr | 5:00 AM-7:00 AM",
+        "Mapping Business Outcomes to Product Outcomes",
+        "11 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Guidance",
+        "12 Apr | 5:00 AM-6:00 AM",
+        "Case Hours: KPI Trees",
+        "12 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Mapping Outcomes to Opportunities",
+        "18 Apr | 5:00 AM-7:00 AM",
+        "User Research 101",
+        "18 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Feedback",
+        "19 Apr | 5:00 AM-7:00 AM",
+        "Case hours - Segmenting for Scale",
+        "19 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        "Problem Framing",
+        "25 Apr | 5:00 AM-7:00 AM",
+        "Capturing Business Requirements",
+        "25 Apr | 8:30 AM-10:30 AM",
+        "Mentor Lab - Milestone 2 Guidance",
+        "26 Apr | 5:00 AM-7:00 AM",
+        "Case Hours: BRD",
+        "26 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        "Metrics and Analysis - I",
+        "2 May | 5:00 AM-7:00 AM",
+        "Metrics and Analysis - II",
+        "2 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Feedback",
+        "3 May | 5:00 AM-7:00 AM",
+        "Case Hours: Metrics",
+        "3 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        "Introduction to Data Analytics - I",
+        "9 May | 5:00 AM-7:00 AM",
+        "Introduction to Data Analytics - II",
+        "9 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Guidance",
+        "10 May | 5:00 AM-7:00 AM",
+        "Case Hours : EDA",
+        "10 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        "Data Preparation using Excel - I",
+        "16 May | 5:00 AM-7:00 AM",
+        "Data Preparation using Excel - II",
+        "16 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Feedback",
+        "17 May | 5:00 AM-7:00 AM",
+        "Excel Case Hours - 1",
+        "17 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        "Lookup Functions in Excel",
+        "23 May | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis using Excel",
+        "23 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Guidance",
+        "24 May | 5:00 AM-7:00 AM",
+        "Excel Case Hours - 2",
+        "24 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        "Pivot Tables in Excel",
+        "30 May | 5:00 AM-7:00 AM",
+        "Dashboarding using Excel",
+        "30 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Guidance",
+        "31 May | 5:00 AM-7:00 AM",
+        "Case Hours - Cohort & Funnel Analysis",
+        "31 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        "Data Analysis using SQL - I",
+        "6 Jun | 5:00 AM-7:00 AM",
+        "Data Analysis using SQL - II",
+        "6 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Feedback",
+        "7 Jun | 5:00 AM-7:00 AM",
+        "Case Hours - IPL",
+        "7 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        "Data Manipulation with SQL - I",
+        "13 Jun | 5:00 AM-7:00 AM",
+        "Data Manipulation with SQL - II",
+        "13 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 5 Guidance",
+        "14 Jun | 5:00 AM-7:00 AM",
+        "Case Hours - Airbnb",
+        "14 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        "Advanced Data Analysis with SQL - I",
+        "20 Jun | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis with SQL - II",
+        "20 Jun | 8:30 AM-10:30 AM",
+        "Mentor Lab - Milestone 5 Guidance",
+        "21 Jun | 5:00 AM-7:00 AM",
+        "Case Hours - Airbnb II",
+        "21 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        "Introduction to Data Visualisation - I",
+        "27 Jun | 5:00 AM-7:00 AM",
+        "Introduction to Data Visualisation - II",
+        "27 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 5 Feedback",
+        "28 Jun | 5:00 AM-7:00 AM",
+        "Case Hours - Nextleap",
+        "28 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "14",
+      "topics": [
+        "Data Preparation & Exploration with Tableau - I",
+        "4 Jul | 5:00 AM-7:00 AM",
+        "Data Preparation & Exploration with Tableau - II",
+        "4 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 6 Guidance",
+        "5 Jul | 5:00 AM-7:00 AM",
+        "Case Hours - Nextleap",
+        "5 Jul | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "15",
+      "topics": [
+        "LLMs: How they Work",
+        "11 Jul | 5:00 AM-7:00 AM",
+        "Prompt Engineering",
+        "11 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 6 Feedback",
+        "12 Jul | 5:00 AM-7:00 AM",
+        "Case Hours: Database Automation",
+        "12 Jul | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "16",
+      "topics": [
+        "RAGs & Fine Tuning",
+        "18 Jul | 5:00 AM-7:00 AM",
+        "AI Workflows",
+        "18 Jul | 8:30 AM-10:30 AM",
+        "Case Hours: AI Workflows",
+        "19 Jul | 8:30 AM-10:30 AM",
+        "Frequently Asked Questions",
+        "What is the NextLeap Business Analyst Fellowship?",
+        "Who is eligible to apply for the NextLeap Business Analyst Fellowship?",
+        "Who is this Fellowship for?",
+        "What are the prerequisites for applying?",
+        "I'm a pre-final year student. Am I eligible to apply?",
+        "Is there any prior coding experience required?",
+        "Is work experience also a criterion to get selected for interviews?",
+        "Are there any costs associated with the NextLeap Business Analyst Fellowship?"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        ": Business Thinking",
+        "Systems Thinking : understanding actors, flows, bottlenecks",
+        "Understanding Business Models",
+        "Building KPI Trees",
+        "Hands-on Learning:",
+        "Case on Customer Support: Building a KPI Tree to map business outcomes to product outcomes"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        ": Opportunity Sizing & Market Research",
+        "Opportunity sizing",
+        "Opportunity sizing: TAM, TOM, SOM",
+        "Hypotheses building",
+        "Market research and analysis",
+        "Hands-on Learning:"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        ": Problem Framing & Requirements Gathering",
+        "Mindmapping solutions",
+        "Understanding Benefits and constraints for each actor",
+        "Understanding product risks",
+        "Crafting User Stories",
+        "Understanding Human Motivations to build solutions",
+        "Prioritising between solutions",
+        "Hands-on Learning:",
+        "Case on an e-learning company: Prioritising between different product tasks in a roadmap"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        ": Growth and GTM",
+        "Different stages of the growth cycle",
+        "Minimum viable product (MVP) and Minimum Viable Test (MVT)",
+        "4 Fits of Product Market Fit",
+        "Loops, Funnels and Networks",
+        "Product Led Growth Strategies",
+        "Understanding Acquisition, Activation, Retention, Engagement, Revenue, Referral",
+        "Go to market (GTM) strategies in the AI age",
+        "Growth Modelling",
+        "Hands-on Learning:",
+        "Case on a voice AI company: Building a growth model to increase subscriber growth"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        ": Metrics & Analysis",
+        "How to define metrics",
+        "Customer Metrics and Business Metrics",
+        "Key Performance Indicators (KPIs) and North Star Metrics",
+        "Building a Metrics Tree",
+        "Guardrail Metrics or Key Failure Indicators (KFIs)",
+        "Data Analysis techniques: funnel and cohort analysis",
+        "Data tracking and instrumentation: events, variables and more",
+        "Hands-on Learning:",
+        "Case on a Travel tech company: Building a Metrics dashboard"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        ": Data Preparation using Excel",
+        "Basic Functions & Shortcuts",
+        "Data Formatting Techniques",
+        "Data Cleaning Techniques",
+        "Data Protection & Error Validation"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        ": Data Analysis using Excel",
+        "Lookup & Merging Techniques",
+        "PivotTable & Grouping",
+        "Conditional Formatting",
+        "Scenario and Sensitivity Analysis"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        ": Data Visualisation using Excel",
+        "Charts and Visualization Techniques",
+        "Data Visualisation Best Practices",
+        "Pivot Charts",
+        "Building interactive Dashboards"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        ": Data Analysis using SQL",
+        "Introduction to Database",
+        "Selection, Filtering & Ordering",
+        "Data Types, Operators and functions",
+        "Aggregate and Group By commands"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        ": Data Manipulation with SQL",
+        "Conditional and Case Statements",
+        "Working with date/timestamps",
+        "Subqueries"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        ": Advanced Data Manipulation with SQL",
+        "Common Table Expression (CTE)",
+        "Window functions in SQL",
+        "SET operators"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        ": LLMs & Prompt Engineering",
+        "Basics of Machine Learning",
+        "Understanding LLMs",
+        "Prompt Engineering",
+        "Tokens, temperature, context window"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        ": RAGs & AI Workflows",
+        "Embeddings & Vector Databases",
+        "Chunking strategies",
+        "Creating AI workflows",
+        "Triggers, conditions, webhooks"
+      ],
+      "tools": []
+    },
+    {
+      "week": "14",
+      "topics": [
+        ": Data Preparation & Exploration with Tableau",
+        "Loading Data on Tableau",
+        "Data Cleaning & Preparation Techniques",
+        "Aggregation and Logical Functions",
+        "Filters & Analytics in Tableau"
+      ],
+      "tools": []
+    },
+    {
+      "week": "15",
+      "topics": [
+        ": Data Visualisation with Tableau",
+        "Understanding Chart Types",
+        "Creating Charts in Tableau",
+        "LOD and Calculated Fields",
+        "Creating Dashboards & Stories"
+      ],
+      "tools": []
+    },
+    {
+      "week": "16",
+      "topics": [
+        ": Interview Prep & Graduation Project",
+        "Types of Interviews",
+        "How to classify interview questions",
+        "How to ask Clarifying Questions",
+        "How to answer Guesstimate questions",
+        "How to answer Root Cause Analysis (RCA) questions",
+        "Start on graduation project",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors"
+      ],
+      "tools": []
+    },
+    {
+      "week": "17",
+      "topics": [
+        ": Interview Prep & Graduation Project",
+        "How to answer metrics questions",
+        "Continue working on graduation project",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors"
+      ],
+      "tools": []
+    },
+    {
+      "week": "18",
+      "topics": [
+        ": Interview Prep & Graduation Project",
+        "Submit Graduation Project",
+        "Hands-on Learning:",
+        "Mock Interviews with mentors",
+        "Master the Tools to become a successful Business Analyst",
+        "Microsoft Clarity & Hotjar: For User Research",
+        "Whimsical: For Mindmaps & KPI Trees",
+        "JIRA: For planning and execution",
+        "Google Analytics: For analytics",
+        "Microsoft Excel: For data analysis",
+        "SQL: For data analysis",
+        "Tableau: For data visualization and dashboarding",
+        "Learn from Instructors who are Industry experts",
+        "Sahil Agrawal is a Business Analytics Manager at Flipkart and teaches the Excel modules",
+        "Work on real world projects: Apply what you learn"
+      ],
+      "tools": []
+    }
+  ],
   "program_timeline": [],
   "tools_learned": [
+    "n8n",
+    "Loveable AI",
+    "bolt.new",
+    "JIRA",
+    "Tableau",
     "Excel",
     "SQL",
-    "Tableau",
     "Python",
-    "JIRA",
-    "Loveable AI",
-    "n8n",
-    "bolt.new"
+    "Whimsical",
+    "Hotjar",
+    "Microsoft Clarity",
+    "Google Analytics"
   ],
   "weekly_commitment": "12-14 hours/week",
   "reviews_summary": {},
-  "alumni_support": [],
+  "alumni_support": [
+    "Resume",
+    "AI Interviewer",
+    "mock interviews"
+  ],
   "source": "merged",
-  "last_updated": "2026-03-04T13:27:27.816186Z",
+  "last_updated": "2026-03-05T11:52:25.582402Z",
   "source_url": "https://nextleap.app/course/business-analyst-course",
   "total_live_classes": "150+ hours",
   "live_classes": "150+ hours",

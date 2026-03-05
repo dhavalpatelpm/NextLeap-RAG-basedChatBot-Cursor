@@ -5,30 +5,29 @@
   "provider": "NextLeap",
   "category": "Product Design / UI/UX",
   "type": "Online Fellowship Program",
-  "duration": "16 weeks",
-  "duration_weeks": 16,
-  "total_live_hours": "100+ hours",
+  "duration": "8 weeks",
+  "duration_weeks": 8,
+  "total_live_hours": "100++ hours",
   "weekly_hours_min": 12,
   "weekly_hours_max": 14,
   "format": "Live online classes",
   "fellowship_timeline": "4 months",
   "mentorship": "Mentorship with experienced designers",
   "class_type": [],
-  "placement_support": "1 year placement support",
+  "placement_support": "1 year",
   "placement_support_years": "1 year",
+  "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies\nMock Interviews\nResume Reviews\nInterview with Hiring Partners\nYour Future Job Title\nUI/UX Designer\nAverage Salary\n8-12 Lakhs\nHighest Salary of past learners at NextLeap\n31 Lakhs\nSuccess Stories\nFresher\nGraphic Designer\nFreelance/Unconventional\nDebrupa Nag\nIndian Institute of Information Technology, Nagpur\nCodeChef\nProduct Designer\nHarsh Singhal\nVellore Institute of Technology\nDatadash\nProduct Designer\nSrineha Gaddam\nVellore Institute of Technology\nParadigmIT\nUX Designer\nAnay Rajguru\nVellore Institute of Technology\nScaler Academy\nProduct Designer\nPrerana Chhallani\nJECRC University\nTeknobuilt\nProduct Designer\nNeha Kalonia\nPost Graduate Government College for Girls\nRootandleaves\nVisual Designer\nSoham Poddar\nSRM University\nThokbajaar\nSenior Product Designer\nSahil Jain\nCollege of Hospitality Administration\nCyble Inc",
   "career_support": [],
   "cohort_info": {
     "cohort_number": "27",
-    "starts_on": "Apr 4"
+    "starts_on": "Apr 3"
   },
   "fee": {
-    "current_price": "₹34,999",
-    "original_price": "₹49,999",
-    "emi_from": "₹1,577/month",
-    "price_increase_info": "Price increase from 8 Mar 11:59 PM",
-    "discounts": [
-      "30% discount"
-    ]
+    "current_price": "₹34999",
+    "original_price": "₹49999",
+    "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 8",
+    "discounts": []
   },
   "live_class_schedule": [],
   "schedule": {
@@ -46,32 +45,31 @@
   },
   "instructors": [
     {
-      "name": "Arindam Mukherjee",
-      "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"
+      "name": "Previously @ Redbus",
+      "role": "Adobe"
     },
     {
-      "name": "Karthik Singh",
-      "role": "Product Designer 2 at Microsoft"
+      "name": "Previously @ Flipkart",
+      "role": "Goibibo"
     },
     {
-      "name": "Ishaan Tiwari",
-      "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"
+      "name": "Previously @ Flipkart",
+      "role": "TripAdvisor"
     },
     {
-      "name": "Shailesh Sharma",
-      "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"
+      "name": "Indian Institute of Information Technology",
+      "role": "Nagpur"
     },
     {
-      "name": "Prashant Bhaskar",
-      "role": "Product Manager at Uber"
-    },
-    {
-      "name": "Saksham Arora",
-      "role": "Software Engineer 2 at Intuit"
+      "name": "NIT",
+      "role": "Trichy"
     }
   ],
   "learn_from_instructors": [],
-  "average_salary": "8-12 LPA",
+  "salary_outcomes": {
+    "average_ctc": "8-12 Lakhs"
+  },
+  "average_salary": "8-12 Lakhs",
   "highest_salary": "31 LPA",
   "curriculum_topics": [
     "Business thinking in design",
@@ -153,24 +151,439 @@
     "Mentor reviews"
   ],
   "ai_learning_tools": [],
-  "curriculum_by_week": [],
+  "curriculum_by_week": [
+    {
+      "week": "1",
+      "topics": [
+        "Business Thinking in Design",
+        "Systems thinking",
+        "Understanding Business Models",
+        "Structured thinking with KPI trees",
+        "Actors, Actions & Entities",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Product Discovery & User Research",
+        "Impact Mapping & Opportunity sizing",
+        "User Segmentation",
+        "User Research Techniques",
+        "Journey Mapping & Personas",
+        "Case Studies on"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Problem Framing & Ideation",
+        "Problem Framing Canvas",
+        "Ideation & Product Risks",
+        "Outcome-Opportunity-Solution tree",
+        "User Flows & Wireframing",
+        "Case Studies on",
+        "See Full Curriculum",
+        "Download detailed curriculum",
+        "Get the AI Advantage",
+        "Pick up AI Skills",
+        "12 Hours of live classes that help you understand key concepts",
+        "AI Assisted Learning",
+        "Master the skills with our AI Learning Co-pilot",
+        "AI Interview Simulator",
+        "Practice your interviewing skills with our AI interviewer"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        "Kick-off Call",
+        "4 Apr | 5:30 AM-7:00 AM",
+        "Mentor Labs - Meet your Mentor",
+        "5 Apr | 5:00 AM-6:00 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        "Systems Thinking",
+        "11 Apr | 5:00 AM-7:00 AM",
+        "Mapping Business Outcomes to Product Outcomes",
+        "11 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Guidance",
+        "12 Apr | 5:30 AM-7:00 AM",
+        "Case Hours: KPI Trees",
+        "12 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        "Mapping Outcomes to Opportunities",
+        "18 Apr | 5:00 AM-7:00 AM",
+        "Deriving Insights from User Research",
+        "18 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Feedback",
+        "19 Apr | 5:00 AM-7:00 AM",
+        "Case Hours: Segmentation",
+        "19 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        "Problem Framing & Ideation",
+        "25 Apr | 5:00 AM-7:00 AM",
+        "User Flows & Wireframing",
+        "25 Apr | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Guidance",
+        "26 Apr | 5:00 AM-7:00 AM",
+        "Case Hours: Vibe coding a MVP",
+        "26 Apr | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        "UX Design Foundations",
+        "2 May | 5:00 AM-7:00 AM",
+        "AI Assisted Prototyping",
+        "2 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Feedback",
+        "3 May | 5:00 AM-7:00 AM",
+        "Figma Hour: Introduction to Figma - Layers & Objects",
+        "3 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        "Visual Design Principles",
+        "9 May | 5:00 AM-7:00 AM",
+        "Visual Design Elements",
+        "9 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 3 Guidance",
+        "10 May | 5:00 AM-7:00 AM",
+        "Figma Hour - Typography & Text Styling",
+        "10 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        "Visual Design Language",
+        "16 May | 5:00 AM-7:00 AM",
+        "Mentor Labs - Milestone 3 Feedback",
+        "16 May | 8:30 AM-10:30 AM",
+        "Building a Visual Design Language - 2",
+        "17 May | 5:00 AM-7:00 AM",
+        "Figma Hours - Colours, Gradients & Styling",
+        "17 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        "Inclusive Design Principles",
+        "23 May | 5:00 AM-7:00 AM",
+        "Building Design Systems",
+        "23 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        "Android Material Design Deepdive",
+        "30 May | 5:00 AM-7:00 AM",
+        "Android Material Design Deepdive",
+        "30 May | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Feedback",
+        "31 May | 5:00 AM-7:00 AM",
+        "Figma Hours - Component Libraries (contd.)",
+        "31 May | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        "iOS HIG Deepdive",
+        "6 Jun | 5:00 AM-7:00 AM",
+        "iOS HIG Deepdive",
+        "6 Jun | 8:30 AM-10:30 AM",
+        "Figma Hours - Prototyping",
+        "7 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        "Agentic UX Design",
+        "13 Jun | 5:00 AM-8:00 AM",
+        "Figma Hours - Adaptive & Responsive Design Techniques",
+        "14 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        "Building a UX Design Portfolio",
+        "20 Jun | 5:00 AM-7:00 AM",
+        "Presenting a UX Design Case Study",
+        "20 Jun | 8:30 AM-10:30 AM",
+        "Portfolio Presentation",
+        "21 Jun | 5:00 AM-7:00 AM",
+        "Figma Hours - Shortcuts, Plugins & Version Control",
+        "21 Jun | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        "Portfolio Presentation",
+        "27 Jun | 5:00 AM-7:00 AM",
+        "Portfolio Presentation",
+        "27 Jun | 8:30 AM-10:30 AM",
+        "Frequently Asked Questions",
+        "What is the NextLeap UI/UX Designer Fellowship?",
+        "What if I miss a live session?",
+        "Who can enrol for these fellowships?",
+        "I'm a pre-final year student. Am I eligible to apply?",
+        "What is the graduation project?",
+        "Can I re-submit my graduation project?",
+        "What's the problem statement that I'll be required to work on for the graduation project?",
+        "Who all will be eligible to get access to career services?",
+        "What’s included in the career services?",
+        "If I don’t score more than 70%, will I still get a completion certificate?"
+      ],
+      "tools": []
+    },
+    {
+      "week": "1",
+      "topics": [
+        ": Business Thinking in Design",
+        "Systems Thinking : understanding actors, flows, bottlenecks",
+        "Systems Thinking Tools: behaviour over time graphs, causal diagrams, iceberg model",
+        "First principles thinking: actor, action, entity diagrams",
+        "Understanding different types of Business Models",
+        "Building KPI Trees for structured problem solving",
+        "Hands-on Learning:",
+        "Case on Swiggy Customer Support: Building a KPI Tree to map business outcomes to product outcomes"
+      ],
+      "tools": []
+    },
+    {
+      "week": "2",
+      "topics": [
+        ": Product Discovery & User Research",
+        "Impact Mapping to map product outcomes to opportunities",
+        "User segmentation methodologies",
+        "Opportunity sizing",
+        "User Research Methodologies",
+        "Identifying unmet needs and Jobs to be Done framework",
+        "Journey Mapping & their relevance",
+        "Building User Personas",
+        "Affinity Mapping to derive insights from user research",
+        "How to use AI tools for user research",
+        "Hands-on Learning:"
+      ],
+      "tools": []
+    },
+    {
+      "week": "3",
+      "topics": [
+        ": Problem Framing & Ideation",
+        "Hypotheses building",
+        "Problem Framing canvas",
+        "Mindmapping solutions",
+        "Understanding Benefits and constraints for each actor",
+        "Understanding product risks",
+        "Crafting User Stories",
+        "Understanding Human Motivations to build solutions",
+        "Prioritising between solutions",
+        "Understanding how to build user flows and wireframes",
+        "Hands-on Learning:",
+        "Case on building a new feature for Spotify: Build an AI assisted prototype using vibe coding tools"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        ": UX Foundations & AI Prototyping",
+        "Learn about UX Laws",
+        "How to think about Information architecture in UX Design",
+        "How to design prototypes on Figma",
+        "Learn AI assisted prototyping with vibe coding tools",
+        "Spec driven development with vibe coding tools",
+        "Data model driven development with vibe coding tools",
+        "Hands-on Learning:",
+        "Figma Hours: Layers & Objects"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        ": Introduction to Visual Design",
+        "Learn about the application of Gestalt’s Principles",
+        "Understand how Scale & Visual Hierarchy influence design",
+        "Learn the difference between Balance & Contrast and how to design keeping these in mind",
+        "Master the usage of Visual Design elements (lines, shapes, colours, grids, typography)",
+        "Hands-on Learning:",
+        "Figma Hours: Typography & Text Styling"
+      ],
+      "tools": []
+    },
+    {
+      "week": "6",
+      "topics": [
+        ": Visual Design Language",
+        "Learn Moodboarding strategies",
+        "Master Colour Theory and how to apply when designing products",
+        "Understand the principles and best practices of Typography settings in digital product design",
+        "Learn about grids & layouts",
+        "Hands-on Learning:",
+        "Figma Hours: Colours, gradients & styling"
+      ],
+      "tools": []
+    },
+    {
+      "week": "7",
+      "topics": [
+        ": Design Systems",
+        "Learn about Inclusive design practices and why they matter",
+        "Learn to build with Design Accessibility in mind",
+        "Learn how to build Atomic Design systems",
+        "Master Design Systems Tools and best practices",
+        "Learn to build design systems and component libraries with AI tools like Claude",
+        "Hands-on Learning:",
+        "Figma Hours: Component Libraries"
+      ],
+      "tools": []
+    },
+    {
+      "week": "8",
+      "topics": [
+        ": Android Material Design Deepdive",
+        "Components in Android Material Design",
+        "Material Design Toolbar",
+        "Navigation View",
+        "RecyclerView and CardView",
+        "Hands-on Learning:",
+        "Figma Hours: Component Libraries (contd.)"
+      ],
+      "tools": []
+    },
+    {
+      "week": "9",
+      "topics": [
+        ": iOS Human Interface Guidelines (HIG) Deepdive",
+        "Navigation & Layouts",
+        "User controls",
+        "Views, Inputs & Selection",
+        "Feedback & Status",
+        "Hands-on Learning:",
+        "Figma Hours: Prototyping"
+      ],
+      "tools": []
+    },
+    {
+      "week": "10",
+      "topics": [
+        ": Agentic UX & AI Design",
+        "Conversation Design",
+        "User controls in AI products",
+        "UI patterns in Agentic UX",
+        "AI image generation",
+        "Hands-on Learning:",
+        "Figma Hours: Advanced Prototyping"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
+        ": Building a UX Design Portfolio",
+        "Components of a portfolio",
+        "Building a UX case study",
+        "How to present a UX case study",
+        "How to present a UX portfolio",
+        "Hands-on Learning:",
+        "Figma Hours: Adaptive & Responsive Design Best Practices"
+      ],
+      "tools": []
+    },
+    {
+      "week": "12",
+      "topics": [
+        ": Portfolio Presentation",
+        "Present your design portfolio and UX case study",
+        "Get feedback from mentors and peers",
+        "Analyse feedback and improve on the portfolio",
+        "Hands-on Learning:",
+        "Figma Hours: Figma Plugins and Figma MCP"
+      ],
+      "tools": []
+    },
+    {
+      "week": "13",
+      "topics": [
+        "-16: Graduation Project",
+        "Continue to build portfolio",
+        "Work on graduation project",
+        "Submit graduation project",
+        "Master the Tools to become a successful UI/UX Designer",
+        "Microsoft Clarity & Hotjar: For User Research",
+        "Whimsical: For Mindmaps & KPI Trees",
+        "Figma: For Wireframing & Design",
+        "Open AI & Claude : For prompt engineering and working with Figma MCP",
+        "Lovable & Figma Make: For building prototypes",
+        "Protopie & Lottiefiles: For design animations",
+        "Learn from Instructors who are Industry experts",
+        "Kartik Singh is a senior product designer at Microsoft and teaches the Wireframing & UX Foundations modules.",
+        "Ashutosh Vashishtha is a design advocate with Apple and teaches the module on iOS HIG Deepdive",
+        "Sharang Sharma leads the AI design initiatives at Agentic Path and teaches the module on Agentic UX & AI Design"
+      ],
+      "tools": []
+    }
+  ],
   "program_timeline": [],
   "tools_learned": [
-    "Whimsical",
-    "Figma",
-    "Adobe After Effects",
-    "ProtoPie",
-    "LottieFiles",
-    "JIRA",
-    "Microsoft Clarity",
     "Loveable AI",
-    "bolt.new"
+    "Figma",
+    "bolt.new",
+    "JIRA",
+    "Excel",
+    "SQL",
+    "Python",
+    "Whimsical",
+    "Hotjar",
+    "Microsoft Clarity"
   ],
   "weekly_commitment": "12-14 hours/week",
   "reviews_summary": {},
-  "alumni_support": [],
+  "alumni_support": [
+    "Resume",
+    "AI Interviewer",
+    "mock interviews"
+  ],
   "source": "merged",
-  "last_updated": "2026-03-04T13:27:27.802849Z",
+  "last_updated": "2026-03-05T11:52:25.579447Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",
