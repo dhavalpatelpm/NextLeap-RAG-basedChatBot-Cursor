@@ -19,13 +19,14 @@
   "placement_support_detail": "Clear the cut-off marks in your graduation project to get access to jobs at our partner companies\nMock Interviews\nResume Reviews\nInterview with Hiring Partners\nYour Future Job Title\nUI/UX Designer\nAverage Salary\n8-12 Lakhs\nHighest Salary of past learners at NextLeap\n31 Lakhs\nSuccess Stories\nFresher\nGraphic Designer\nFreelance/Unconventional\nDebrupa Nag\nIndian Institute of Information Technology, Nagpur\nCodeChef\nProduct Designer\nHarsh Singhal\nVellore Institute of Technology\nDatadash\nProduct Designer\nSrineha Gaddam\nVellore Institute of Technology\nParadigmIT\nUX Designer\nAnay Rajguru\nVellore Institute of Technology\nScaler Academy\nProduct Designer\nPrerana Chhallani\nJECRC University\nTeknobuilt\nProduct Designer\nNeha Kalonia\nPost Graduate Government College for Girls\nRootandleaves\nVisual Designer\nSoham Poddar\nSRM University\nThokbajaar\nSenior Product Designer\nSahil Jain\nCollege of Hospitality Administration\nCyble Inc",
   "career_support": [],
   "cohort_info": {
-    "cohort_number": "27",
-    "starts_on": "Apr 3"
+    "cohort_number": "28",
+    "starts_on": "May 1"
   },
   "fee": {
-    "current_price": "₹38999",
+    "current_price": "₹34999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 5",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -200,9 +201,9 @@
       "week": "1",
       "topics": [
         "Kick-off Call",
-        "4 Apr | 5:30 AM-7:00 AM",
+        "2 May | 5:30 AM-7:00 AM",
         "Mentor Labs - Meet your Mentor",
-        "5 Apr | 5:00 AM-6:00 AM"
+        "3 May | 5:00 AM-6:00 AM"
       ],
       "tools": []
     },
@@ -210,13 +211,13 @@
       "week": "2",
       "topics": [
         "Systems Thinking",
-        "11 Apr | 5:00 AM-7:00 AM",
+        "9 May | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
-        "11 Apr | 8:30 AM-10:30 AM",
+        "9 May | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 1 Guidance",
-        "12 Apr | 5:30 AM-7:00 AM",
+        "10 May | 5:30 AM-7:00 AM",
         "Case Hours: KPI Trees",
-        "12 Apr | 8:30 AM-10:30 AM"
+        "10 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -224,13 +225,13 @@
       "week": "3",
       "topics": [
         "Mapping Outcomes to Opportunities",
-        "18 Apr | 5:00 AM-7:00 AM",
+        "16 May | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
-        "18 Apr | 8:30 AM-10:30 AM",
+        "16 May | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 1 Feedback",
-        "19 Apr | 5:00 AM-7:00 AM",
+        "17 May | 5:00 AM-7:00 AM",
         "Case Hours: Segmentation",
-        "19 Apr | 8:30 AM-10:30 AM"
+        "17 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -238,27 +239,27 @@
       "week": "4",
       "topics": [
         "Problem Framing & Ideation",
-        "25 Apr | 5:00 AM-7:00 AM",
-        "User Flows & Wireframing",
-        "25 Apr | 8:30 AM-10:30 AM",
+        "23 May | 5:00 AM-7:00 AM",
+        "Mindmapping Ideas",
+        "23 May | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 2 Guidance",
-        "26 Apr | 5:00 AM-7:00 AM",
-        "Case Hours: Vibe coding a MVP",
-        "26 Apr | 8:30 AM-10:30 AM"
+        "24 May | 5:00 AM-7:00 AM",
+        "Figma Hour: Introduction to Figma - Layers & Objects",
+        "24 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "5",
       "topics": [
+        "User Flows & Wireframing",
+        "30 May | 5:00 AM-7:00 AM",
         "UX Design Foundations",
-        "2 May | 5:00 AM-7:00 AM",
-        "AI Assisted Prototyping",
-        "2 May | 8:30 AM-10:30 AM",
+        "30 May | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 2 Feedback",
-        "3 May | 5:00 AM-7:00 AM",
-        "Figma Hour: Introduction to Figma - Layers & Objects",
-        "3 May | 8:30 AM-10:30 AM"
+        "31 May | 5:00 AM-7:00 AM",
+        "Figma Hour - Typography & Text Styling",
+        "31 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -266,13 +267,13 @@
       "week": "6",
       "topics": [
         "Visual Design Principles",
-        "9 May | 5:00 AM-7:00 AM",
+        "6 Jun | 5:00 AM-7:00 AM",
         "Visual Design Elements",
-        "9 May | 8:30 AM-10:30 AM",
+        "6 Jun | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Guidance",
-        "10 May | 5:00 AM-7:00 AM",
-        "Figma Hour - Typography & Text Styling",
-        "10 May | 8:30 AM-10:30 AM"
+        "7 Jun | 5:00 AM-7:00 AM",
+        "Figma Hours - Colours, Gradients & Styling",
+        "7 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -280,13 +281,13 @@
       "week": "7",
       "topics": [
         "Visual Design Language",
-        "16 May | 5:00 AM-7:00 AM",
+        "13 Jun | 5:00 AM-7:00 AM",
         "Mentor Labs - Milestone 3 Feedback",
-        "16 May | 8:30 AM-10:30 AM",
+        "13 Jun | 8:30 AM-10:30 AM",
         "Building a Visual Design Language - 2",
-        "17 May | 5:00 AM-7:00 AM",
-        "Figma Hours - Colours, Gradients & Styling",
-        "17 May | 8:30 AM-10:30 AM"
+        "14 Jun | 5:00 AM-7:00 AM",
+        "Figma Hours - Component Libraries",
+        "14 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -294,9 +295,13 @@
       "week": "8",
       "topics": [
         "Inclusive Design Principles",
-        "23 May | 5:00 AM-7:00 AM",
+        "20 Jun | 5:00 AM-7:00 AM",
         "Building Design Systems",
-        "23 May | 8:30 AM-10:30 AM"
+        "20 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 4 Guidance",
+        "21 Jun | 5:00 AM-7:00 AM",
+        "Figma Hours - Component Libraries (contd.)",
+        "21 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -304,13 +309,13 @@
       "week": "9",
       "topics": [
         "Android Material Design Deepdive",
-        "30 May | 5:00 AM-7:00 AM",
+        "27 Jun | 5:00 AM-7:00 AM",
         "Android Material Design Deepdive",
-        "30 May | 8:30 AM-10:30 AM",
+        "27 Jun | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 4 Feedback",
-        "31 May | 5:00 AM-7:00 AM",
-        "Figma Hours - Component Libraries (contd.)",
-        "31 May | 8:30 AM-10:30 AM"
+        "28 Jun | 5:00 AM-7:00 AM",
+        "Figma Hours - Prototyping",
+        "28 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -318,21 +323,25 @@
       "week": "10",
       "topics": [
         "iOS HIG Deepdive",
-        "6 Jun | 5:00 AM-7:00 AM",
+        "4 Jul | 5:00 AM-7:00 AM",
         "iOS HIG Deepdive",
-        "6 Jun | 8:30 AM-10:30 AM",
-        "Figma Hours - Prototyping",
-        "7 Jun | 8:30 AM-10:30 AM"
+        "4 Jul | 8:30 AM-10:30 AM",
+        "Mentor Lab: Milestone 5 Guidance",
+        "5 Jul | 5:00 AM-7:00 AM",
+        "Figma Hours - Adaptive & Responsive Design Techniques",
+        "5 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "11",
       "topics": [
-        "Agentic UX Design",
-        "13 Jun | 5:00 AM-8:00 AM",
-        "Figma Hours - Adaptive & Responsive Design Techniques",
-        "14 Jun | 8:30 AM-10:30 AM"
+        "Agentic AI Design",
+        "11 Jul | 5:00 AM-8:00 AM",
+        "Mentor Lab: Milestone 5 Feedback",
+        "12 Jul | 5:00 AM-7:00 AM",
+        "Figma Hours - Shortcuts, Plugins & Version Control",
+        "12 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -340,23 +349,9 @@
       "week": "12",
       "topics": [
         "Building a UX Design Portfolio",
-        "20 Jun | 5:00 AM-7:00 AM",
+        "18 Jul | 5:00 AM-7:00 AM",
         "Presenting a UX Design Case Study",
-        "20 Jun | 8:30 AM-10:30 AM",
-        "Portfolio Presentation",
-        "21 Jun | 5:00 AM-7:00 AM",
-        "Figma Hours - Shortcuts, Plugins & Version Control",
-        "21 Jun | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "13",
-      "topics": [
-        "Portfolio Presentation",
-        "27 Jun | 5:00 AM-7:00 AM",
-        "Portfolio Presentation",
-        "27 Jun | 8:30 AM-10:30 AM",
+        "18 Jul | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap UI/UX Designer Fellowship?",
         "What if I miss a live session?",
@@ -582,7 +577,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-03-31T10:45:43.662488Z",
+  "last_updated": "2026-04-01T10:48:19.684002Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",

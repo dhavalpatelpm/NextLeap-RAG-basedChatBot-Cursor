@@ -25,13 +25,14 @@
     "Placement support"
   ],
   "cohort_info": {
-    "cohort_number": "19",
-    "starts_on": "Apr 3"
+    "cohort_number": "20",
+    "starts_on": "May 1"
   },
   "fee": {
-    "current_price": "₹38999",
+    "current_price": "₹34999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 5",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -193,229 +194,167 @@
     {
       "week": "1",
       "topics": [
-        "Kick Off Call",
-        "4 Apr | 10:30 AM-12:00 PM",
-        "Mapping Business Outcomes to Actionable Outcomes",
-        "5 Apr | 5:00 AM-7:00 AM",
-        "Mapping Outcomes to Opportunities",
-        "5 Apr | 8:30 AM-10:30 AM"
+        "Mentor Lab: Milestone 4 Feedback",
+        "5 Feb | 5:00 AM-7:00 AM"
       ],
       "tools": []
     },
     {
       "week": "2",
       "topics": [
-        "Introduction to Data Analytics - I",
-        "11 Apr | 5:00 AM-7:00 AM",
-        "Introduction to Data Analytics - II",
-        "11 Apr | 8:30 AM-10:30 AM",
-        "Mentor Labs : Milestone 1 Guidance + Meet your Mentor",
-        "12 Apr | 5:00 AM-7:00 AM",
-        "Case Hours: EDA",
-        "12 Apr | 8:30 AM-10:30 AM"
+        "Mentor Labs - Milestone 2 Guidance",
+        "24 May | 5:00 AM-7:00 AM"
       ],
       "tools": []
     },
     {
       "week": "3",
       "topics": [
-        "Data Preparation using Excel - I",
-        "18 Apr | 5:00 AM-7:00 AM",
-        "Data Preparation using Excel - II",
-        "18 Apr | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 1 Feedback",
-        "19 Apr | 5:00 AM-7:00 AM",
-        "Excel Case Hours - 1",
-        "19 Apr | 8:30 AM-10:30 AM"
+        "Case Hours: Cohort & Funnel Analysis",
+        "31 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "4",
       "topics": [
-        "Lookup Functions in Excel",
-        "25 Apr | 5:00 AM-7:00 AM",
-        "Advanced Data Analysis using Excel",
-        "25 Apr | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 2 Guidance",
-        "26 Apr | 5:00 AM-7:00 AM",
-        "Excel Case Hours - 2",
-        "26 Apr | 8:30 AM-10:30 AM"
+        "Data Preparation & Exploration with Tableau - I",
+        "27 Jun | 5:00 AM-7:00 AM",
+        "Data Preparation & Exploration with Tableau - II",
+        "27 Jun | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "28 Jun | 5:00 AM-7:00 AM",
+        "Tableau Case Hours - 1",
+        "28 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "5",
       "topics": [
-        "Data Visualisation using Excel - I",
-        "2 May | 5:00 AM-7:00 AM",
-        "Data Visualisation using Excel - II",
-        "2 May | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 2 Guidance",
-        "3 May | 5:00 AM-7:00 AM",
-        "Case Hours: Cohort & Funnel Analysis",
-        "3 May | 8:30 AM-10:30 AM"
+        "Tableau 3",
+        "4 Jul | 5:00 AM-7:00 AM",
+        "Tableau 4",
+        "4 Jul | 8:30 AM-11:29 AM",
+        "Case Hours: Tableau (NL)",
+        "5 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "6",
       "topics": [
-        "Data Analysis using SQL - I",
-        "9 May | 5:00 AM-7:00 AM",
-        "Data Analysis using SQL - II",
-        "9 May | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 2 Feedback",
-        "10 May | 5:00 AM-7:00 AM",
-        "SQL Case Hours - 1",
-        "10 May | 8:30 AM-10:30 AM"
+        "Essentials of Python for Data Analysis - I",
+        "11 Jul | 5:00 AM-7:00 AM",
+        "Essentials of Python for Data Analysis - II",
+        "11 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "12 Jul | 5:00 AM-7:00 AM",
+        "Python Case Hours - 1",
+        "12 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "7",
       "topics": [
-        "Advanced Data Analysis using SQL - I",
-        "16 May | 5:00 AM-7:00 AM",
-        "Advanced Data Analysis using SQL - II",
-        "16 May | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 3 Guidance",
-        "17 May | 5:00 AM-7:00 AM",
-        "SQL Case Hours - 2",
-        "17 May | 8:30 AM-10:30 AM"
+        "Data Analysis using Python - I",
+        "18 Jul | 5:00 AM-7:00 AM",
+        "Data Analysis using Python - II",
+        "18 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "19 Jul | 5:00 AM-7:00 AM",
+        "Python Case Hours - 2",
+        "19 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "8",
       "topics": [
-        "Data Manipulation with SQL - I",
-        "23 May | 5:00 AM-7:00 AM",
-        "Data Manipulation with SQL - II",
-        "23 May | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 3 Guidance",
-        "24 May | 5:00 AM-7:00 AM",
-        "SQL Case Hours - 3",
-        "24 May | 8:30 AM-10:30 AM"
+        "Advanced Data Analysis using Python - I",
+        "25 Jul | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis using Python - II",
+        "25 Jul | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "26 Jul | 5:00 AM-7:00 AM",
+        "Python Case Hours - 3",
+        "26 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "9",
       "topics": [
-        "Introduction to Data Visualisation - I",
-        "30 May | 5:00 AM-7:00 AM",
-        "Introduction to Data Visualisation - II",
-        "30 May | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 3 Feedback",
-        "31 May | 5:00 AM-7:00 AM",
-        "Tableau Case Hours",
-        "31 May | 8:30 AM-10:30 AM"
+        "Data Visualisation using Python - I",
+        "1 Aug | 5:00 AM-7:00 AM",
+        "Data Visualisation using Python - II",
+        "1 Aug | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "2 Aug | 5:00 AM-7:00 AM",
+        "Python Case Hours - 4",
+        "2 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "10",
       "topics": [
-        "Data Preparation & Exploration with Tableau - I",
-        "6 Jun | 5:00 AM-7:00 AM",
-        "Data Preparation & Exploration with Tableau - II",
-        "6 Jun | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 4 Guidance",
-        "7 Jun | 5:00 AM-7:00 AM",
-        "Tableau Case Hours",
-        "7 Jun | 8:30 AM-10:30 AM"
+        "LLMs: How they Work",
+        "8 Aug | 5:00 AM-7:00 AM",
+        "Prompt Engineering",
+        "8 Aug | 8:30 AM-10:30 AM",
+        "Mentor Labs",
+        "9 Aug | 5:00 AM-7:00 AM",
+        "Case Hours: Database Automation",
+        "9 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "11",
       "topics": [
-        "Essentials of Python for Data Analysis - I",
-        "13 Jun | 5:00 AM-7:00 AM",
-        "Essentials of Python for Data Analysis - II",
-        "13 Jun | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 4 Feedback",
-        "14 Jun | 5:00 AM-7:00 AM",
-        "Python Case Hours - 1",
-        "14 Jun | 8:30 AM-10:30 AM"
+        "RAGs & Fine Tuning",
+        "15 Aug | 5:00 AM-7:00 AM",
+        "AI Workflows",
+        "15 Aug | 8:30 AM-10:30 AM",
+        "Case Hours: AI Workflows",
+        "16 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "12",
       "topics": [
-        "Data Analysis using Python - I",
-        "20 Jun | 5:00 AM-7:00 AM",
-        "Data Analysis using Python - II",
-        "20 Jun | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 5 Guidance",
-        "21 Jun | 5:00 AM-7:00 AM",
-        "Python Case Hours - 2",
-        "21 Jun | 8:30 AM-10:30 AM"
+        "Interview Prep: Guesstimates",
+        "22 Aug | 5:00 AM-7:00 AM",
+        "Interview Prep: RCAs",
+        "22 Aug | 8:30 AM-10:30 AM",
+        "Mock Interviews",
+        "23 Aug | 5:00 AM-7:00 AM",
+        "Mock Interviews",
+        "23 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "13",
       "topics": [
-        "Advanced Data Analysis using Python - I",
-        "27 Jun | 5:00 AM-7:00 AM",
-        "Advanced Data Analysis using Python - II",
-        "27 Jun | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 5 Guidance",
-        "28 Jun | 5:00 AM-7:00 AM",
-        "Python Case Hours - 3",
-        "28 Jun | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "14",
-      "topics": [
-        "Data Visualisation using Python - I",
-        "4 Jul | 5:00 AM-7:00 AM",
-        "Data Visualisation using Python - II",
-        "4 Jul | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 5 Feedback",
-        "5 Jul | 5:00 AM-7:00 AM",
-        "Python Case Hours - 4",
-        "5 Jul | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "15",
-      "topics": [
-        "LLMs: How they Work",
-        "11 Jul | 5:00 AM-7:00 AM",
-        "Prompt Engineering",
-        "11 Jul | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "12 Jul | 5:00 AM-7:00 AM",
-        "Case Hours: Database Automation",
-        "12 Jul | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "16",
-      "topics": [
-        "RAGs & Fine Tuning",
-        "18 Jul | 5:00 AM-7:00 AM",
-        "AI Workflows",
-        "18 Jul | 8:30 AM-10:30 AM",
-        "Case Hours: AI Workflows",
-        "19 Jul | 8:30 AM-10:30 AM",
+        "Interview Prep: SQL",
+        "29 Aug | 5:00 AM-7:00 AM",
+        "Interview Prep: SQL",
+        "29 Aug | 8:30 AM-10:30 AM",
+        "Mock Interviews",
+        "30 Aug | 4:30 AM-7:00 AM",
+        "Mock Interviews",
+        "30 Aug | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap Data Analyst Fellowship?",
         "Who is eligible to apply for the NextLeap Data Analyst Fellowship?",
         "Who is this Fellowship for?",
         "What are the prerequisites for applying?",
         "I'm a pre-final year student. Am I eligible to apply?",
-        "Is there any prior coding experience required?",
-        "Is work experience also a criterion to get selected for interviews?",
-        "Are there any costs associated with the NextLeap Data Analyst Fellowship?"
+        "Is there any prior coding experience required?"
       ],
       "tools": []
     }
@@ -436,7 +375,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-03-31T10:45:43.663778Z",
+  "last_updated": "2026-04-01T10:48:19.685245Z",
   "source_url": "https://nextleap.app/course/data-analyst-course",
   "mode": "Live sessions on Zoom",
   "timeline": "4 months",

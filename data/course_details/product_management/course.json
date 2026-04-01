@@ -32,13 +32,14 @@
     "Career mentorship"
   ],
   "cohort_info": {
-    "cohort_number": "48",
-    "starts_on": "Apr 3"
+    "cohort_number": "49",
+    "starts_on": "May 1"
   },
   "fee": {
-    "current_price": "₹38999",
+    "current_price": "₹34999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 5",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -245,9 +246,9 @@
       "week": "1",
       "topics": [
         "Kick off call",
-        "4 Apr | 10:30 AM-12:00 PM",
+        "2 May | 10:30 AM-12:00 PM",
         "Meet your Mentor",
-        "5 Apr | 5:00 AM-6:00 AM"
+        "3 May | 5:00 AM-6:00 AM"
       ],
       "tools": []
     },
@@ -255,13 +256,13 @@
       "week": "2",
       "topics": [
         "Systems Thinking",
-        "11 Apr | 5:00 AM-7:00 AM",
+        "9 May | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
-        "11 Apr | 8:30 AM-10:30 AM",
+        "9 May | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 1 Guidance",
-        "12 Apr | 5:00 AM-7:00 AM",
+        "10 May | 5:00 AM-7:00 AM",
         "Case Hours: KPI Trees",
-        "12 Apr | 8:30 AM-10:30 AM"
+        "10 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -269,13 +270,13 @@
       "week": "3",
       "topics": [
         "Mapping Outcomes to Opportunities",
-        "18 Apr | 5:00 AM-7:00 AM",
+        "16 May | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
-        "18 Apr | 8:30 AM-10:30 AM",
+        "16 May | 8:30 AM-10:30 AM",
         "Mentor Lab - Milestone 1 Feedback",
-        "19 Apr | 5:00 AM-7:00 AM",
-        "Case hours - Segmentation",
-        "19 Apr | 8:30 AM-10:30 AM"
+        "17 May | 5:00 AM-7:00 AM",
+        "Case hours - Segmenting for Scale",
+        "17 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -283,163 +284,148 @@
       "week": "4",
       "topics": [
         "Problem Framing & Ideation",
-        "25 Apr | 5:00 AM-7:00 AM",
-        "Wireframing",
-        "25 Apr | 8:30 AM-10:30 AM",
+        "23 May | 5:00 AM-7:00 AM",
+        "Metrics & Data Analytics",
+        "23 May | 8:30 AM-10:30 AM",
         "Mentor Lab - Milestone 2 Guidance",
-        "26 Apr | 5:00 AM-7:00 AM",
-        "Case Hours: Vibe coding a MVP",
-        "26 Apr | 8:30 AM-10:30 AM"
+        "24 May | 5:00 AM-7:00 AM",
+        "Case Hours: Metrics",
+        "24 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "5",
       "topics": [
+        "User Flows & Wireframing",
+        "30 May | 5:00 AM-7:00 AM",
         "UX Design Foundations",
-        "2 May | 5:00 AM-7:00 AM",
-        "AI Assisted Prototyping",
-        "2 May | 8:30 AM-10:30 AM",
+        "30 May | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 2 Feedback",
-        "3 May | 5:00 AM-7:00 AM",
-        "SQL Hours",
-        "3 May | 8:30 AM-10:30 AM"
+        "31 May | 5:00 AM-7:00 AM",
+        "Case Hours: Product Sense",
+        "31 May | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "6",
       "topics": [
-        "Metrics and Data Analysis - Part 1",
-        "9 May | 5:00 AM-7:00 AM",
-        "Metrics and Data Analysis - Part 2",
-        "9 May | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 3 Guidance",
-        "10 May | 5:00 AM-7:00 AM",
-        "SQL Hours",
-        "10 May | 8:30 AM-10:30 AM"
+        "Product Growth",
+        "6 Jun | 5:00 AM-7:00 AM",
+        "6 Jun | 8:30 AM-10:30 AM",
+        "Github & Cursor setup",
+        "7 Jun | 8:30 AM-10:30 AM"
       ],
-      "tools": []
+      "tools": [
+        "MVP Prototyping with AI"
+      ]
     },
     {
       "week": "7",
       "topics": [
         "APIs, Webhooks & SDKs",
-        "16 May | 5:00 AM-7:00 AM",
+        "13 Jun | 5:00 AM-7:00 AM",
         "AI System Design",
-        "16 May | 8:30 AM-10:30 AM",
+        "13 Jun | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Feedback",
-        "17 May | 5:00 AM-7:00 AM",
-        "SQL Hours",
-        "17 May | 8:30 AM-10:30 AM"
+        "14 Jun | 5:00 AM-7:00 AM",
+        "Build Hours: Building with APIs",
+        "14 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "8",
       "topics": [
-        "Version Control, Github & Cursor setup",
-        "20 May | 2:30 PM-4:30 PM",
+        "Build Office Hours: Building with APIs",
+        "17 Jun | 2:30 PM-4:30 PM",
         "LLMs: How they Work",
-        "23 May | 8:00 AM-10:00 AM",
+        "20 Jun | 8:00 AM-10:00 AM",
         "Prompt Engineering",
-        "23 May | 11:00 AM-1:00 PM",
-        "Build Hours: Building with APIs",
-        "24 May | 5:00 AM-7:00 AM",
-        "Build Hours: Building with APIs",
-        "24 May | 8:30 AM-10:30 AM"
+        "20 Jun | 11:00 AM-1:00 PM",
+        "Build Hours: Building AI prototypes (frontend)",
+        "21 Jun | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI prototypes (backend)",
+        "21 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "9",
       "topics": [
-        "Build Hours",
-        "27 May | 2:30 PM-4:30 PM",
+        "Build Office Hours: Building AI prototypes",
+        "24 Jun | 2:30 PM-4:30 PM",
         "RAGs & Fine Tuning",
-        "30 May | 8:00 AM-10:00 AM",
+        "27 Jun | 8:00 AM-10:00 AM",
         "AI Workflow Automations",
-        "30 May | 11:00 AM-1:00 PM",
-        "Build Hours: RAG Chatbot",
-        "31 May | 5:00 AM-7:00 AM",
-        "Build Hours: RAG Chatbot",
-        "31 May | 8:30 AM-10:30 AM"
+        "27 Jun | 11:00 AM-1:00 PM",
+        "Build Hours: Building a RAG Chatbot",
+        "28 Jun | 5:00 AM-7:00 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "28 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "10",
       "topics": [
-        "Build Hours",
-        "3 Jun | 2:30 PM-4:30 PM",
+        "Build Office Hours: RAGs",
+        "1 Jul | 2:30 PM-4:30 PM",
         "AI Agents",
-        "6 Jun | 5:00 AM-7:00 AM",
-        "Agent Protocols",
-        "6 Jun | 8:30 AM-10:30 AM",
-        "Build Hours: AI Automations",
-        "7 Jun | 5:00 AM-7:00 AM",
-        "Build Hours: AI Automations",
-        "7 Jun | 8:30 AM-10:30 AM"
+        "4 Jul | 5:00 AM-7:00 AM",
+        "Agent Protocols & MCP",
+        "4 Jul | 8:30 AM-10:30 AM",
+        "Build Hours: Building Agents with MCP Integrations",
+        "5 Jul | 5:00 AM-7:00 AM",
+        "Build Hours: Building Agents with MCP Integrations",
+        "5 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "11",
       "topics": [
-        "Build Hours",
-        "10 Jun | 2:30 PM-4:30 PM",
+        "Build Office Hours: MCP Integrations",
+        "8 Jul | 2:30 PM-4:30 PM",
         "AI Evals",
-        "13 Jun | 5:00 AM-7:00 AM",
+        "11 Jul | 5:00 AM-7:00 AM",
         "How to Test AI Products",
-        "13 Jun | 8:30 AM-10:30 AM",
-        "Build Hours: AI Agents",
-        "14 Jun | 5:00 AM-7:00 AM",
-        "Build Hours: AI Agents",
-        "14 Jun | 8:30 AM-10:30 AM"
+        "11 Jul | 8:30 AM-10:30 AM",
+        "Build Hours: Building AI Agents",
+        "12 Jul | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI Agents",
+        "12 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "12",
       "topics": [
-        "Build Hours",
-        "17 Jun | 2:30 PM-4:30 PM",
+        "Build Office Hours: MCP Integrations",
+        "15 Jul | 2:30 PM-4:30 PM",
         "Interview Preparation - Guesstimates",
-        "20 Jun | 5:00 AM-7:00 AM",
+        "18 Jul | 5:00 AM-7:00 AM",
         "Interview Preparation - RCAs",
-        "20 Jun | 8:30 AM-10:30 AM",
+        "18 Jul | 8:30 AM-10:30 AM",
         "Mock Interviews - RCAs",
-        "21 Jun | 5:00 AM-7:00 AM",
+        "19 Jul | 5:00 AM-7:00 AM",
         "Mock Interviews - Guesstimates",
-        "21 Jun | 8:30 AM-10:30 AM"
+        "19 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "13",
       "topics": [
-        "Interview Preparation - AI Product Sense",
-        "27 Jun | 5:00 AM-7:00 AM",
-        "Interview Preparation - Metrics",
-        "27 Jun | 8:30 AM-10:30 AM",
-        "Mock Interviews - Metrics",
-        "28 Jun | 5:00 AM-7:00 AM",
-        "Mock Interviews - Metrics",
-        "28 Jun | 5:00 AM-7:00 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "14",
-      "topics": [
-        "Interview Preparation - Product Strategy",
-        "4 Jul | 5:00 AM-7:00 AM",
         "Interview Preparation - Product Design",
-        "4 Jul | 8:30 AM-10:30 AM",
-        "Mock Interviews - Product Strategy",
-        "5 Jul | 5:00 AM-7:00 AM",
+        "25 Jul | 5:00 AM-7:00 AM",
+        "Interview Preparation - Metrics",
+        "25 Jul | 8:30 AM-10:30 AM",
         "Mock Interviews - Product Design",
-        "5 Jul | 8:30 AM-10:30 AM",
+        "26 Jul | 5:00 AM-7:00 AM",
+        "Mock Interviews - Metrics",
+        "26 Jul | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap Product Manager Fellowship?",
         "Who is eligible to apply for the NextLeap Product Manager Fellowship?",
@@ -708,7 +694,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-03-31T10:45:43.660970Z",
+  "last_updated": "2026-04-01T10:48:19.682483Z",
   "source_url": "https://nextleap.app/course/product-management-course",
   "live_classes": "100+ hours",
   "timeline": "4 months",
