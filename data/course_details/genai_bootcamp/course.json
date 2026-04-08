@@ -167,11 +167,9 @@
       "week": "1",
       "topics": [
         "Live Session : Kick-off Call",
-        "11 Apr | 5:00 AM-6:30 AM",
+        "11 Apr | 5:30 AM-7:00 AM",
         "Live Session : AI Product Strategy",
-        "12 Apr | 5:00 AM-7:00 AM",
-        "Version Control, Github & Cursor setup",
-        "12 Apr | 8:30 AM-10:30 AM"
+        "12 Apr | 5:00 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -445,7 +443,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-04-07T10:47:42.834468Z",
+  "last_updated": "2026-04-08T10:49:37.023889Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
