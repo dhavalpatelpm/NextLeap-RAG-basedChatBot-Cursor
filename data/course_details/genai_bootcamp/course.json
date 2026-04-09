@@ -167,17 +167,15 @@
       "week": "1",
       "topics": [
         "Live Session : Kick-off Call",
-        "11 Apr | 5:30 AM-7:00 AM",
-        "Live Session : AI Product Strategy",
-        "12 Apr | 5:00 AM-7:00 AM"
+        "11 Apr | 5:30 AM-7:00 AM"
       ],
       "tools": []
     },
     {
       "week": "2",
       "topics": [
-        "Build Office Hours: Learning to Deploy",
-        "15 Apr | 2:30 PM-4:30 PM",
+        "Build Office Hours: Git, GitHub and Cursor",
+        "16 Apr | 2:30 PM-4:30 PM",
         "APIs, Webhooks & SDKs",
         "18 Apr | 4:59 AM-6:59 AM",
         "AI System Design",
@@ -191,7 +189,7 @@
       "week": "3",
       "topics": [
         "Build Hour: Building with APIs",
-        "22 Apr | 8:30 AM-10:30 AM",
+        "23 Apr | 8:30 AM-10:30 AM",
         "Live Session: How LLMs work",
         "25 Apr | 5:00 AM-7:00 AM",
         "Live Session: Prompt Engineering",
@@ -206,8 +204,8 @@
     {
       "week": "4",
       "topics": [
-        "Build Office Hours: Building AI prototypes",
-        "29 Apr | 2:30 PM-4:30 PM",
+        "Build Office Hours: Learning how to deploy",
+        "30 Apr | 2:30 PM-4:30 PM",
         "Live Session: RAGs & Fine Tuning",
         "2 May | 5:00 AM-7:00 AM",
         "Live Session: AI Workflow Automations",
@@ -223,9 +221,9 @@
       "week": "5",
       "topics": [
         "Build Office Hours: RAGs",
-        "6 May | 2:30 PM-4:30 PM",
-        "Demo Day 1",
         "7 May | 2:30 PM-4:30 PM",
+        "Demo Day 1",
+        "8 May | 2:30 PM-4:30 PM",
         "Live Session: AI Agents",
         "9 May | 5:00 AM-7:00 AM",
         "Live Session: Agent Protocols & MCP",
@@ -241,7 +239,7 @@
       "week": "6",
       "topics": [
         "Build Office Hours: MCP Integrations",
-        "13 May | 2:30 PM-4:30 PM",
+        "14 May | 2:30 PM-4:30 PM",
         "Live Session: AI Evals",
         "16 May | 5:00 AM-7:00 AM",
         "Live Session: How to Test AI Products",
@@ -253,7 +251,7 @@
       "week": "7",
       "topics": [
         "Demo Day 2",
-        "21 May | 2:30 PM-4:30 PM",
+        "22 May | 2:30 PM-4:30 PM",
         "Live Session : AI Voice Agents",
         "23 May | 5:00 AM-7:00 AM",
         "Live Session : Advanced AI Voice Agents",
@@ -269,7 +267,7 @@
       "week": "8",
       "topics": [
         "Build Office Hours: Voice Agents",
-        "27 May | 2:30 PM-4:30 PM",
+        "28 May | 2:30 PM-4:30 PM",
         "Live Session: AI Workflow Automations",
         "30 May | 5:00 AM-7:00 AM",
         "Live Session: AI Workflow Automations",
@@ -285,9 +283,9 @@
       "week": "9",
       "topics": [
         "Build Office Hours: Building AI automations",
-        "3 Jun | 2:30 PM-4:30 PM",
-        "Demo Day 3",
         "4 Jun | 2:30 PM-4:30 PM",
+        "Demo Day 3",
+        "5 Jun | 2:30 PM-4:30 PM",
         "Live Session: Claude Code Setup",
         "6 Jun | 5:00 AM-7:00 AM",
         "Live Session: Claude Code Skills & sub-agents",
@@ -316,8 +314,10 @@
     {
       "week": "11",
       "topics": [
-        "Build Hours: Capstone Project Guidance",
+        "Live Session : AI Product Strategy",
         "20 Jun | 5:00 AM-7:00 AM",
+        "Build Hours: Capstone Project Guidance",
+        "20 Jun | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "Do I need a technical or coding background to join?",
         "What experience level is ideal for this bootcamp?",
@@ -328,9 +328,7 @@
         "Which tools will I learn?",
         "How are projects evaluated?",
         "Will I work on real-world projects?",
-        "What makes this different from free YouTube tutorials?",
-        "Do you provide career support?",
-        "Will this help me get a job or promotion?"
+        "What makes this different from free YouTube tutorials?"
       ],
       "tools": []
     }
@@ -443,7 +441,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-04-08T10:49:37.023889Z",
+  "last_updated": "2026-04-09T10:54:21.084546Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
