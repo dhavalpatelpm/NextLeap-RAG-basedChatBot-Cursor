@@ -26,7 +26,6 @@
     "current_price": "₹37999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
-    "price_increase_info": "Price increase from 26",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -577,7 +576,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-04-25T10:36:03.016162Z",
+  "last_updated": "2026-04-26T10:38:26.702505Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",
