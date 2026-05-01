@@ -26,9 +26,10 @@
     "starts_on": "Apr 4"
   },
   "fee": {
-    "current_price": "₹38999",
+    "current_price": "₹35999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 4",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -196,9 +197,9 @@
       "week": "1",
       "topics": [
         "Kick Off Call",
-        "2 May | 5:30 AM-7:00 AM",
+        "6 Jun | 5:30 AM-7:00 AM",
         "Meet your mentor",
-        "3 May | 5:00 AM-6:00 AM"
+        "7 Jun | 5:00 AM-6:00 AM"
       ],
       "tools": []
     },
@@ -206,13 +207,13 @@
       "week": "2",
       "topics": [
         "Systems Thinking",
-        "9 May | 5:00 AM-7:00 AM",
+        "13 Jun | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
-        "9 May | 8:30 AM-10:30 AM",
+        "13 Jun | 8:30 AM-10:30 AM",
         "Mentor Lab: Milestone 1 Guidance",
-        "10 May | 5:00 AM-7:00 AM",
+        "14 Jun | 5:00 AM-7:00 AM",
         "Case Hours: Swiggy",
-        "10 May | 8:30 AM-10:30 AM"
+        "14 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -220,13 +221,13 @@
       "week": "3",
       "topics": [
         "Mapping Outcomes to Opportunities",
-        "16 May | 5:00 AM-7:00 AM",
+        "20 Jun | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
-        "16 May | 8:30 AM-10:30 AM",
+        "20 Jun | 8:30 AM-10:30 AM",
         "Case hours - Segmenting for Scale",
-        "17 May | 8:30 AM-10:30 AM",
+        "21 Jun | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 1 Guidance",
-        "17 May | 2:30 PM-4:30 PM"
+        "21 Jun | 2:30 PM-4:30 PM"
       ],
       "tools": []
     },
@@ -234,13 +235,13 @@
       "week": "4",
       "topics": [
         "Problem Framing",
-        "23 May | 5:00 AM-7:00 AM",
+        "27 Jun | 5:00 AM-7:00 AM",
         "Capturing Business Requirements",
-        "23 May | 8:30 AM-10:30 AM",
+        "27 Jun | 8:30 AM-10:30 AM",
         "Mentor Lab - Milestone 1 Feedback",
-        "24 May | 5:00 AM-7:00 AM",
+        "28 Jun | 5:00 AM-7:00 AM",
         "Case Hours: BRD",
-        "24 May | 8:30 AM-10:30 AM"
+        "28 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -248,13 +249,13 @@
       "week": "5",
       "topics": [
         "Metrics and Analysis - I",
-        "30 May | 5:00 AM-7:00 AM",
+        "4 Jul | 5:00 AM-7:00 AM",
         "Metrics and Analysis - II",
-        "30 May | 8:30 AM-10:30 AM",
+        "4 Jul | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 2 Guidance",
-        "31 May | 5:00 AM-7:00 AM",
+        "5 Jul | 5:00 AM-7:00 AM",
         "Case Hours: Metrics",
-        "31 May | 8:30 AM-10:30 AM"
+        "5 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -262,13 +263,13 @@
       "week": "6",
       "topics": [
         "Introduction to Data Analytics - I",
-        "6 Jun | 5:00 AM-7:00 AM",
+        "11 Jul | 5:00 AM-7:00 AM",
         "Introduction to Data Analytics - II",
-        "6 Jun | 8:30 AM-10:30 AM",
+        "11 Jul | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 2 Feedback",
-        "7 Jun | 5:00 AM-7:00 AM",
+        "12 Jul | 5:00 AM-7:00 AM",
         "Case Hours : EDA",
-        "7 Jun | 8:30 AM-10:30 AM"
+        "12 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -276,13 +277,13 @@
       "week": "7",
       "topics": [
         "Data Preparation using Excel - I",
-        "13 Jun | 5:00 AM-7:00 AM",
+        "18 Jul | 5:00 AM-7:00 AM",
         "Data Preparation using Excel - II",
-        "13 Jun | 8:30 AM-10:30 AM",
+        "18 Jul | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Guidance",
-        "14 Jun | 5:00 AM-7:00 AM",
+        "19 Jul | 5:00 AM-7:00 AM",
         "Case Hours - EDA using Excel",
-        "14 Jun | 8:30 AM-10:30 AM"
+        "19 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -290,13 +291,13 @@
       "week": "8",
       "topics": [
         "Lookup Functions in Excel",
-        "20 Jun | 5:00 AM-7:00 AM",
+        "25 Jul | 5:00 AM-7:00 AM",
         "Advanced Data Analysis using Excel",
-        "20 Jun | 8:30 AM-10:30 AM",
+        "25 Jul | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Guidance",
-        "21 Jun | 5:00 AM-7:00 AM",
+        "26 Jul | 5:00 AM-7:00 AM",
         "Case Hours : Analysis using Excel",
-        "21 Jun | 8:30 AM-10:30 AM"
+        "26 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -304,13 +305,13 @@
       "week": "9",
       "topics": [
         "Pivot Tables in Excel",
-        "27 Jun | 5:00 AM-7:00 AM",
+        "1 Aug | 5:00 AM-7:00 AM",
         "Dashboarding using Excel",
-        "27 Jun | 8:30 AM-10:30 AM",
+        "1 Aug | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Feedback",
-        "28 Jun | 5:00 AM-7:00 AM",
+        "2 Aug | 5:00 AM-7:00 AM",
         "Case Hours - Cohort & Funnel Analysis",
-        "28 Jun | 8:30 AM-10:30 AM"
+        "2 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -318,13 +319,13 @@
       "week": "10",
       "topics": [
         "Data Analysis using SQL - I",
-        "4 Jul | 5:00 AM-7:00 AM",
+        "8 Aug | 5:00 AM-7:00 AM",
         "Data Analysis using SQL - II",
-        "4 Jul | 8:30 AM-10:30 AM",
+        "8 Aug | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 4 Guidance",
-        "5 Jul | 5:00 AM-7:00 AM",
+        "9 Aug | 5:00 AM-7:00 AM",
         "Case Hours - IPL",
-        "5 Jul | 8:30 AM-10:30 AM"
+        "9 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -332,13 +333,13 @@
       "week": "11",
       "topics": [
         "Data Manipulation with SQL - I",
-        "11 Jul | 5:00 AM-7:00 AM",
+        "15 Aug | 5:00 AM-7:00 AM",
         "Data Manipulation with SQL - II",
-        "11 Jul | 8:30 AM-10:30 AM",
+        "15 Aug | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 4 Guidance",
-        "12 Jul | 5:00 AM-7:00 AM",
+        "16 Aug | 5:00 AM-7:00 AM",
         "Case Hours - Airbnb",
-        "12 Jul | 8:30 AM-10:30 AM"
+        "16 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -346,13 +347,13 @@
       "week": "12",
       "topics": [
         "Advanced Data Analysis with SQL - I",
-        "18 Jul | 5:00 AM-7:00 AM",
+        "22 Aug | 5:00 AM-7:00 AM",
         "Advanced Data Analysis with SQL - II",
-        "18 Jul | 8:30 AM-10:30 AM",
+        "22 Aug | 8:30 AM-10:30 AM",
         "Mentor Lab - Milestone 4 Feedback",
-        "19 Jul | 5:00 AM-7:00 AM",
+        "23 Aug | 5:00 AM-7:00 AM",
         "Case Hours - Airbnb II",
-        "19 Jul | 8:30 AM-10:30 AM"
+        "23 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -360,13 +361,13 @@
       "week": "13",
       "topics": [
         "Introduction to Data Visualisation - I",
-        "25 Jul | 5:00 AM-7:00 AM",
+        "29 Aug | 5:00 AM-7:00 AM",
         "Introduction to Data Visualisation - II",
-        "25 Jul | 8:30 AM-10:30 AM",
+        "29 Aug | 8:30 AM-10:30 AM",
         "Mentor Labs - Tableau Milestone Guidance",
-        "26 Jul | 5:00 AM-7:00 AM",
+        "30 Aug | 5:00 AM-7:00 AM",
         "Case Hours - Nextleap",
-        "26 Jul | 8:30 AM-10:30 AM"
+        "30 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -374,13 +375,13 @@
       "week": "14",
       "topics": [
         "Data Preparation & Exploration with Tableau - I",
-        "1 Aug | 5:00 AM-7:00 AM",
+        "5 Sep | 5:00 AM-7:00 AM",
         "Data Preparation & Exploration with Tableau - II",
-        "1 Aug | 8:30 AM-10:30 AM",
+        "5 Sep | 8:30 AM-10:30 AM",
         "Mentor Labs - Tableau Milestone Feedback",
-        "2 Aug | 5:00 AM-7:00 AM",
+        "6 Sep | 5:00 AM-7:00 AM",
         "Case Hours - Nextleap",
-        "2 Aug | 8:30 AM-10:30 AM"
+        "6 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -388,11 +389,11 @@
       "week": "15",
       "topics": [
         "LLMs: How they Work",
-        "8 Aug | 5:00 AM-7:00 AM",
+        "12 Sep | 5:00 AM-7:00 AM",
         "Prompt Engineering",
-        "8 Aug | 8:30 AM-10:30 AM",
+        "12 Sep | 8:30 AM-10:30 AM",
         "Case Hours: Database Automation",
-        "9 Aug | 8:30 AM-10:30 AM"
+        "13 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -400,11 +401,11 @@
       "week": "16",
       "topics": [
         "RAGs & Fine Tuning",
-        "15 Aug | 5:00 AM-7:00 AM",
+        "19 Sep | 5:00 AM-7:00 AM",
         "AI Workflows",
-        "15 Aug | 8:30 AM-10:30 AM",
+        "19 Sep | 8:30 AM-10:30 AM",
         "Case Hours: AI Workflows",
-        "16 Aug | 8:30 AM-10:30 AM"
+        "20 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -412,27 +413,13 @@
       "week": "17",
       "topics": [
         "Interview Prep: Guesstimates",
-        "22 Aug | 5:00 AM-7:00 AM",
+        "26 Sep | 5:00 AM-7:00 AM",
         "Interview Prep: RCAs",
-        "22 Aug | 8:30 AM-10:30 AM",
+        "26 Sep | 8:30 AM-10:30 AM",
         "Mock Interviews",
-        "23 Aug | 5:00 AM-7:00 AM",
+        "27 Sep | 5:00 AM-7:00 AM",
         "Mock Interviews",
-        "23 Aug | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "18",
-      "topics": [
-        "Interview Prep: SQL",
-        "29 Aug | 5:00 AM-7:00 AM",
-        "Interview Prep: SQL",
-        "29 Aug | 8:30 AM-10:30 AM",
-        "Mock Interviews",
-        "30 Aug | 5:00 AM-7:00 AM",
-        "Mock Interviews",
-        "30 Aug | 8:30 AM-10:30 AM",
+        "27 Sep | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap Business Analyst Fellowship?",
         "Who is eligible to apply for the NextLeap Business Analyst Fellowship?",
@@ -694,7 +681,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-04-30T11:24:19.069031Z",
+  "last_updated": "2026-05-01T11:02:26.484624Z",
   "source_url": "https://nextleap.app/course/business-analyst-course",
   "total_live_classes": "150+ hours",
   "live_classes": "150+ hours",
