@@ -16,13 +16,14 @@
   "class_type": [],
   "career_support": [],
   "cohort_info": {
-    "cohort_number": "5",
-    "starts_on": "May 8"
+    "cohort_number": "6",
+    "starts_on": "Jun 5"
   },
   "fee": {
-    "current_price": "₹33999",
+    "current_price": "₹31999",
     "original_price": "₹39999",
     "emi_from": "₹1421/month",
+    "price_increase_info": "Price increase from 17",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -167,7 +168,7 @@
       "week": "1",
       "topics": [
         "Live Session : Kick-off Call",
-        "9 May | 5:30 AM-7:00 AM"
+        "6 Jun | 5:30 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -175,29 +176,29 @@
       "week": "2",
       "topics": [
         "Build Office Hours: Git, GitHub and Cursor",
-        "13 May | 3:30 PM-5:30 PM",
+        "10 Jun | 2:30 PM-4:30 PM",
         "APIs, Webhooks & SDKs",
-        "16 May | 4:59 AM-6:59 AM",
+        "13 Jun | 4:59 AM-6:59 AM",
         "AI System Design",
-        "16 May | 8:30 AM-10:30 AM",
+        "13 Jun | 8:30 AM-10:30 AM",
         "Build Hour: Building with APIs",
-        "17 May | 5:00 AM-7:00 AM"
+        "14 Jun | 5:00 AM-7:00 AM"
       ],
       "tools": []
     },
     {
       "week": "3",
       "topics": [
-        "Build Hour: Building with APIs",
-        "21 May | 8:30 AM-10:30 AM",
+        "Build Office Hour: Building with APIs",
+        "19 Jun | 2:30 PM-4:30 PM",
         "Live Session: How LLMs work",
-        "23 May | 5:00 AM-7:00 AM",
+        "20 Jun | 5:00 AM-7:00 AM",
         "Live Session: Prompt Engineering",
-        "23 May | 8:30 AM-10:30 AM",
+        "20 Jun | 8:30 AM-10:30 AM",
         "Build Hours: Building AI prototypes (backend)",
-        "24 May | 5:00 AM-7:00 AM",
+        "21 Jun | 5:00 AM-7:00 AM",
         "Build Hours: Building AI prototypes (frontend)",
-        "24 May | 8:30 AM-10:30 AM"
+        "21 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -205,15 +206,15 @@
       "week": "4",
       "topics": [
         "Build Office Hours: Learning how to deploy",
-        "27 May | 2:30 PM-4:30 PM",
+        "24 Jun | 2:30 PM-4:30 PM",
         "Live Session: RAGs & Fine Tuning",
-        "30 May | 5:00 AM-7:00 AM",
+        "27 Jun | 5:00 AM-7:00 AM",
         "Live Session: AI Workflow Automations",
-        "30 May | 8:30 AM-10:30 AM",
+        "27 Jun | 8:30 AM-10:30 AM",
         "Build Hours: Building a RAG Chatbot",
-        "31 May | 5:00 AM-7:00 AM",
+        "28 Jun | 5:00 AM-7:00 AM",
         "Build Hours: Building a RAG Chatbot",
-        "31 May | 8:30 AM-10:30 AM"
+        "28 Jun | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -221,17 +222,17 @@
       "week": "5",
       "topics": [
         "Demo Day 1",
-        "2 Jun | 2:30 PM-4:30 PM",
+        "30 Jun | 2:30 PM-4:30 PM",
         "Build Office Hours: RAGs",
-        "3 Jun | 2:30 PM-4:30 PM",
+        "1 Jul | 2:30 PM-4:30 PM",
         "Live Session: AI Agents",
-        "6 Jun | 5:00 AM-7:00 AM",
+        "4 Jul | 5:00 AM-7:00 AM",
         "Live Session: Agent Protocols & MCP",
-        "6 Jun | 8:30 AM-10:30 AM",
+        "4 Jul | 8:30 AM-10:30 AM",
         "Build Hours: Building Agents with MCP Integrations",
-        "7 Jun | 5:00 AM-7:00 AM",
+        "5 Jul | 5:00 AM-7:00 AM",
         "Build Hours: Building Agents with MCP Integrations",
-        "7 Jun | 8:30 AM-10:30 AM"
+        "5 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -239,11 +240,11 @@
       "week": "6",
       "topics": [
         "Build Office Hours: MCP Integrations",
-        "10 Jun | 2:30 PM-4:30 PM",
+        "8 Jul | 2:30 PM-4:30 PM",
         "Live Session: AI Evals",
-        "13 Jun | 5:00 AM-7:00 AM",
+        "11 Jul | 5:00 AM-7:00 AM",
         "Live Session: How to Test AI Products",
-        "13 Jun | 8:30 AM-10:30 AM"
+        "11 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -251,15 +252,15 @@
       "week": "7",
       "topics": [
         "Demo Day 2",
-        "16 Jun | 2:30 PM-4:30 PM",
+        "14 Jul | 2:30 PM-4:30 PM",
         "Live Session : AI Voice Agents",
-        "20 Jun | 5:00 AM-7:00 AM",
+        "18 Jul | 5:00 AM-7:00 AM",
         "Live Session : Advanced AI Voice Agents",
-        "20 Jun | 8:30 AM-10:30 AM",
+        "18 Jul | 8:30 AM-10:30 AM",
         "Build Hours: Building Voice Agents",
-        "21 Jun | 5:00 AM-7:00 AM",
+        "19 Jul | 5:00 AM-7:00 AM",
         "Build Hours: Building Voice Agents",
-        "21 Jun | 8:30 AM-10:30 AM"
+        "19 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -267,15 +268,15 @@
       "week": "8",
       "topics": [
         "Build Office Hours: Voice Agents",
-        "24 Jun | 2:30 PM-4:30 PM",
+        "22 Jul | 2:30 PM-4:30 PM",
         "Live Session: AI Workflow Automations",
-        "27 Jun | 5:00 AM-7:00 AM",
+        "25 Jul | 5:00 AM-7:00 AM",
         "Live Session: AI Workflow Automations",
-        "27 Jun | 8:30 AM-10:30 AM",
+        "25 Jul | 8:30 AM-10:30 AM",
         "Build Hours: Building AI automations",
-        "28 Jun | 5:00 AM-7:00 AM",
+        "26 Jul | 5:00 AM-7:00 AM",
         "Build Hours: Building AI automations",
-        "28 Jun | 8:30 AM-10:30 AM"
+        "26 Jul | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -283,17 +284,17 @@
       "week": "9",
       "topics": [
         "Demo Day 3",
-        "30 Jun | 2:30 PM-4:30 PM",
+        "28 Jul | 2:30 PM-4:30 PM",
         "Build Office Hours: Building AI automations",
-        "1 Jul | 2:30 PM-4:30 PM",
+        "29 Jul | 2:30 PM-4:30 PM",
         "Live Session: Claude Code Setup",
-        "4 Jul | 5:00 AM-7:00 AM",
+        "1 Aug | 5:00 AM-7:00 AM",
         "Live Session: Claude Code Skills & sub-agents",
-        "4 Jul | 8:30 AM-10:30 AM",
+        "1 Aug | 8:30 AM-10:30 AM",
         "Build Hours: Building Claude Code Skills",
-        "5 Jul | 5:00 AM-7:00 AM",
+        "2 Aug | 5:00 AM-7:00 AM",
         "Build Hours: Building prototypes with Claude Code",
-        "5 Jul | 8:30 AM-10:30 AM"
+        "2 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -301,13 +302,13 @@
       "week": "10",
       "topics": [
         "Live Session: Multi-Agent architectures",
-        "11 Jul | 5:00 AM-7:00 AM",
+        "8 Aug | 5:00 AM-7:00 AM",
         "Live Session: Multi-Agent architectures",
-        "11 Jul | 8:30 AM-10:30 AM",
+        "8 Aug | 8:30 AM-10:30 AM",
         "Build Hours: Building multi-agent setups",
-        "12 Jul | 5:00 AM-7:00 AM",
+        "9 Aug | 5:00 AM-7:00 AM",
         "Build Hours: Building multi-agent setups",
-        "12 Jul | 8:30 AM-10:30 AM"
+        "9 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -315,9 +316,9 @@
       "week": "11",
       "topics": [
         "Live Session : AI Product Strategy",
-        "18 Jul | 5:00 AM-7:00 AM",
+        "15 Aug | 5:00 AM-7:00 AM",
         "Build Hours: Capstone Project Guidance",
-        "18 Jul | 8:30 AM-10:30 AM",
+        "15 Aug | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "Do I need a technical or coding background to join?",
         "What experience level is ideal for this bootcamp?",
@@ -441,7 +442,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-05-08T11:03:26.615438Z",
+  "last_updated": "2026-05-09T10:47:39.755269Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
