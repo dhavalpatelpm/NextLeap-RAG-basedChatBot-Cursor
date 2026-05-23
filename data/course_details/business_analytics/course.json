@@ -29,7 +29,7 @@
     "current_price": "₹38999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
-    "price_increase_info": "Price increase from 25",
+    "price_increase_info": "Price increase from 24",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -685,7 +685,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-05-22T12:13:51.906656Z",
+  "last_updated": "2026-05-23T11:05:24.280672Z",
   "source_url": "https://nextleap.app/course/business-analyst-course",
   "total_live_classes": "150+ hours",
   "live_classes": "150+ hours",
