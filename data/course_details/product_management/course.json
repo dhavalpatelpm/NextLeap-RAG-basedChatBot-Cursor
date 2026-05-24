@@ -39,7 +39,6 @@
     "current_price": "₹38999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
-    "price_increase_info": "Price increase from 24",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -684,7 +683,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-05-23T11:05:24.274731Z",
+  "last_updated": "2026-05-24T11:08:22.785207Z",
   "source_url": "https://nextleap.app/course/product-management-course",
   "live_classes": "100+ hours",
   "timeline": "4 months",
