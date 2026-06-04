@@ -175,7 +175,7 @@
       "week": "2",
       "topics": [
         "Build Office Hours: Git, GitHub and Cursor",
-        "10 Jun | 2:30 PM-4:30 PM",
+        "12 Jun | 2:30 PM-4:30 PM",
         "APIs, Webhooks & SDKs",
         "13 Jun | 4:59 AM-6:59 AM",
         "AI System Design",
@@ -441,7 +441,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-06-03T14:21:36.102949Z",
+  "last_updated": "2026-06-04T12:38:55.086878Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
