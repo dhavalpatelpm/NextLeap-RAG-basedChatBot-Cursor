@@ -23,7 +23,6 @@
     "current_price": "₹32999",
     "original_price": "₹39999",
     "emi_from": "₹1421/month",
-    "price_increase_info": "Price increase from 21",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -168,7 +167,7 @@
       "week": "1",
       "topics": [
         "Live Session : Kick-off Call",
-        "11 Jul | 5:30 AM-7:00 AM"
+        "1 Aug | 5:30 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -176,52 +175,12 @@
       "week": "2",
       "topics": [
         "APIs, Webhooks & SDKs",
-        "18 Jul | 5:00 AM-7:00 AM",
-        "AI System Design",
-        "18 Jul | 8:30 AM-10:30 AM",
-        "Build Hour: Building with APIs",
-        "19 Jul | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "3",
-      "topics": [
-        "Live Session: How LLMs work",
-        "25 Jul | 8:00 AM-10:00 AM",
-        "Live Session: Prompt Engineering",
-        "25 Jul | 11:00 AM-1:00 PM",
-        "Build Hours: Building AI prototypes (backend)",
-        "26 Jul | 5:00 AM-7:00 AM",
-        "Build Hours: Building AI prototypes (frontend)",
-        "26 Jul | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "4",
-      "topics": [
-        "Live Session: RAGs & Fine Tuning",
-        "1 Aug | 5:00 AM-7:00 AM",
-        "Live Session: AI Workflow Automations",
-        "1 Aug | 11:00 AM-1:00 PM",
-        "Build Hours: Building a RAG Chatbot",
-        "2 Aug | 5:00 AM-7:00 AM",
-        "Build Hours: Building a RAG Chatbot",
-        "2 Aug | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "5",
-      "topics": [
-        "Demo Day 1",
-        "4 Aug | 2:30 PM-4:30 PM",
-        "Live Session: AI Agents",
         "8 Aug | 5:00 AM-7:00 AM",
-        "Live Session: Agent Protocols & MCP",
+        "AI System Design",
         "8 Aug | 8:30 AM-10:30 AM",
         "Build Hours: Building Agents with MCP Integrations",
+        "9 Aug | 5:00 AM-7:00 AM",
+        "Build Hour: Building with APIs",
         "9 Aug | 5:00 AM-7:00 AM",
         "Build Hours: Building Agents with MCP Integrations",
         "9 Aug | 8:30 AM-10:30 AM"
@@ -229,80 +188,102 @@
       "tools": []
     },
     {
+      "week": "3",
+      "topics": [
+        "LLMs: How they Work & how to choose models",
+        "15 Aug | 5:00 AM-7:00 AM",
+        "Prompt Engineering: different techniques",
+        "15 Aug | 8:30 AM-10:30 AM",
+        "Build Hours: Building AI prototypes (frontend)",
+        "16 Aug | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI prototypes (backend)",
+        "16 Aug | 5:00 AM-7:00 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "4",
+      "topics": [
+        "Live Session: RAGs & Fine Tuning",
+        "22 Aug | 5:00 AM-7:00 AM",
+        "Live Session: AI Workflow Automations",
+        "22 Aug | 8:30 AM-10:30 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "23 Aug | 8:30 AM-10:30 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "23 Aug | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "5",
+      "topics": [
+        "Context Engineering: Sessions, Memory, Tools",
+        "29 Aug | 5:00 AM-7:00 AM",
+        "AI workflows, Agents & MCP",
+        "29 Aug | 8:30 AM-10:30 AM",
+        "Build Hours: Building linear workflows (with Langchain)",
+        "30 Aug | 5:00 AM-7:00 AM",
+        "Build Hours: Building Agents (with LangGraph)",
+        "30 Aug | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
       "week": "6",
       "topics": [
+        "Demo Day 3",
+        "1 Sep | 2:30 PM-4:30 PM",
         "Live Session: AI Evals",
-        "15 Aug | 5:00 AM-7:00 AM",
+        "5 Sep | 5:00 AM-7:00 AM",
         "Live Session: How to Test AI Products",
-        "15 Aug | 8:30 AM-10:30 AM"
+        "5 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "7",
       "topics": [
-        "Demo Day 2",
-        "18 Aug | 2:30 PM-4:30 PM",
-        "Live Session : AI Voice Agents",
-        "22 Aug | 5:00 AM-7:00 AM",
-        "Live Session : Advanced AI Voice Agents",
-        "22 Aug | 8:30 AM-10:30 AM",
-        "Build Hours: Building Voice Agents",
-        "23 Aug | 5:00 AM-7:00 AM",
-        "Build Hours: Building Voice Agents",
-        "23 Aug | 8:30 AM-10:30 AM"
+        "Build Hours: Building Claude Code Skills",
+        "12 Sep | 5:00 AM-7:00 AM",
+        "Live Session: Multi-Agent architectures",
+        "12 Sep | 8:30 AM-10:30 AM",
+        "Build Hours: Building prototypes with Claude Code",
+        "12 Sep | 8:30 AM-10:30 AM",
+        "Build Hours: Building multi-agent setups",
+        "13 Sep | 5:00 AM-7:00 AM",
+        "Claude Code: Managed Agents & sub-agents",
+        "13 Sep | 5:00 AM-7:00 AM",
+        "Build Hours: Building multi-agent setups",
+        "13 Sep | 8:30 AM-10:30 AM",
+        "Claude Code: Dynamic Workflows",
+        "13 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "8",
       "topics": [
-        "Live Session: AI Workflow Automations",
-        "29 Aug | 5:00 AM-7:00 AM",
-        "Live Session: AI Workflow Automations",
-        "29 Aug | 8:30 AM-10:30 AM",
-        "Build Hours: Building AI automations",
-        "30 Aug | 5:00 AM-7:00 AM",
-        "Build Hours: Building AI automations",
-        "30 Aug | 8:30 AM-10:30 AM"
+        "Agentic Software Development: different agents & roles",
+        "19 Sep | 5:00 AM-7:00 AM",
+        "Agentic Software Development: building the agents",
+        "19 Sep | 8:30 AM-10:30 AM",
+        "Agentic Software Development: Running parallel agents",
+        "20 Sep | 5:00 AM-7:00 AM",
+        "Agentic Software Development: Build-Review-QA loops",
+        "20 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "9",
       "topics": [
-        "Demo Day 3",
-        "1 Sep | 2:30 PM-4:30 PM",
-        "Live Session: Claude Code Setup",
-        "5 Sep | 5:00 AM-7:00 AM",
-        "Live Session: Claude Code Skills & sub-agents",
-        "5 Sep | 8:30 AM-10:30 AM",
-        "Build Hours: Building Claude Code Skills",
-        "6 Sep | 5:00 AM-7:00 AM",
-        "Build Hours: Building prototypes with Claude Code",
-        "6 Sep | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "10",
-      "topics": [
-        "Live Session: Multi-Agent architectures",
-        "12 Sep | 5:00 AM-7:00 AM",
-        "Live Session: Multi-Agent architectures",
-        "12 Sep | 8:30 AM-10:30 AM",
-        "Build Hours: Building multi-agent setups",
-        "13 Sep | 5:00 AM-7:00 AM",
-        "Build Hours: Building multi-agent setups",
-        "13 Sep | 8:30 AM-10:30 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "11",
-      "topics": [
-        "Build Hours: Capstone Project Guidance",
-        "19 Sep | 8:30 AM-10:30 AM",
+        "Multi-Agent system architectures",
+        "26 Sep | 5:00 AM-7:00 AM",
+        "Building with Hermes: persistent orchestration",
+        "26 Sep | 8:30 AM-10:30 AM",
+        "Building with Hermes: Building an AI personal assistant",
+        "27 Sep | 5:00 AM-7:00 AM",
         "Frequently Asked Questions",
         "Do I need a technical or coding background to join?",
         "What experience level is ideal for this bootcamp?",
@@ -311,11 +292,7 @@
         "What if I miss a live class?",
         "How much time do I need per week?",
         "Which tools will I learn?",
-        "How are projects evaluated?",
-        "Will I work on real-world projects?",
-        "What makes this different from free YouTube tutorials?",
-        "Do you provide career support?",
-        "Will this help me get a job or promotion?"
+        "How are projects evaluated?"
       ],
       "tools": []
     }
@@ -428,7 +405,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-06-20T11:51:43.917442Z",
+  "last_updated": "2026-06-21T12:06:01.944881Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
