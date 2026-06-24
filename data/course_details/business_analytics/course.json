@@ -224,6 +224,8 @@
     {
       "week": "3",
       "topics": [
+        "FIKA : Meet your cohort",
+        "16 Jul | 2:30 PM-3:30 PM",
         "Mapping Outcomes to Opportunities",
         "18 Jul | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
@@ -685,7 +687,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-06-23T12:29:37.246900Z",
+  "last_updated": "2026-06-24T12:15:06.382220Z",
   "source_url": "https://nextleap.app/course/business-analyst-course",
   "total_live_classes": "150+ hours",
   "live_classes": "150+ hours",
