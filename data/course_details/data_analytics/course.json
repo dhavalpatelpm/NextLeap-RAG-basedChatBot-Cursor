@@ -25,13 +25,14 @@
     "Placement support"
   ],
   "cohort_info": {
-    "cohort_number": "22",
-    "starts_on": "Jul 3"
+    "cohort_number": "23",
+    "starts_on": "Jul 31"
   },
   "fee": {
-    "current_price": "₹39999",
+    "current_price": "₹36999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 5",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -50,10 +51,6 @@
   },
   "instructors": [
     {
-      "name": "Ex-Data Analyst",
-      "role": "Hopscotch"
-    },
-    {
       "name": "Principal",
       "role": "Analytics"
     },
@@ -62,20 +59,16 @@
       "role": "Zomato"
     },
     {
+      "name": "Senior Analyst @Prismforce",
+      "role": "Ex- Flipkart"
+    },
+    {
       "name": "Senior Data and Business Analyst @ Zomato",
       "role": "Ex- Uber"
     },
     {
       "name": "Manager",
       "role": "Data Science"
-    },
-    {
-      "name": "BITS Pilani",
-      "role": "Goa"
-    },
-    {
-      "name": "BITS Pilani",
-      "role": "Goa"
     }
   ],
   "learn_from_instructors": [],
@@ -205,12 +198,12 @@
     {
       "week": "1",
       "topics": [
-        "Kick off Call",
-        "4 Jul | 10:30 AM-12:00 PM",
+        "Kick Off Call",
+        "1 Aug | 10:30 AM-12:00 PM",
         "Mapping Business Outcomes to Actionable Outcomes",
-        "5 Jul | 5:00 AM-7:00 AM",
+        "2 Aug | 5:00 AM-7:00 AM",
         "Mapping Outcomes to Opportunities",
-        "5 Jul | 8:30 AM-10:30 AM"
+        "2 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -218,29 +211,27 @@
       "week": "2",
       "topics": [
         "Introduction to Data Analytics - I",
-        "11 Jul | 5:00 AM-7:00 AM",
+        "8 Aug | 5:00 AM-7:00 AM",
         "Introduction to Data Analytics - II",
-        "11 Jul | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "12 Jul | 5:00 AM-6:00 AM",
+        "8 Aug | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "9 Aug | 5:30 AM-7:00 AM",
         "Case Hours: EDA",
-        "12 Jul | 8:30 AM-10:30 AM"
+        "9 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "3",
       "topics": [
-        "FIKA : Meet your cohort",
-        "16 Jul | 2:30 PM-3:30 PM",
         "Data Preparation using Excel - I",
-        "18 Jul | 5:00 AM-7:00 AM",
-        "Data Preparation using Excel - II",
-        "18 Jul | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "19 Jul | 5:00 AM-7:00 AM",
+        "15 Aug | 5:00 AM-7:00 AM",
+        "Data Preparation using Excel - I",
+        "15 Aug | 8:30 AM-11:30 AM",
+        "Mentor Review Hour",
+        "16 Aug | 5:30 AM-7:00 AM",
         "Case Hours : Analysis using Excel",
-        "19 Jul | 8:30 AM-10:30 AM"
+        "16 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -248,13 +239,13 @@
       "week": "4",
       "topics": [
         "Lookup Functions in Excel",
-        "25 Jul | 5:00 AM-7:00 AM",
+        "22 Aug | 5:00 AM-7:00 AM",
         "Advanced Data Analysis using Excel",
-        "25 Jul | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "26 Jul | 5:00 AM-7:00 AM",
+        "22 Aug | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "23 Aug | 5:30 AM-7:00 AM",
         "Excel Case Hours - 3",
-        "26 Jul | 8:30 AM-10:30 AM"
+        "23 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -262,13 +253,13 @@
       "week": "5",
       "topics": [
         "Data Visualisation using Excel - I",
-        "1 Aug | 5:00 AM-7:00 AM",
+        "29 Aug | 5:00 AM-7:00 AM",
         "Data Visualisation using Excel - II",
-        "1 Aug | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "2 Aug | 5:00 AM-7:00 AM",
+        "29 Aug | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "30 Aug | 5:30 AM-7:00 AM",
         "Case Hours: Cohort & Funnel Analysis",
-        "2 Aug | 8:30 AM-10:30 AM"
+        "30 Aug | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -276,13 +267,13 @@
       "week": "6",
       "topics": [
         "Data Analysis using SQL - I",
-        "8 Aug | 5:00 AM-7:00 AM",
+        "5 Sep | 5:00 AM-7:00 AM",
         "Data Analysis using SQL - II",
-        "8 Aug | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "9 Aug | 5:00 AM-7:00 AM",
+        "5 Sep | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "6 Sep | 5:30 AM-7:00 AM",
         "SQL Case Hours - 1",
-        "9 Aug | 8:30 AM-10:30 AM"
+        "6 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -290,13 +281,13 @@
       "week": "7",
       "topics": [
         "Advanced Data Analysis using SQL - I",
-        "15 Aug | 5:00 AM-7:00 AM",
+        "12 Sep | 5:00 AM-7:00 AM",
         "Advanced Data Analysis using SQL - II",
-        "15 Aug | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "16 Aug | 5:00 AM-7:00 AM",
+        "12 Sep | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "13 Sep | 5:30 AM-7:00 AM",
         "SQL Case Hours - 2",
-        "16 Aug | 9:30 AM-11:30 AM"
+        "13 Sep | 9:30 AM-11:30 AM"
       ],
       "tools": []
     },
@@ -304,13 +295,13 @@
       "week": "8",
       "topics": [
         "Data Manipulation with SQL - I",
-        "22 Aug | 5:00 AM-7:00 AM",
+        "19 Sep | 5:00 AM-7:00 AM",
         "Data Manipulation with SQL - II",
-        "22 Aug | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "23 Aug | 5:00 AM-7:00 AM",
+        "19 Sep | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "20 Sep | 5:30 AM-7:00 AM",
         "SQL Case Hours - 3",
-        "23 Aug | 8:30 AM-10:30 AM"
+        "20 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -318,13 +309,13 @@
       "week": "9",
       "topics": [
         "Data Preparation & Exploration with Tableau - I",
-        "29 Aug | 5:00 AM-7:00 AM",
+        "26 Sep | 5:00 AM-7:00 AM",
         "Data Preparation & Exploration with Tableau - II",
-        "29 Aug | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "30 Aug | 5:00 AM-7:00 AM",
+        "26 Sep | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "27 Sep | 5:30 AM-7:00 AM",
         "Tableau Case Hours - 1",
-        "30 Aug | 8:30 AM-10:30 AM"
+        "27 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -332,13 +323,13 @@
       "week": "10",
       "topics": [
         "Data Preparation & Exploration with Tableau - I",
-        "5 Sep | 5:00 AM-7:00 AM",
+        "3 Oct | 5:00 AM-7:00 AM",
         "Data Preparation & Exploration with Tableau - II",
-        "5 Sep | 8:30 AM-11:29 AM",
-        "Mentor Labs",
-        "6 Sep | 5:00 AM-7:00 AM",
+        "3 Oct | 8:30 AM-11:29 AM",
+        "Mentor Review Hour",
+        "4 Oct | 5:30 AM-7:00 AM",
         "Case Hours: Tableau (NL)",
-        "6 Sep | 8:30 AM-10:30 AM"
+        "4 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -346,13 +337,13 @@
       "week": "11",
       "topics": [
         "Essentials of Python for Data Analysis - I",
-        "12 Sep | 5:00 AM-7:00 AM",
+        "10 Oct | 5:00 AM-7:00 AM",
         "Essentials of Python for Data Analysis - II",
-        "12 Sep | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "13 Sep | 5:00 AM-7:00 AM",
+        "10 Oct | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "11 Oct | 5:30 AM-7:00 AM",
         "Python Case Hours - 1",
-        "13 Sep | 8:30 AM-10:30 AM"
+        "11 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -360,13 +351,13 @@
       "week": "12",
       "topics": [
         "Data Analysis using Python - I",
-        "19 Sep | 5:00 AM-7:00 AM",
+        "17 Oct | 5:00 AM-7:00 AM",
         "Data Analysis using Python - II",
-        "19 Sep | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "20 Sep | 5:00 AM-7:00 AM",
+        "17 Oct | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "18 Oct | 5:30 AM-7:00 AM",
         "Python Case Hours - 2",
-        "20 Sep | 8:30 AM-10:30 AM"
+        "18 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -374,13 +365,13 @@
       "week": "13",
       "topics": [
         "Advanced Data Analysis using Python - I",
-        "26 Sep | 5:00 AM-7:00 AM",
+        "24 Oct | 5:00 AM-7:00 AM",
         "Advanced Data Analysis using Python - II",
-        "26 Sep | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "27 Sep | 5:00 AM-7:00 AM",
+        "24 Oct | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "25 Oct | 5:30 AM-7:00 AM",
         "Python Case Hours - 3",
-        "27 Sep | 8:30 AM-10:30 AM"
+        "25 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -388,13 +379,13 @@
       "week": "14",
       "topics": [
         "Data Visualisation using Python - I",
-        "3 Oct | 5:00 AM-7:00 AM",
+        "31 Oct | 5:00 AM-7:00 AM",
         "Data Visualisation using Python - II",
-        "3 Oct | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "4 Oct | 5:00 AM-7:00 AM",
+        "31 Oct | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "1 Nov | 5:30 AM-7:00 AM",
         "Python Case Hours - 4",
-        "4 Oct | 8:30 AM-10:30 AM"
+        "1 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -402,13 +393,13 @@
       "week": "15",
       "topics": [
         "LLMs: How they Work",
-        "10 Oct | 5:00 AM-7:00 AM",
+        "7 Nov | 5:00 AM-7:00 AM",
         "Prompt Engineering",
-        "10 Oct | 8:30 AM-10:30 AM",
-        "Mentor Labs",
-        "11 Oct | 5:00 AM-7:00 AM",
+        "7 Nov | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "8 Nov | 5:30 AM-7:00 AM",
         "Case Hours: Database Automation",
-        "11 Oct | 8:30 AM-10:30 AM"
+        "8 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -416,11 +407,11 @@
       "week": "16",
       "topics": [
         "RAGs & Fine Tuning",
-        "17 Oct | 5:00 AM-7:00 AM",
+        "14 Nov | 5:00 AM-7:00 AM",
         "AI Workflows",
-        "17 Oct | 8:30 AM-10:30 AM",
+        "14 Nov | 8:30 AM-10:30 AM",
         "Case Hours: AI Workflows",
-        "18 Oct | 8:30 AM-10:30 AM"
+        "15 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -428,13 +419,13 @@
       "week": "17",
       "topics": [
         "Interview Prep: Guesstimates",
-        "24 Oct | 5:00 AM-7:00 AM",
+        "21 Nov | 5:00 AM-7:00 AM",
         "Interview Prep: RCAs",
-        "24 Oct | 8:30 AM-10:30 AM",
+        "21 Nov | 8:30 AM-10:30 AM",
         "Mock Interviews",
-        "25 Oct | 5:00 AM-7:00 AM",
+        "22 Nov | 5:00 AM-7:00 AM",
         "Mock Interviews",
-        "25 Oct | 8:30 AM-10:30 AM",
+        "22 Nov | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap Data Analyst Fellowship?",
         "Who is eligible to apply for the NextLeap Data Analyst Fellowship?",
@@ -463,7 +454,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-06-30T12:06:02.788463Z",
+  "last_updated": "2026-07-01T12:28:39.602382Z",
   "source_url": "https://nextleap.app/course/data-analyst-course",
   "mode": "Live sessions on Zoom",
   "timeline": "4 months",
