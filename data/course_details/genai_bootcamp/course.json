@@ -23,6 +23,7 @@
     "current_price": "₹33999",
     "original_price": "₹39999",
     "emi_from": "₹1421/month",
+    "price_increase_info": "Price increase from 12",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -395,7 +396,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-07-05T11:24:23.522942Z",
+  "last_updated": "2026-07-06T13:38:53.801222Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
