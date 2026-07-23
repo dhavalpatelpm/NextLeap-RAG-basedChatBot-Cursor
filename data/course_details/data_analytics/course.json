@@ -310,13 +310,13 @@
     {
       "week": "9",
       "topics": [
-        "Data Preparation & Exploration with Tableau - I",
+        "Windows function in SQL - I",
         "26 Sep | 5:00 AM-7:00 AM",
-        "Data Preparation & Exploration with Tableau - II",
+        "Windows function in SQL - II",
         "26 Sep | 8:30 AM-10:30 AM",
         "Mentor Review Hour",
         "27 Sep | 5:30 AM-7:00 AM",
-        "Tableau Case Hours - 1",
+        "SQL Case Hours - 4",
         "27 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -327,10 +327,10 @@
         "Data Preparation & Exploration with Tableau - I",
         "3 Oct | 5:00 AM-7:00 AM",
         "Data Preparation & Exploration with Tableau - II",
-        "3 Oct | 8:30 AM-11:29 AM",
+        "3 Oct | 8:30 AM-10:30 AM",
         "Mentor Review Hour",
         "4 Oct | 5:30 AM-7:00 AM",
-        "Case Hours: Tableau (NL)",
+        "Tableau Case Hours - 1",
         "4 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -338,13 +338,13 @@
     {
       "week": "11",
       "topics": [
-        "Essentials of Python for Data Analysis - I",
+        "Data Preparation & Exploration with Tableau - I",
         "10 Oct | 5:00 AM-7:00 AM",
-        "Essentials of Python for Data Analysis - II",
+        "Data Preparation & Exploration with Tableau - II",
         "10 Oct | 8:30 AM-10:30 AM",
         "Mentor Review Hour",
         "11 Oct | 5:30 AM-7:00 AM",
-        "Python Case Hours - 1",
+        "Case Hours: Tableau (NL)",
         "11 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -352,13 +352,13 @@
     {
       "week": "12",
       "topics": [
-        "Data Analysis using Python - I",
+        "Essentials of Python for Data Analysis - I",
         "17 Oct | 5:00 AM-7:00 AM",
-        "Data Analysis using Python - II",
+        "Essentials of Python for Data Analysis - II",
         "17 Oct | 8:30 AM-10:30 AM",
         "Mentor Review Hour",
         "18 Oct | 5:30 AM-7:00 AM",
-        "Python Case Hours - 2",
+        "Python Case Hours - 1",
         "18 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -366,19 +366,33 @@
     {
       "week": "13",
       "topics": [
-        "Advanced Data Analysis using Python - I",
+        "Data Analysis using Python - I",
         "24 Oct | 5:00 AM-7:00 AM",
-        "Advanced Data Analysis using Python - II",
+        "Data Analysis using Python - II",
         "24 Oct | 8:30 AM-10:30 AM",
         "Mentor Review Hour",
         "25 Oct | 5:30 AM-7:00 AM",
-        "Python Case Hours - 3",
+        "Python Case Hours - 2",
         "25 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "14",
+      "topics": [
+        "Advanced Data Analysis using Python - I",
+        "31 Oct | 5:00 AM-7:00 AM",
+        "Advanced Data Analysis using Python - II",
+        "31 Oct | 8:30 AM-10:30 AM",
+        "Mentor Review Hour",
+        "1 Nov | 5:00 AM-7:00 AM",
+        "Python Case Hours - 3",
+        "1 Nov | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "15",
       "topics": [
         "LLMs: How they Work",
         "7 Nov | 5:00 AM-7:00 AM",
@@ -392,7 +406,7 @@
       "tools": []
     },
     {
-      "week": "15",
+      "week": "16",
       "topics": [
         "RAGs & Fine Tuning",
         "14 Nov | 5:00 AM-7:00 AM",
@@ -404,7 +418,7 @@
       "tools": []
     },
     {
-      "week": "16",
+      "week": "17",
       "topics": [
         "Interview Prep: Guesstimates",
         "21 Nov | 5:00 AM-7:00 AM",
@@ -442,7 +456,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-07-22T11:43:04.694206Z",
+  "last_updated": "2026-07-23T11:46:50.780858Z",
   "source_url": "https://nextleap.app/course/data-analyst-course",
   "mode": "Live sessions on Zoom",
   "timeline": "4 months",

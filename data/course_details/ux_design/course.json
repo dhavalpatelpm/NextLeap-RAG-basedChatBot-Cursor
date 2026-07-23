@@ -252,9 +252,9 @@
     {
       "week": "5",
       "topics": [
-        "UX Design Foundations",
+        "User Flows & Wireframing",
         "29 Aug | 5:00 AM-7:00 AM",
-        "AI Assisted Prototyping",
+        "UX Design Foundations",
         "29 Aug | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 2 Feedback",
         "30 Aug | 5:00 AM-7:00 AM",
@@ -335,7 +335,9 @@
       "week": "11",
       "topics": [
         "Agentic UX Design",
-        "10 Oct | 5:00 AM-8:00 AM"
+        "10 Oct | 5:00 AM-8:00 AM",
+        "Figma Hours - Shortcuts, Plugins & Version Control",
+        "11 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -571,7 +573,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-07-22T11:43:04.692968Z",
+  "last_updated": "2026-07-23T11:46:50.779549Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",
