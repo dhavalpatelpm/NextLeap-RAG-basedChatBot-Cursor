@@ -209,7 +209,7 @@
         "8 Aug | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
         "8 Aug | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "9 Aug | 5:30 AM-7:00 AM",
         "Case Hours: Swiggy",
         "9 Aug | 8:30 AM-10:30 AM"
@@ -223,7 +223,7 @@
         "15 Aug | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
         "15 Aug | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "16 Aug | 5:30 AM-7:00 AM",
         "Case hours - Segmenting for Scale",
         "16 Aug | 8:30 AM-10:30 AM"
@@ -237,7 +237,7 @@
         "22 Aug | 5:00 AM-7:00 AM",
         "Capturing Business Requirements",
         "22 Aug | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "23 Aug | 5:30 AM-7:00 AM",
         "Case Hours: BRD",
         "23 Aug | 8:30 AM-10:30 AM"
@@ -251,7 +251,7 @@
         "29 Aug | 5:00 AM-7:00 AM",
         "Metrics and Analysis - II",
         "29 Aug | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "30 Aug | 5:30 AM-7:00 AM",
         "Case Hours: Metrics",
         "30 Aug | 8:30 AM-10:30 AM"
@@ -265,7 +265,7 @@
         "12 Sep | 5:00 AM-7:00 AM",
         "Introduction to Data Analytics - II",
         "12 Sep | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "13 Sep | 5:30 AM-7:00 AM",
         "Case Hours : EDA",
         "13 Sep | 8:30 AM-10:30 AM"
@@ -279,7 +279,7 @@
         "19 Sep | 5:00 AM-7:00 AM",
         "Data Preparation using Excel - II",
         "19 Sep | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "20 Sep | 5:30 AM-7:00 AM",
         "Case Hours - EDA using Excel",
         "20 Sep | 8:30 AM-10:30 AM"
@@ -293,7 +293,7 @@
         "26 Sep | 5:00 AM-7:00 AM",
         "Advanced Data Analysis using Excel",
         "26 Sep | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "27 Sep | 5:30 AM-7:00 AM",
         "Case Hours - Cohort & Funnel Analysis",
         "27 Sep | 8:30 AM-10:30 AM"
@@ -307,7 +307,7 @@
         "3 Oct | 5:00 AM-7:00 AM",
         "Dashboarding using Excel",
         "3 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "4 Oct | 5:30 AM-7:00 AM",
         "Case Hours : Analysis using Excel",
         "4 Oct | 8:30 AM-10:30 AM"
@@ -321,7 +321,7 @@
         "10 Oct | 5:00 AM-7:00 AM",
         "Data Analysis using SQL - II",
         "10 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "11 Oct | 5:30 AM-7:00 AM",
         "Case Hours - IPL",
         "11 Oct | 8:30 AM-10:30 AM"
@@ -335,7 +335,7 @@
         "17 Oct | 5:00 AM-7:00 AM",
         "Data Manipulation with SQL - II",
         "17 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "18 Oct | 5:30 AM-7:00 AM",
         "Case Hours - Airbnb",
         "18 Oct | 8:30 AM-10:30 AM"
@@ -349,7 +349,7 @@
         "24 Oct | 5:00 AM-7:00 AM",
         "Advanced Data Analysis with SQL - II",
         "24 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "25 Oct | 5:30 AM-7:00 AM",
         "Case Hours - Airbnb II",
         "25 Oct | 8:30 AM-10:30 AM"
@@ -363,7 +363,7 @@
         "31 Oct | 5:00 AM-7:00 AM",
         "Introduction to Data Visualisation - II",
         "31 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "1 Nov | 5:30 AM-7:00 AM",
         "Case Hours - Nextleap",
         "1 Nov | 8:30 AM-10:30 AM"
@@ -377,7 +377,7 @@
         "7 Nov | 5:00 AM-7:00 AM",
         "Data Preparation & Exploration with Tableau - II",
         "7 Nov | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab",
         "8 Nov | 5:30 AM-7:00 AM",
         "Case Hours - Nextleap",
         "8 Nov | 8:30 AM-10:30 AM"
@@ -694,7 +694,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-07-30T11:46:29.996074Z",
+  "last_updated": "2026-07-31T11:53:20.991851Z",
   "source_url": "https://nextleap.app/course/business-analyst-course",
   "total_live_classes": "150+ hours",
   "live_classes": "150+ hours",
