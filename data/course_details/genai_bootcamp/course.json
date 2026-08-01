@@ -16,13 +16,14 @@
   "class_type": [],
   "career_support": [],
   "cohort_info": {
-    "cohort_number": "7",
-    "starts_on": "Jul 31"
+    "cohort_number": "8",
+    "starts_on": "Sep 4"
   },
   "fee": {
-    "current_price": "₹34999",
+    "current_price": "₹31999",
     "original_price": "₹39999",
     "emi_from": "₹1421/month",
+    "price_increase_info": "Price increase from 9",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -166,7 +167,7 @@
       "week": "1",
       "topics": [
         "Live Session : Kick-off Call",
-        "2 Aug | 5:30 AM-7:00 AM"
+        "6 Sep | 5:30 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -174,11 +175,11 @@
       "week": "2",
       "topics": [
         "APIs, Webhooks & SDKs",
-        "8 Aug | 5:00 AM-7:00 AM",
+        "12 Sep | 5:00 AM-7:00 AM",
         "AI System Design",
-        "8 Aug | 8:30 AM-10:30 AM",
+        "12 Sep | 8:30 AM-10:30 AM",
         "Build Hour: Building with APIs",
-        "9 Aug | 5:00 AM-7:00 AM"
+        "13 Sep | 5:00 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -186,13 +187,13 @@
       "week": "3",
       "topics": [
         "LLMs: How they Work & how to choose models",
-        "15 Aug | 5:00 AM-7:00 AM",
+        "19 Sep | 5:00 AM-7:00 AM",
         "Prompt Engineering: different techniques",
-        "15 Aug | 8:30 AM-10:30 AM",
-        "Build Hours: Building AI prototypes (frontend)",
-        "16 Aug | 5:00 AM-7:00 AM",
+        "19 Sep | 8:30 AM-10:30 AM",
         "Build Hours: Building AI prototypes (backend)",
-        "16 Aug | 5:00 AM-7:00 AM"
+        "20 Sep | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI prototypes (frontend)",
+        "20 Sep | 5:00 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -200,13 +201,15 @@
       "week": "4",
       "topics": [
         "Live Session: RAGs & Fine Tuning",
-        "22 Aug | 5:00 AM-7:00 AM",
+        "26 Sep | 5:00 AM-7:00 AM",
         "Live Session: AI Workflow Automations",
-        "22 Aug | 8:30 AM-10:30 AM",
+        "26 Sep | 8:30 AM-10:30 AM",
         "Build Hours: Building a RAG Chatbot",
-        "23 Aug | 8:30 AM-10:30 AM",
+        "27 Sep | 8:30 AM-10:30 AM",
         "Build Hours: Building a RAG Chatbot",
-        "23 Aug | 8:30 AM-10:30 AM"
+        "27 Sep | 8:30 AM-10:30 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "27 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -214,15 +217,15 @@
       "week": "5",
       "topics": [
         "Demo Day 1 - RAG Chatbot",
-        "25 Aug | 2:30 PM-4:30 PM",
+        "29 Sep | 2:30 PM-4:30 PM",
         "Context Engineering: Sessions, Memory, Tools",
-        "29 Aug | 5:00 AM-7:00 AM",
+        "3 Oct | 5:00 AM-7:00 AM",
         "AI workflows, Agents & MCP",
-        "29 Aug | 8:30 AM-10:30 AM",
+        "3 Oct | 8:30 AM-10:30 AM",
         "Build Hours: Building linear workflows (with Langchain)",
-        "30 Aug | 5:00 AM-7:00 AM",
+        "4 Oct | 5:00 AM-7:00 AM",
         "Build Hours: Building Agents (with LangGraph)",
-        "30 Aug | 8:30 AM-10:30 AM"
+        "4 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -230,9 +233,9 @@
       "week": "6",
       "topics": [
         "Live Session: AI Evals",
-        "5 Sep | 5:00 AM-7:00 AM",
+        "10 Oct | 5:00 AM-7:00 AM",
         "Live Session: How to Test AI Products",
-        "5 Sep | 8:30 AM-10:30 AM"
+        "10 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -240,15 +243,15 @@
       "week": "7",
       "topics": [
         "Demo Day 2",
-        "8 Sep | 2:30 PM-4:30 PM",
-        "Build Hours: Building Claude Code Skills",
-        "12 Sep | 5:00 AM-7:00 AM",
-        "Build Hours: Building prototypes with Claude Code",
-        "12 Sep | 8:30 AM-10:30 AM",
+        "13 Oct | 2:30 PM-4:30 PM",
+        "Claude Code: setup, memory, project file structure",
+        "17 Oct | 5:00 AM-7:00 AM",
+        "Claude Code: Skills, / commands, MCPs",
+        "17 Oct | 8:30 AM-10:30 AM",
         "Claude Code: Managed Agents & sub-agents",
-        "13 Sep | 5:00 AM-7:00 AM",
+        "18 Oct | 5:00 AM-7:00 AM",
         "Claude Code: Dynamic Workflows",
-        "13 Sep | 8:30 AM-10:30 AM"
+        "18 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -256,13 +259,13 @@
       "week": "8",
       "topics": [
         "Agentic Software Development: different agents & roles",
-        "19 Sep | 5:00 AM-7:00 AM",
+        "24 Oct | 5:00 AM-7:00 AM",
         "Agentic Software Development: building the agents",
-        "19 Sep | 8:30 AM-10:30 AM",
+        "24 Oct | 8:30 AM-10:30 AM",
         "Agentic Software Development: Running parallel agents",
-        "20 Sep | 5:00 AM-7:00 AM",
+        "25 Oct | 5:00 AM-7:00 AM",
         "Agentic Software Development: Build-Review-QA loops",
-        "20 Sep | 8:30 AM-10:30 AM"
+        "25 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -270,11 +273,11 @@
       "week": "9",
       "topics": [
         "Multi-Agent system architectures",
-        "26 Sep | 5:00 AM-7:00 AM",
+        "31 Oct | 5:00 AM-7:00 AM",
         "Building with Hermes: persistent orchestration",
-        "26 Sep | 8:30 AM-10:30 AM",
+        "31 Oct | 8:30 AM-10:30 AM",
         "Building with Hermes: Building an AI personal assistant",
-        "27 Sep | 5:00 AM-7:00 AM",
+        "1 Nov | 5:00 AM-7:00 AM",
         "Frequently Asked Questions",
         "Do I need a technical or coding background to join?",
         "What experience level is ideal for this bootcamp?",
@@ -395,7 +398,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-07-31T11:53:20.993499Z",
+  "last_updated": "2026-08-01T11:11:37.414622Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
