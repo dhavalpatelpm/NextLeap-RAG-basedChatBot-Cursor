@@ -214,12 +214,6 @@
     {
       "week": "2",
       "topics": [
-        "FIKA : Meet your cohort",
-        "9 Sep | 12:30 PM-1:30 PM",
-        "Introduction to Data Analytics - I",
-        "12 Sep | 5:00 AM-7:00 AM",
-        "Introduction to Data Analytics - II",
-        "12 Sep | 8:30 AM-10:30 AM",
         "Mentor Review Hour",
         "13 Sep | 5:30 AM-7:00 AM",
         "Case Hours: EDA",
@@ -401,19 +395,13 @@
         "LLMs: How they Work",
         "12 Dec | 5:00 AM-7:00 AM",
         "Prompt Engineering",
-        "12 Dec | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
-        "13 Dec | 5:30 AM-7:00 AM",
-        "Case Hours: Database Automation",
-        "13 Dec | 8:30 AM-10:30 AM"
+        "12 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "16",
       "topics": [
-        "RAGs & Fine Tuning",
-        "19 Dec | 5:00 AM-7:00 AM",
         "AI Workflows",
         "19 Dec | 8:30 AM-10:30 AM",
         "Case Hours: AI Workflows",
@@ -460,7 +448,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-08-10T10:58:05.732697Z",
+  "last_updated": "2026-08-11T10:42:36.354873Z",
   "source_url": "https://nextleap.app/course/data-analyst-course",
   "mode": "Live sessions on Zoom",
   "timeline": "4 months",

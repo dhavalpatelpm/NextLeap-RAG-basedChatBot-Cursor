@@ -206,9 +206,9 @@
         "12 Sep | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
         "12 Sep | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 1 Guidance + Meet Your mentor",
         "13 Sep | 5:30 AM-7:00 AM",
-        "Case Hours: Swiggy",
+        "Case Hours: KPI Trees (Swiggy)",
         "13 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -220,9 +220,9 @@
         "19 Sep | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
         "19 Sep | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 1 Feedback",
         "20 Sep | 5:30 AM-7:00 AM",
-        "Case hours - Segmenting for Scale",
+        "Case hours - Segmentation (Peppo)",
         "20 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -230,13 +230,13 @@
     {
       "week": "4",
       "topics": [
-        "Problem Framing",
+        "Problem Framing & Ideation",
         "26 Sep | 5:00 AM-7:00 AM",
         "Capturing Business Requirements",
         "26 Sep | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 2 Guidance",
         "27 Sep | 5:30 AM-7:00 AM",
-        "Case Hours: BRD",
+        "Case Hours: BRD (PhonePe)",
         "27 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -244,13 +244,13 @@
     {
       "week": "5",
       "topics": [
-        "Metrics and Analysis - I",
+        "User Flows & Wireframing",
         "3 Oct | 5:00 AM-7:00 AM",
-        "Metrics and Analysis - II",
+        "Prototyping using AI tools",
         "3 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 2 Feedback",
         "4 Oct | 5:30 AM-7:00 AM",
-        "Case Hours: Metrics",
+        "Case Hours: Product Sense (GameOn)",
         "4 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -258,13 +258,13 @@
     {
       "week": "6",
       "topics": [
-        "Introduction to Data Analytics - I",
+        "Types of Data & Metrics",
         "17 Oct | 5:00 AM-7:00 AM",
-        "Introduction to Data Analytics - II",
+        "Data Instrumentation & Tracking",
         "17 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Types of Analysis & Intro to EDA",
         "18 Oct | 5:30 AM-7:00 AM",
-        "Case Hours : EDA",
+        "Case Hours: Metrics (TBD)",
         "18 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -272,13 +272,13 @@
     {
       "week": "7",
       "topics": [
-        "Data Preparation using Excel - I",
+        "Excel: Basics",
         "24 Oct | 5:00 AM-7:00 AM",
-        "Data Preparation using Excel - II",
+        "Excel: Data Cleaning",
         "24 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Meet your Mentor + Milestone 3 Guidance",
         "25 Oct | 5:30 AM-7:00 AM",
-        "Case Hours - EDA using Excel",
+        "Excel: Functions",
         "25 Oct | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -286,13 +286,13 @@
     {
       "week": "8",
       "topics": [
-        "Lookup Functions in Excel",
+        "Excel: Conditional Functions",
         "31 Oct | 5:00 AM-7:00 AM",
-        "Advanced Data Analysis using Excel",
+        "Excel: LOOKUP Functions",
         "31 Oct | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 3 Feedback",
         "1 Nov | 5:30 AM-7:00 AM",
-        "Case Hours - Cohort & Funnel Analysis",
+        "Practice Test: Basics, Data Cleaning & Functions",
         "1 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -302,11 +302,11 @@
       "topics": [
         "Pivot Tables in Excel",
         "7 Nov | 5:00 AM-7:00 AM",
-        "Dashboarding using Excel",
+        "Excel: Charts, Conditional Formatting & Dashboards",
         "7 Nov | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 4 Guidance",
         "8 Nov | 5:30 AM-7:00 AM",
-        "Case Hours : Analysis using Excel",
+        "Practice Test: LOOKUP & Conditional Functions",
         "8 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -314,13 +314,13 @@
     {
       "week": "10",
       "topics": [
-        "Data Analysis using SQL - I",
+        "SQL - Foundations",
         "14 Nov | 5:00 AM-7:00 AM",
-        "Data Analysis using SQL - II",
+        "SQL: Aggregate Functions",
         "14 Nov | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 4 Feedback",
         "15 Nov | 5:30 AM-7:00 AM",
-        "Case Hours - IPL",
+        "Practice Test: Entire Excel Module",
         "15 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -328,13 +328,13 @@
     {
       "week": "11",
       "topics": [
-        "Data Manipulation with SQL - I",
+        "SQL - INNER JOIN, LEFT JOIN",
         "21 Nov | 5:00 AM-7:00 AM",
-        "Data Manipulation with SQL - II",
+        "SQL: RIGHT JOIN, SELF JOIN",
         "21 Nov | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 5 Guidance",
         "22 Nov | 5:30 AM-7:00 AM",
-        "Case Hours - Airbnb",
+        "Practice Test: Aggregate Functions",
         "22 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -342,13 +342,13 @@
     {
       "week": "12",
       "topics": [
-        "Advanced Data Analysis with SQL - I",
+        "SQL - Sub-queries",
         "28 Nov | 5:00 AM-7:00 AM",
-        "Advanced Data Analysis with SQL - II",
+        "SQL: CTEs",
         "28 Nov | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 5 Feedback",
         "29 Nov | 5:30 AM-7:00 AM",
-        "Case Hours - Airbnb II",
+        "Practice Test: JOINS",
         "29 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -356,13 +356,13 @@
     {
       "week": "13",
       "topics": [
-        "Introduction to Data Visualisation - I",
+        "SQL - Window Functions",
         "5 Dec | 5:00 AM-7:00 AM",
-        "Introduction to Data Visualisation - II",
+        "SQL - Window Functions Contd.",
         "5 Dec | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 6 Guidance",
         "6 Dec | 5:30 AM-7:00 AM",
-        "Case Hours - Nextleap",
+        "Practice Test: Sub-Queries & CTEs",
         "6 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -370,13 +370,13 @@
     {
       "week": "14",
       "topics": [
-        "Data Preparation & Exploration with Tableau - I",
+        "Tableau: Loading & Data Cleaning",
         "12 Dec | 5:00 AM-7:00 AM",
-        "Data Preparation & Exploration with Tableau - II",
+        "Tableau: Aggregation & Filters",
         "12 Dec | 8:30 AM-10:30 AM",
-        "Mentor Review Hour",
+        "Mentor Lab: Milestone 6 Feedback",
         "13 Dec | 5:30 AM-7:00 AM",
-        "Case Hours - Nextleap",
+        "Practice Test: Window Functions",
         "13 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -384,11 +384,11 @@
     {
       "week": "15",
       "topics": [
-        "LLMs: How they Work",
+        "Tableau: Charts",
         "19 Dec | 5:00 AM-7:00 AM",
-        "Prompt Engineering",
+        "Tableau: LOD expressions & Dashboarding",
         "19 Dec | 8:30 AM-10:30 AM",
-        "Case Hours: Database Automation",
+        "Practice Test: Entire SQL Module",
         "20 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -396,11 +396,13 @@
     {
       "week": "16",
       "topics": [
-        "RAGs & Fine Tuning",
+        "AI: Intro to LLMs",
         "26 Dec | 5:00 AM-7:00 AM",
-        "AI Workflows",
+        "AI: Prompt Engineering",
         "26 Dec | 8:30 AM-10:30 AM",
-        "Case Hours: AI Workflows",
+        "AI Build Hours:",
+        "27 Dec | 5:00 AM-7:00 AM",
+        "AI Build Hours:",
         "27 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -408,13 +410,13 @@
     {
       "week": "17",
       "topics": [
-        "Interview Prep: Guesstimates",
+        "AI: RAGs",
         "2 Jan | 5:00 AM-7:00 AM",
-        "Interview Prep: RCAs",
+        "AI: Workflow automations",
         "2 Jan | 8:30 AM-10:30 AM",
-        "Mock Interviews",
+        "AI Build Hours: Building Workflow Automations",
         "3 Jan | 5:00 AM-7:00 AM",
-        "Mock Interviews",
+        "AI Build Hours: Building a RAG Pipeline",
         "3 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -422,14 +424,28 @@
     {
       "week": "18",
       "topics": [
-        "Interview Prep: SQL",
+        "Interview Prep: Guesstimates",
         "9 Jan | 5:00 AM-7:00 AM",
-        "Interview Prep: SQL",
+        "Interview Prep: RCAs",
         "9 Jan | 8:30 AM-10:30 AM",
-        "Mock Interviews",
+        "Mock Interviews: Guesstimates",
         "10 Jan | 5:00 AM-7:00 AM",
-        "Mock Interviews",
-        "10 Jan | 8:30 AM-10:30 AM",
+        "Mock Interviews: RCAs",
+        "10 Jan | 8:30 AM-10:30 AM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "19",
+      "topics": [
+        "Interview Prep: SQL",
+        "15 Jan | 8:30 PM-10:30 AM",
+        "Interview Prep: SQL",
+        "16 Jan | 5:00 AM-7:00 AM",
+        "Mock Interviews: SQL",
+        "17 Jan | 5:00 AM-7:00 AM",
+        "Mock Interviews: Metrics",
+        "17 Jan | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap Business Analyst Fellowship?",
         "Who is eligible to apply for the NextLeap Business Analyst Fellowship?",
@@ -691,7 +707,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-08-10T10:58:05.734060Z",
+  "last_updated": "2026-08-11T10:42:36.356511Z",
   "source_url": "https://nextleap.app/course/business-analyst-course",
   "total_live_classes": "150+ hours",
   "live_classes": "150+ hours",
