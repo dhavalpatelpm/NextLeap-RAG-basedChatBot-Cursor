@@ -179,7 +179,9 @@
         "AI System Design",
         "12 Sep | 8:30 AM-10:30 AM",
         "Build Hour: Building with APIs",
-        "13 Sep | 5:00 AM-7:00 AM"
+        "13 Sep | 5:00 AM-7:00 AM",
+        "Build Hours: Learning how to deploy",
+        "13 Sep | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -398,7 +400,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-08-24T10:28:35.817048Z",
+  "last_updated": "2026-08-25T10:22:13.637763Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
