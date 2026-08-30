@@ -23,7 +23,6 @@
     "current_price": "₹34999",
     "original_price": "₹39999",
     "emi_from": "₹1421/month",
-    "price_increase_info": "Price increase from 30",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -202,13 +201,13 @@
     {
       "week": "4",
       "topics": [
-        "Live Session: RAGs & Fine Tuning",
+        "Live Session: RAG fundamentals & types",
         "26 Sep | 5:00 AM-7:00 AM",
-        "Live Session: AI Workflow Automations",
+        "Live Session: Advanced RAGs - Graph & Vector RAGs",
         "26 Sep | 8:30 AM-10:30 AM",
         "Build Hours: Building a RAG Chatbot",
-        "27 Sep | 8:30 AM-10:30 AM",
-        "Build Hours: Building a RAG Chatbot",
+        "27 Sep | 5:00 AM-7:00 AM",
+        "Build Hours: Building a Graph RAG in production",
         "27 Sep | 8:30 AM-10:30 AM",
         "Build Hours: Building a RAG Chatbot",
         "27 Sep | 8:30 AM-10:30 AM"
@@ -400,7 +399,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-08-29T14:48:13.909811Z",
+  "last_updated": "2026-08-30T14:35:39.403048Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
