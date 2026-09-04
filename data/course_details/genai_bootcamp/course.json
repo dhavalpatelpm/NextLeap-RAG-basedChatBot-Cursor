@@ -42,28 +42,8 @@
   },
   "instructors": [
     {
-      "name": "Arindam Mukherjee",
-      "role": "Co-founder of NextLeap, previously at Flipkart and TripAdvisor"
-    },
-    {
-      "name": "Karthik Singh",
-      "role": "Product Designer 2 at Microsoft"
-    },
-    {
-      "name": "Ishaan Tiwari",
-      "role": "Senior Staff Data Scientist and Team Lead Manager at Meta, previously at Facebook"
-    },
-    {
-      "name": "Shailesh Sharma",
-      "role": "Senior Product Manager, IIM Bangalore, IIT Kanpur, working at Myntra"
-    },
-    {
-      "name": "Prashant Bhaskar",
-      "role": "Product Manager at Uber"
-    },
-    {
-      "name": "Saksham Arora",
-      "role": "Software Engineer 2 at Intuit"
+      "name": "Software Engineer 2 @ Intuit | Ex",
+      "role": "Microsoft"
     }
   ],
   "learn_from_instructors": [],
@@ -430,7 +410,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-09-03T14:02:40.106785Z",
+  "last_updated": "2026-09-04T13:53:51.096147Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
