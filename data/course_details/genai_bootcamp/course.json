@@ -285,9 +285,15 @@
       "week": "10",
       "topics": [
         "Demo Day 3",
-        "1 Dec | 2:30 PM-4:30 PM",
+        "1 Dec | 2:30 PM-4:30 PM"
+      ],
+      "tools": []
+    },
+    {
+      "week": "11",
+      "topics": [
         "Build Hours: Capstone Project Guidance",
-        "5 Dec | 5:00 AM-7:00 AM",
+        "18 Dec | 5:00 AM-7:00 AM",
         "Frequently Asked Questions",
         "Do I need a technical or coding background to join?",
         "What experience level is ideal for this bootcamp?",
@@ -298,7 +304,9 @@
         "Which tools will I learn?",
         "How are projects evaluated?",
         "Will I work on real-world projects?",
-        "What makes this different from free YouTube tutorials?"
+        "What makes this different from free YouTube tutorials?",
+        "Do you provide career support?",
+        "Will this help me get a job or promotion?"
       ],
       "tools": []
     }
@@ -410,7 +418,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-09-21T16:05:52.289508Z",
+  "last_updated": "2026-09-22T14:16:45.453538Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
