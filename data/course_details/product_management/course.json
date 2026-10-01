@@ -32,13 +32,14 @@
     "Career mentorship"
   ],
   "cohort_info": {
-    "cohort_number": "54",
-    "starts_on": "Oct 2"
+    "cohort_number": "55",
+    "starts_on": "Nov 6"
   },
   "fee": {
-    "current_price": "₹40999",
+    "current_price": "₹37999",
     "original_price": "₹49999",
     "emi_from": "₹1577/month",
+    "price_increase_info": "Price increase from 4",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -245,9 +246,7 @@
       "week": "1",
       "topics": [
         "Kick off call",
-        "3 Oct | 10:30 AM-12:00 PM",
-        "Meet your Mentor",
-        "4 Oct | 5:00 AM-6:00 AM"
+        "4 Nov | 2:30 PM-4:30 PM"
       ],
       "tools": []
     },
@@ -255,13 +254,13 @@
       "week": "2",
       "topics": [
         "Systems Thinking",
-        "10 Oct | 5:00 AM-7:00 AM",
+        "14 Nov | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
-        "10 Oct | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 1 Guidance",
-        "11 Oct | 5:00 AM-7:00 AM",
+        "14 Nov | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 1 Guidance + Meet your mentor",
+        "15 Nov | 5:00 AM-7:00 AM",
         "Case Hours: KPI Trees",
-        "11 Oct | 8:30 AM-10:30 AM"
+        "15 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -269,13 +268,13 @@
       "week": "3",
       "topics": [
         "Mapping Outcomes to Opportunities",
-        "17 Oct | 5:00 AM-7:00 AM",
+        "21 Nov | 5:00 AM-7:00 AM",
         "Deriving Insights from User Research",
-        "17 Oct | 8:30 AM-10:30 AM",
+        "21 Nov | 8:30 AM-10:30 AM",
         "Mentor Lab - Milestone 1 Feedback",
-        "18 Oct | 5:00 AM-7:00 AM",
+        "22 Nov | 5:00 AM-7:00 AM",
         "Case hours - Segmenting for Scale",
-        "18 Oct | 8:30 AM-10:30 AM"
+        "22 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -283,27 +282,27 @@
       "week": "4",
       "topics": [
         "Problem Framing & Ideation",
-        "24 Oct | 5:00 AM-7:00 AM",
+        "28 Nov | 5:00 AM-7:00 AM",
         "Metrics & Data Analytics",
-        "24 Oct | 8:30 AM-10:30 AM",
+        "28 Nov | 8:30 AM-10:30 AM",
         "Mentor Lab - Milestone 2 Guidance",
-        "25 Oct | 5:00 AM-7:00 AM",
+        "29 Nov | 5:00 AM-7:00 AM",
         "Case Hours: Metrics",
-        "25 Oct | 8:30 AM-10:30 AM"
+        "29 Nov | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "5",
       "topics": [
-        "Mentor Labs - Milestone 2 Feedback",
-        "31 Oct | 5:00 AM-7:00 AM",
-        "Case Hours: Product Sense",
-        "31 Oct | 8:30 AM-10:30 AM",
         "User Flows & Wireframing",
-        "1 Nov | 5:00 AM-7:00 AM",
+        "5 Dec | 5:00 AM-7:00 AM",
         "UX Design Foundations",
-        "1 Nov | 8:30 AM-10:30 AM"
+        "5 Dec | 8:30 AM-10:30 AM",
+        "Mentor Labs - Milestone 2 Feedback",
+        "6 Dec | 5:00 AM-7:00 AM",
+        "Case Hours: Product Sense",
+        "6 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -311,10 +310,10 @@
       "week": "6",
       "topics": [
         "Product Growth",
-        "7 Nov | 4:30 AM-6:30 AM",
-        "7 Nov | 7:00 AM-9:00 AM",
+        "12 Dec | 5:00 AM-7:00 AM",
+        "12 Dec | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Guidance",
-        "8 Nov | 5:00 AM-7:00 AM"
+        "13 Dec | 5:00 AM-7:00 AM"
       ],
       "tools": [
         "MVP Prototyping with AI"
@@ -324,13 +323,13 @@
       "week": "7",
       "topics": [
         "APIs, Webhooks & SDKs",
-        "14 Nov | 5:00 AM-7:00 AM",
+        "19 Dec | 5:00 AM-7:00 AM",
         "AI System Design",
-        "14 Nov | 8:30 AM-10:30 AM",
+        "19 Dec | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Feedback",
-        "15 Nov | 5:00 AM-7:00 AM",
+        "20 Dec | 5:00 AM-7:00 AM",
         "Build Hours: Building with APIs",
-        "15 Nov | 8:30 AM-10:30 AM"
+        "20 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -338,13 +337,13 @@
       "week": "8",
       "topics": [
         "LLMs: How they Work",
-        "21 Nov | 8:00 AM-10:00 AM",
+        "26 Dec | 5:00 AM-7:00 AM",
         "Prompt Engineering",
-        "21 Nov | 11:00 AM-1:00 PM",
+        "26 Dec | 8:30 AM-10:30 AM",
         "Build Hours: Building AI prototypes (backend)",
-        "22 Nov | 5:00 AM-7:00 AM",
+        "27 Dec | 5:00 AM-7:00 AM",
         "Build Hours: Building AI prototypes (Frontend)",
-        "22 Nov | 8:30 AM-10:30 AM"
+        "27 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -352,13 +351,13 @@
       "week": "9",
       "topics": [
         "RAG fundamentals & types",
-        "28 Nov | 5:00 AM-7:00 AM",
+        "2 Jan | 5:00 AM-7:00 AM",
         "Advanced RAGs: Graph & Vector RAGs",
-        "28 Nov | 8:30 AM-10:30 AM",
+        "2 Jan | 8:30 AM-10:30 AM",
         "Build Hours: Building a RAG Chatbot",
-        "29 Nov | 5:00 AM-7:00 AM",
+        "3 Jan | 5:00 AM-7:00 AM",
         "Build Hours: Building a RAG Chatbot",
-        "29 Nov | 8:30 AM-10:30 AM"
+        "3 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -366,13 +365,13 @@
       "week": "10",
       "topics": [
         "Context Engineering: Sessions, Memory, Tools",
-        "5 Dec | 5:00 AM-7:00 AM",
+        "9 Jan | 5:00 AM-7:00 AM",
         "AI workflows, Agents & MCP",
-        "5 Dec | 8:30 AM-10:30 AM",
+        "9 Jan | 8:30 AM-10:30 AM",
         "Build Hours: Building linear AI workflows (with n8n)",
-        "6 Dec | 5:00 AM-7:00 AM",
+        "10 Jan | 5:00 AM-7:00 AM",
         "Build Hours: Building Agents (with Zapier)",
-        "6 Dec | 8:30 AM-10:30 AM"
+        "10 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -380,9 +379,9 @@
       "week": "11",
       "topics": [
         "AI Evals",
-        "12 Dec | 5:00 AM-7:00 AM",
+        "16 Jan | 5:00 AM-7:00 AM",
         "How to Test AI Products",
-        "12 Dec | 8:30 AM-10:30 AM"
+        "16 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -390,13 +389,13 @@
       "week": "12",
       "topics": [
         "Interview Preparation - Guesstimates",
-        "19 Dec | 5:00 AM-7:00 AM",
+        "23 Jan | 5:00 AM-7:00 AM",
         "Interview Preparation - RCAs",
-        "19 Dec | 8:30 AM-10:30 AM",
+        "23 Jan | 8:30 AM-10:30 AM",
         "Mock Interviews - RCAs",
-        "20 Dec | 5:00 AM-7:00 AM",
+        "24 Jan | 5:00 AM-7:00 AM",
         "Mock Interviews - Guesstimates",
-        "20 Dec | 8:30 AM-10:30 AM"
+        "24 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -404,13 +403,13 @@
       "week": "13",
       "topics": [
         "Interview Preparation - Product Design",
-        "26 Dec | 5:00 AM-7:00 AM",
+        "30 Jan | 5:00 AM-7:00 AM",
         "Interview Preparation - Metrics",
-        "26 Dec | 8:30 AM-10:30 AM",
+        "30 Jan | 8:30 AM-10:30 AM",
         "Mock Interviews - Product Design",
-        "27 Dec | 5:00 AM-7:00 AM",
+        "31 Jan | 5:00 AM-7:00 AM",
         "Mock Interviews - Metrics",
-        "27 Dec | 8:30 AM-10:30 AM",
+        "31 Jan | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap Product Manager Fellowship?",
         "Who is eligible to apply for the NextLeap Product Manager Fellowship?",
@@ -679,7 +678,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-09-30T16:11:05.142424Z",
+  "last_updated": "2026-10-01T16:48:30.258114Z",
   "source_url": "https://nextleap.app/course/product-management-course",
   "live_classes": "100+ hours",
   "timeline": "4 months",
