@@ -201,9 +201,7 @@
       "week": "1",
       "topics": [
         "Kick-off Call",
-        "4 Nov | 2:30 PM-4:00 PM",
-        "Mentor Labs - Meet your Mentor",
-        "5 Nov | 2:30 PM-3:30 PM"
+        "4 Nov | 2:30 PM-4:00 PM"
       ],
       "tools": []
     },
@@ -214,7 +212,7 @@
         "14 Nov | 5:00 AM-7:00 AM",
         "Mapping Business Outcomes to Product Outcomes",
         "14 Nov | 8:30 AM-10:30 AM",
-        "Mentor Labs - Milestone 1 Guidance",
+        "Mentor Labs - Meet your mentor & Milestone 1 Guidance",
         "15 Nov | 5:00 AM-7:00 AM",
         "Case Hours: KPI Trees",
         "15 Nov | 8:30 AM-10:30 AM"
@@ -573,7 +571,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-10-08T17:05:51.088342Z",
+  "last_updated": "2026-10-09T16:43:40.587403Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",
