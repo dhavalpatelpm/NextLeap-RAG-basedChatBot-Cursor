@@ -16,13 +16,14 @@
   "class_type": [],
   "career_support": [],
   "cohort_info": {
-    "cohort_number": "10",
-    "starts_on": "Nov 3"
+    "cohort_number": "11",
+    "starts_on": "Dec 4"
   },
   "fee": {
-    "current_price": "₹35999",
+    "current_price": "₹31999",
     "original_price": "₹39999",
     "emi_from": "₹1421/month",
+    "price_increase_info": "Price increase from 6",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -166,77 +167,77 @@
       "week": "1",
       "topics": [
         "Live Session : Kick-off Call",
-        "4 Nov | 2:30 PM-4:00 PM"
+        "5 Dec | 5:30 AM-7:00 AM",
+        "Fika - Meet your cohort",
+        "6 Dec | 8:30 AM-10:00 AM"
       ],
       "tools": []
     },
     {
       "week": "2",
       "topics": [
-        "Fika - Meet your cohort",
-        "10 Nov | 6:30 PM-6:29 PM",
-        "APIs, Webhooks & SDKs",
-        "14 Nov | 5:00 AM-7:00 AM",
-        "AI System Design",
-        "14 Nov | 8:30 AM-10:30 AM",
-        "Build Hour: Building with APIs",
-        "15 Nov | 5:00 AM-7:00 AM",
-        "Build Hours: Learning how to deploy",
-        "15 Nov | 8:30 AM-10:30 AM"
+        "LLMs: How they Work & how to choose models",
+        "12 Dec | 5:00 AM-7:00 AM",
+        "Prompt Engineering: different techniques",
+        "12 Dec | 8:30 AM-10:30 AM",
+        "Build Hours: Building AI prototypes (frontend)",
+        "13 Dec | 5:00 AM-7:00 AM",
+        "Build Hours: Building AI prototypes (backend)",
+        "13 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "3",
       "topics": [
-        "LLMs: How they Work & how to choose models",
-        "21 Nov | 5:00 AM-7:00 AM",
-        "Prompt Engineering: different techniques",
-        "21 Nov | 8:30 AM-10:30 AM",
-        "Build Hours: Building AI prototypes (backend)",
-        "22 Nov | 5:00 AM-7:00 AM",
-        "Build Hours: Building AI prototypes (frontend)",
-        "22 Nov | 8:30 AM-10:30 AM"
+        "RAG fundamentals & types",
+        "19 Dec | 5:00 AM-7:00 AM",
+        "Advanced RAGs: Graph & Vector RAGs",
+        "19 Dec | 8:30 AM-10:30 AM",
+        "Build Hours: Building a RAG Chatbot",
+        "20 Dec | 5:00 AM-7:00 AM",
+        "Build Hours: Building a Graph RAG in production",
+        "20 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "4",
       "topics": [
-        "Live Session: RAG fundamentals & types",
-        "28 Nov | 5:00 AM-7:00 AM",
-        "Live Session: Advanced RAGs: Graph & Vector RAGs",
-        "28 Nov | 8:30 AM-10:30 AM",
-        "Build Hours: Building a RAG Chatbot",
-        "29 Nov | 8:30 AM-10:30 AM",
-        "Build Hours: Building a Graph RAG in production",
-        "29 Nov | 8:30 AM-10:30 AM"
+        "Demo Day 1 - RAG Chatbot",
+        "24 Dec | 2:30 PM-4:30 PM",
+        "Context Engineering: Sessions, Memory, Tools",
+        "26 Dec | 5:00 AM-7:00 AM",
+        "AI workflows, Agents & MCP",
+        "26 Dec | 8:30 AM-10:30 AM",
+        "Build Hours: Building linear workflows (with Langchain)",
+        "27 Dec | 5:00 AM-7:00 AM",
+        "Build Hours: Building Agents (with LangGraph)",
+        "27 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "5",
       "topics": [
-        "Context Engineering: Sessions, Memory, Tools",
-        "5 Dec | 5:00 AM-7:00 AM",
-        "AI workflows, Agents & MCP",
-        "5 Dec | 8:30 AM-10:30 AM",
-        "Build Hours: Building linear workflows (with Langchain)",
-        "6 Dec | 5:00 AM-7:00 AM",
-        "Build Hours: Building Agents (with LangGraph)",
-        "6 Dec | 8:30 AM-10:30 AM"
+        "Multi-Agent and sub-agent architectures",
+        "2 Jan | 5:00 AM-7:00 AM",
+        "Agent Orchestration, Loops & Harness Engineering",
+        "2 Jan | 8:30 AM-10:30 AM",
+        "Build Hours: Building multi-agents (with LangGraph)",
+        "3 Jan | 5:00 AM-7:00 AM",
+        "Build Hours: Running parallel agents",
+        "3 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "6",
       "topics": [
-        "Demo Day 1 - RAG Chatbot",
-        "8 Dec | 2:30 PM-4:30 PM",
         "Live Session: AI Evals - Understanding failure modes",
-        "12 Dec | 5:00 AM-7:00 AM",
+        "9 Jan | 5:00 AM-7:00 AM",
         "Live Session: AI Evals - How to Test AI Products",
-        "12 Dec | 8:30 AM-10:30 AM"
+        "9 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
@@ -244,57 +245,35 @@
       "week": "7",
       "topics": [
         "Demo Day 2",
-        "15 Dec | 2:30 PM-4:30 PM",
+        "14 Jan | 2:30 PM-4:30 PM",
         "Live Session: Claude Code - setup, memory, project file structure",
-        "19 Dec | 5:00 AM-7:00 AM",
+        "16 Jan | 5:00 AM-7:00 AM",
         "Live Session: Claude Code - Skills, / commands, MCPs",
-        "19 Dec | 8:30 AM-10:30 AM",
+        "16 Jan | 8:30 AM-10:30 AM",
         "Live Session: Claude Code - Managed Agents & sub-agents",
-        "20 Dec | 5:00 AM-7:00 AM",
+        "17 Jan | 5:00 AM-7:00 AM",
         "Live Session : Claude Code - Dynamic Workflows",
-        "20 Dec | 8:30 AM-10:30 AM"
+        "17 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "8",
       "topics": [
-        "Live session: Agentic Software Development: different agents & roles",
-        "26 Dec | 5:00 AM-7:00 AM",
-        "Live Session: Agentic Software Development- building the agents",
-        "26 Dec | 8:30 AM-10:30 AM",
-        "Live Sessions: Agentic Software Development - Running parallel agents",
-        "27 Dec | 5:00 AM-7:00 AM",
-        "Live Sessions: Agentic Software Development -Build-Review-QA loops",
-        "27 Dec | 8:30 AM-10:30 AM"
+        "Building with Hermes: persistent orchestration",
+        "23 Jan | 5:00 AM-7:00 AM",
+        "Building with Hermes: Building an AI personal assistant",
+        "23 Jan | 8:30 AM-10:30 AM"
       ],
       "tools": []
     },
     {
       "week": "9",
       "topics": [
-        "Live Session: Multi-Agent system architectures",
-        "2 Jan | 5:00 AM-7:00 AM",
-        "Build Hours : Building with Hermes: persistent orchestration",
-        "2 Jan | 8:30 AM-10:30 AM",
-        "Build Hours : Building with Hermes - Building an AI personal assistant",
-        "3 Jan | 5:00 AM-7:00 AM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "10",
-      "topics": [
         "Demo Day 3",
-        "5 Jan | 2:30 PM-4:30 PM"
-      ],
-      "tools": []
-    },
-    {
-      "week": "11",
-      "topics": [
+        "18 Feb | 2:30 PM-4:30 PM",
         "Build Hours: Capstone Project Guidance",
-        "22 Jan | 5:00 AM-7:00 AM",
+        "20 Feb | 2:30 PM-4:30 PM",
         "Frequently Asked Questions",
         "Do I need a technical or coding background to join?",
         "What experience level is ideal for this bootcamp?",
@@ -305,9 +284,7 @@
         "Which tools will I learn?",
         "How are projects evaluated?",
         "Will I work on real-world projects?",
-        "What makes this different from free YouTube tutorials?",
-        "Do you provide career support?",
-        "Will this help me get a job or promotion?"
+        "What makes this different from free YouTube tutorials?"
       ],
       "tools": []
     }
@@ -419,7 +396,7 @@
     "curated jobs"
   ],
   "source": "merged",
-  "last_updated": "2026-10-31T15:34:33.227218Z",
+  "last_updated": "2026-11-01T16:32:25.612391Z",
   "source_url": "https://nextleap.app/course/generative-ai-course",
   "total_learning_hours": "60+ hours",
   "live_classes_hours": "60+ hours",
