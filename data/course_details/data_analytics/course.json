@@ -29,9 +29,10 @@
     "starts_on": "Dec 4"
   },
   "fee": {
-    "current_price": "₹39999",
+    "current_price": "₹40999",
     "original_price": "₹49999",
     "emi_from": "₹1763/month",
+    "price_increase_info": "Price increase from 22",
     "discounts": []
   },
   "live_class_schedule": [],
@@ -469,7 +470,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-11-15T16:43:08.189392Z",
+  "last_updated": "2026-11-16T19:57:38.242132Z",
   "source_url": "https://nextleap.app/course/data-analyst-course",
   "mode": "Live sessions on Zoom",
   "timeline": "4 months",
