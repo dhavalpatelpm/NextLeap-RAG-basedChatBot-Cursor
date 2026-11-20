@@ -201,9 +201,7 @@
       "week": "1",
       "topics": [
         "Kick-off Call",
-        "5 Dec | 5:30 AM-7:00 AM",
-        "Mentor Labs - Meet your Mentor",
-        "6 Dec | 5:00 AM-6:00 AM"
+        "5 Dec | 5:30 AM-7:00 AM"
       ],
       "tools": []
     },
@@ -573,7 +571,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-11-19T18:46:07.957733Z",
+  "last_updated": "2026-11-20T18:08:00.351249Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",
