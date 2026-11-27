@@ -214,7 +214,7 @@
         "12 Dec | 8:30 AM-10:30 AM",
         "Mentor Labs - Meet your Mentor & Milestone 1 Guidance (Aditi)",
         "13 Dec | 5:00 AM-7:00 AM",
-        "Case Hours: KPI Trees",
+        "Case Hours: KPI Trees (Swiggy)",
         "13 Dec | 8:30 AM-10:30 AM"
       ],
       "tools": []
@@ -228,7 +228,7 @@
         "19 Dec | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 1 Feedback (Aditi)",
         "20 Dec | 5:00 AM-7:00 AM",
-        "Case Hours: Segmentation",
+        "Case Hours: Segmentation (Peppo)",
         "20 Dec | 10:30 AM-12:30 PM"
       ],
       "tools": []
@@ -280,7 +280,7 @@
       "topics": [
         "Visual Design Language",
         "16 Jan | 5:00 AM-7:00 AM",
-        "Building a Visual Design Language - 2",
+        "Visual Design Language - 2",
         "16 Jan | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 3 Feedback (Aditi)",
         "17 Jan | 5:00 AM-7:00 AM",
@@ -320,9 +320,9 @@
     {
       "week": "10",
       "topics": [
-        "iOS HIG Deepdive",
+        "Building a UX Design Portfolio",
         "6 Feb | 5:00 AM-7:00 AM",
-        "iOS HIG Deepdive",
+        "Presenting a UX Design Case Study",
         "6 Feb | 8:30 AM-10:30 AM",
         "Mentor Labs - Milestone 5 Guidance (Aditi)",
         "7 Feb | 5:00 AM-7:00 AM",
@@ -346,10 +346,13 @@
     {
       "week": "12",
       "topics": [
-        "Building a UX Design Portfolio",
         "20 Feb | 5:00 AM-7:00 AM",
-        "Presenting a UX Design Case Study",
+        "Building Design Systems with AI",
         "20 Feb | 8:30 AM-10:30 AM",
+        "Claude Code in Design",
+        "21 Feb | 5:00 AM-7:00 AM",
+        "Prototyping using Figma Make",
+        "21 Feb | 8:30 AM-10:30 AM",
         "Frequently Asked Questions",
         "What is the NextLeap UI/UX Designer Fellowship?",
         "What if I miss a live session?",
@@ -357,12 +360,11 @@
         "I'm a pre-final year student. Am I eligible to apply?",
         "What is the graduation project?",
         "Can I re-submit my graduation project?",
-        "What's the problem statement that I'll be required to work on for the graduation project?",
-        "Who all will be eligible to get access to career services?",
-        "What’s included in the career services?",
-        "If I don’t score more than 70%, will I still get a completion certificate?"
+        "What's the problem statement that I'll be required to work on for the graduation project?"
       ],
-      "tools": []
+      "tools": [
+        "Research using AI"
+      ]
     },
     {
       "week": "1",
@@ -575,7 +577,7 @@
     "mock interviews"
   ],
   "source": "merged",
-  "last_updated": "2026-11-26T19:22:14.232181Z",
+  "last_updated": "2026-11-27T19:16:27.868175Z",
   "source_url": "https://nextleap.app/course/ui-ux-design-course",
   "total_live_classes": "100+ hours",
   "live_classes": "100+ hours",
